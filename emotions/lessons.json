@@ -1,0 +1,962 @@
+[
+  {
+    "world_slug": "emotions",
+    "lesson_number": 1,
+    "slug": "hello-feelings-5-6",
+    "title": "Hello, feelings",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 8,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Meet the five core feelings — joy, sadness, anger, fear, and calm — and learn that all of them are welcome.",
+    "parent_guide": "This is your child's first lesson. Keep it light and playful. The goal is simply to name five feelings and signal that all of them are okay. Don't push for depth — a child saying 'I feel happy' is exactly enough. Model the exercise yourself: name your own feeling first. This removes the performance pressure and shows that feelings aren't just for children.",
+    "story": {
+      "title": "Pip's five friends",
+      "body": "Pip the bear had five friends who visited every single day.\n\nThe first was Sunny — golden and warm, who made Pip want to dance and laugh and share their honey.\n\nThe second was Blue — soft and quiet, who came when something Pip loved was gone, and made Pip want to be held.\n\nThe third was Flame — bright and hot, who arrived when something felt really, really unfair, and made Pip want to stomp.\n\nThe fourth was Flutter — small and quick, who showed up before new things, and made Pip's tummy feel full of butterflies.\n\nThe fifth was Still — calm and steady, like a deep pond, who came after everything else had passed through.\n\nOne day Pip asked: 'Which friend is the best one?'\n\nAnd all five friends said together: 'We all are. You need every one of us.'",
+      "discussion_prompt": "Which of Pip's friends visited you today? Can you show me what that friend feels like in your body?"
+    },
+    "explore": [
+      {
+        "question": "What is a feeling?",
+        "answer": "A feeling is a message from inside you. It tells you something important about what is happening — like a little signal light. Feelings happen in your body and your heart at the same time."
+      },
+      {
+        "question": "Are some feelings bad?",
+        "answer": "No. Feelings are not good or bad — they are all useful. Even the uncomfortable ones. Anger tells you something is unfair. Fear keeps you safe. Sadness tells you something mattered. Joy says 'this is good, remember it.'"
+      },
+      {
+        "question": "What if I have lots of feelings at once?",
+        "answer": "That happens a lot! You can feel excited and a little scared at the same time. You can feel happy and a tiny bit sad. Feelings often come in pairs or groups. That is completely normal."
+      },
+      {
+        "question": "Your mirror — for you",
+        "answer": "Children learn from watching, not just listening. When you name your own feelings out loud — even small ones like 'I feel a bit tired today' or 'I'm really happy right now' — you teach your child that feelings are safe to talk about. This is the most powerful thing you can do.",
+        "is_parent_mirror": true
+      }
+    ],
+    "activities": [
+      {
+        "type": "Creative",
+        "name": "The feelings faces",
+        "description": "Draw five faces together — one for each feeling. Let your child decide what each face looks like. Put them on the fridge. Point to them during the week: 'Which face are you right now?'"
+      },
+      {
+        "type": "Game",
+        "name": "Feelings charades",
+        "description": "Take turns acting out a feeling with your whole body — no words allowed. The other person guesses. Be silly. Use big gestures. Laugh a lot. This helps feelings live in the body, not just the head."
+      },
+      {
+        "type": "Mindful",
+        "name": "The feelings check-in",
+        "description": "At the same time every day this week — perhaps at dinner or bedtime — each person says one feeling they had today. Just one. No explanation needed. This builds the habit of noticing."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Which of Pip's five friends visited you today?",
+        "note": "For ages 5–6: they can point to a drawing rather than speak. That's enough."
+      },
+      {
+        "prompt": "Where in your body did you feel it?",
+        "note": "Common answers: tummy, chest, face, hands. All are right."
+      },
+      {
+        "prompt": "Did any other friends visit too?",
+        "note": "Introduces the idea that multiple feelings can coexist."
+      },
+      {
+        "prompt": "For you: which of your own five friends visited today? Share your answer first.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which of these is true about feelings?",
+        "options": [
+          { "text": "Some feelings are bad and should be stopped", "correct": false },
+          { "text": "All feelings are useful — even the hard ones", "correct": true },
+          { "text": "Only happy feelings are welcome", "correct": false }
+        ]
+      },
+      {
+        "question": "In the story, what did Pip's five friends say when asked who was best?",
+        "options": [
+          { "text": "Sunny is the best because she is happy", "correct": false },
+          { "text": "We all are — you need every one of us", "correct": true },
+          { "text": "Still is the best because she is calm", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Emotional granularity",
+        "body": "Lisa Feldman Barrett's research shows that people who can distinguish between closely related feelings — 'anxious' vs 'overwhelmed' vs 'ashamed' — are measurably better at regulating them. The more precise your emotional vocabulary, the more control you have. You are teaching your child this today. You can build yours at the same time.",
+        "practice": "Three times this week, when you notice a feeling, name it with the most specific word you can find. Not 'stressed' — try: overwhelmed? afraid of failing? disappointed in myself? Notice how naming it changes your relationship to it."
+      },
+      {
+        "concept": "Why modelling matters more than teaching",
+        "body": "Children learn emotional literacy primarily through observation, not instruction. Hearing you say 'I'm feeling frustrated right now' is more powerful than any lesson. Brené Brown calls this 'emotional contagion' — children catch the emotional habits of adults around them before they can even speak.",
+        "reading": "Brené Brown — Atlas of the Heart. A comprehensive map of 87 emotions and experiences. The opening chapter alone will transform how you teach this lesson."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "emotions",
+    "lesson_number": 1,
+    "slug": "hello-feelings-7-8",
+    "title": "Hello, feelings",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 9,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Explore the five core feelings with more nuance — and begin to understand that feelings carry messages worth listening to.",
+    "parent_guide": "At 7–8, children can start to make connections between feelings and events. The goal of this lesson is not just to name feelings but to ask 'what is this feeling telling me?' Expect more conversation than with younger children. Let them lead — resist the urge to explain. Ask questions and wait.",
+    "story": {
+      "title": "The messenger",
+      "body": "Zara had a rule: only happy feelings were allowed inside her house.\n\nWhen Anger knocked on the door, Zara said 'Go away.' Anger kicked the door instead.\n\nWhen Sadness knocked, Zara turned off the lights and pretended she wasn't home. But Sadness sat on the doorstep all night.\n\nWhen Fear knocked, Zara ran and hid under her bed. But Fear just slid a note under the door.\n\nOne morning, Zara's mum found her under the bed, exhausted from hiding.\n\n'Why won't you let them in?' asked her mum.\n\n'Because they feel bad,' said Zara.\n\nHer mum sat on the floor beside her. 'They feel bad because they're trying to tell you something important. They're messengers. And you keep turning them away before you've read the message.'\n\nZara thought about this for a long time.\n\nThat afternoon, when Anger knocked, she opened the door.\n\n'What's the message?' she asked.\n\nAnd Anger said: 'Someone took something that mattered to you. I'm here to tell you it wasn't okay.'\n\nZara felt something loosen in her chest. 'Oh,' she said. 'I didn't know that's what you were saying.'",
+      "discussion_prompt": "Have you ever tried to push a feeling away? What happened? What do you think it was trying to tell you?"
+    },
+    "explore": [
+      {
+        "question": "What does it mean that feelings are messengers?",
+        "answer": "Every feeling is carrying information. Anger says something is unfair. Fear says something might not be safe. Sadness says something you loved has changed or gone. Joy says this is worth remembering. When you listen to the message, the feeling doesn't have to knock so loudly."
+      },
+      {
+        "question": "What happens if you try to stop a feeling?",
+        "answer": "Feelings don't go away when we ignore them — they find other ways out. They might show up as a headache, snapping at someone, or just a flat, heavy feeling you can't explain. It's always better to feel the feeling than to fight it."
+      },
+      {
+        "question": "How do you 'read the message' from a feeling?",
+        "answer": "You can ask yourself three questions: What am I feeling? Where am I feeling it in my body? What might this feeling be trying to tell me? You don't have to answer straight away. Sometimes just sitting with the question is enough."
+      },
+      {
+        "question": "Your mirror — emotional avoidance",
+        "answer": "Most adults are very good at pushing feelings aside, especially in front of their children. This lesson is about teaching your child not to do that — but it's also an invitation for you. Which feelings do you regularly turn away? What messages might they be carrying that you haven't yet read?",
+        "is_parent_mirror": true
+      }
+    ],
+    "activities": [
+      {
+        "type": "Creative",
+        "name": "The message box",
+        "description": "Draw a simple door on paper. Write a feeling on one side, and the message it carries on the other. Do one for each of the five feelings. Put them where you can see them. When a feeling visits this week, find its door and read the message."
+      },
+      {
+        "type": "Game",
+        "name": "Feeling detective",
+        "description": "Take turns describing a feeling without naming it — describe where you feel it in your body, what it makes you want to do, what colour it might be. The other person guesses the feeling. This builds body awareness and emotional vocabulary simultaneously."
+      },
+      {
+        "type": "Mindful",
+        "name": "The three questions",
+        "description": "Once this week, when you notice a strong feeling, pause and ask the three questions together: What am I feeling? Where am I feeling it? What might it be telling me? Do it out loud, together. Model the process for your child."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Which feeling knocked on your door this week? What was its message?"
+      },
+      {
+        "prompt": "Have you ever tried to push a feeling away? What happened next?"
+      },
+      {
+        "prompt": "If your biggest feeling this week had a colour and a shape, what would it be?"
+      },
+      {
+        "prompt": "For you: share a feeling you tried to push away this week and what it might have been trying to tell you.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happened when Zara tried to stop her feelings coming in?",
+        "options": [
+          { "text": "The feelings disappeared", "correct": false },
+          { "text": "The feelings found other ways to get her attention", "correct": true },
+          { "text": "She felt much better", "correct": false }
+        ]
+      },
+      {
+        "question": "What message did Anger carry for Zara?",
+        "options": [
+          { "text": "That she was a bad person", "correct": false },
+          { "text": "That something important was taken from her and it wasn't okay", "correct": true },
+          { "text": "That she should hit something", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Emotional suppression and its cost",
+        "body": "Research by James Gross at Stanford shows that suppressing emotional expression — the 'poker face' approach — doesn't reduce the internal experience of the emotion. It increases physiological stress responses while degrading social connection. You can't selectively numb: suppressing difficult emotions also suppresses joy. Your child is learning not to do this. The question is whether you're modelling the alternative.",
+        "practice": "This week, when you notice yourself suppressing a feeling in front of your child, try naming it instead. 'I'm feeling frustrated right now.' You don't need to explain why. Just name it and let it be there."
+      },
+      {
+        "concept": "Feelings as data, not directives",
+        "body": "Susan David's distinction: feelings are information, not instructions. Anger doesn't mean you must act on it. Fear doesn't mean you must avoid the thing. But both deserve to be heard before you decide what to do. This is what you're teaching your 7-year-old. It's also what most adults need to learn.",
+        "reading": "Susan David — Emotional Agility. The chapter on 'Hooked' — emotional patterns that run automatically — is directly relevant to what Zara experiences in the story."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "emotions",
+    "lesson_number": 1,
+    "slug": "hello-feelings-9-10",
+    "title": "Hello, feelings",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Develop a sophisticated emotional vocabulary and begin to understand the difference between experiencing a feeling and being defined by it.",
+    "parent_guide": "Nine and ten year olds are often in the middle of significant social complexity — friendship dynamics, performance pressure, identity questions. This lesson gives them language for that complexity. At this age, the conversation after the story will often be more valuable than the story itself. Make space for it. The journal prompts at this age can and should be written — not just spoken.",
+    "story": {
+      "title": "The weather station",
+      "body": "Mara's grandmother had been a weather forecaster for forty years. She could read clouds the way other people read books.\n\nOn the last day of her life, she called Mara to her bedside and said: 'I want to give you something.'\n\nMara expected jewellery. Instead, her grandmother said: 'I want to teach you to read your own weather.'\n\nMara didn't understand. Her grandmother explained: 'Your feelings are like weather. They move through you — they don't live in you. A storm is not the sky. The sky is always there, underneath.'\n\nMara said: 'But sometimes I feel so angry I think that's all I am.'\n\nHer grandmother smiled. 'That's the storm talking. It's very loud. But you are the sky — the one who notices the storm. The noticer is always bigger than the noticed.'\n\nMara thought about this for a long time after her grandmother died. In fact, she still thinks about it now, every time a feeling arrives that feels bigger than she is.\n\nShe reminds herself: I am the sky. This is the weather.",
+      "discussion_prompt": "Have you ever had a feeling so big it felt like that was all you were? What do you think it means to be 'the sky' rather than 'the storm'?"
+    },
+    "explore": [
+      {
+        "question": "What is the difference between having a feeling and being a feeling?",
+        "answer": "When you say 'I am angry,' the anger seems like it is your whole self. When you say 'I feel angry,' there is a you that is separate from the anger — a you that notices it. That gap between the feeling and the noticer is where your freedom lives."
+      },
+      {
+        "question": "What is emotional vocabulary and why does it matter?",
+        "answer": "Most people know about ten emotion words. Research shows that people who can name their feelings precisely — not just 'sad' but 'lonely,' 'disappointed,' 'grief-stricken,' 'wistful' — handle their emotions significantly better. Naming is not weakness. It is the beginning of understanding.",
+        "link": "Explore the difference between related feelings: lonely vs. isolated vs. left out"
+      },
+      {
+        "question": "Can you be curious about a feeling rather than trying to fix it?",
+        "answer": "Yes. Instead of asking 'how do I make this go away?' you can ask 'what is this telling me?' or 'where does this come from?' Curiosity creates distance from the feeling — just enough to see it clearly without being swallowed by it."
+      },
+      {
+        "question": "Your mirror — the observer self",
+        "answer": "The psychological concept Mara's grandmother describes is called 'the observing self' — the part of you that can notice your own thoughts and feelings without being entirely caught in them. This is the foundation of mindfulness, CBT, and most effective therapies. You are teaching your nine-year-old one of the most important psychological skills an adult can have.",
+        "is_parent_mirror": true
+      }
+    ],
+    "activities": [
+      {
+        "type": "Creative",
+        "name": "The feelings weather chart",
+        "description": "Create a week's weather chart together — but instead of sun and rain, it tracks emotions. Each morning and evening, each person marks their emotional weather. At the end of the week, look at it together. What patterns do you see? What causes storms? What brings calm?"
+      },
+      {
+        "type": "Game",
+        "name": "The vocabulary challenge",
+        "description": "See how many words you can find for one feeling. Start with 'sad': is it grief? Disappointment? Wistfulness? Loneliness? Heartache? Use a dictionary or thesaurus. Whoever finds the most specific word wins. Talk about the differences between them."
+      },
+      {
+        "type": "Mindful",
+        "name": "Sky breathing",
+        "description": "When a feeling arrives that feels very big, try this together: breathe in for four counts while imagining a clear sky. Breathe out for four counts while imagining clouds moving through it. The sky stays. The clouds move. Do this three times. Notice what changes."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Describe a time when a feeling felt bigger than you were. Looking back, what was the feeling actually telling you?"
+      },
+      {
+        "prompt": "List five words for one feeling — find words more specific than the basic one. How are they different from each other?"
+      },
+      {
+        "prompt": "What does it mean to you to be 'the sky rather than the storm'? Write about a time you managed to be the sky."
+      },
+      {
+        "prompt": "For you: write about a feeling that regularly feels bigger than you are. What would it mean to approach it with curiosity rather than trying to fix or suppress it?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What did Mara's grandmother mean by 'you are the sky'?",
+        "options": [
+          { "text": "That feelings don't exist", "correct": false },
+          { "text": "That there is a part of you that notices feelings without being entirely defined by them", "correct": true },
+          { "text": "That you should always stay calm", "correct": false }
+        ]
+      },
+      {
+        "question": "Why does having more specific feeling words help?",
+        "options": [
+          { "text": "It makes you sound smarter", "correct": false },
+          { "text": "Naming feelings precisely helps you understand and manage them better", "correct": true },
+          { "text": "It doesn't really help", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Defusion — creating distance from your thoughts and feelings",
+        "body": "Steven Hayes' Acceptance and Commitment Therapy introduces 'defusion': the practice of noticing your thoughts and feelings rather than being fused with them. 'I am angry' is fusion. 'I notice I am feeling angry' is defusion. The shift is subtle but the difference in agency is significant. Mara's grandmother is teaching this without the jargon.",
+        "practice": "This week, try adding the phrase 'I notice...' before your feeling statements. 'I notice I'm feeling overwhelmed.' 'I notice there's some anxiety here.' Report back to your child — make it a shared experiment.",
+        "reading": "Steven Hayes — A Liberated Mind. Chapter 3 on defusion is directly relevant. For a lighter entry point: Russ Harris — The Happiness Trap."
+      },
+      {
+        "concept": "The window of tolerance",
+        "body": "Dan Siegel's concept: there is a zone of arousal — not too activated, not too shut down — in which we can think, feel, and engage effectively. Outside it, we either flood (overwhelmed by feeling) or freeze (cut off from feeling). Teaching your child to identify when they're outside their window — and find their way back — is one of the most valuable life skills you can give them.",
+        "practice": "Notice this week when you go outside your own window. What does flooding feel like for you? What does freezing feel like? This self-knowledge is what you're helping your child build."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "emotions",
+    "lesson_number": 2,
+    "slug": "where-feelings-live-5-6",
+    "title": "Where do feelings live?",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 8,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Discover that feelings have a home in the body — and that listening to your body is a superpower.",
+    "parent_guide": "Young children are naturally more connected to their bodies than adults. This lesson builds on that. The goal is simple: help your child notice that feelings aren't just thoughts — they happen physically. Don't overthink the 'right' answers. If your child says fear lives in their toes, that is perfect. There are no wrong body parts.",
+    "story": {
+      "title": "The map inside",
+      "body": "Ollie couldn't find her excitement anywhere.\n\nShe had looked under her bed. She had looked in her toy box. She had looked in the garden.\n\n'Where is my excitement?' she asked her dad. 'I had it this morning but now I can't find it.'\n\nHer dad laughed, but gently. 'Feelings don't live in boxes,' he said. 'They live in here.' He pointed to her body.\n\nOllie thought this was very strange.\n\n'Show me,' she said.\n\nSo her dad closed his eyes and thought about something that made him happy. 'I feel it here,' he said, touching his chest. 'Warm, right here.'\n\nOllie tried. She thought about her birthday cake. She felt something fizzy in her tummy.\n\n'I found it!' she said. 'My excitement lives in my tummy!'\n\nHer dad smiled. 'And where does tired live?'\n\nOllie closed her eyes again. 'Behind my eyes,' she said slowly. 'And in my legs.'\n\n'You have a map inside you,' said her dad. 'You can always find your feelings there.'",
+      "discussion_prompt": "Can you find where a feeling lives in your body right now? Close your eyes and look for it."
+    },
+    "explore": [
+      {
+        "question": "Why do feelings live in our bodies?",
+        "answer": "Your body and your heart are always talking to each other. When something happens, your body reacts first — even before your brain has worked out what is happening. That is why your heart beats fast when you are scared, or your tummy feels wobbly when you are nervous."
+      },
+      {
+        "question": "What are some common places feelings live?",
+        "answer": "Different feelings tend to visit different places. Worry often lives in the tummy. Excitement can feel fizzy in the chest. Sadness sometimes sits behind the eyes or in the throat. Anger can feel hot in the face or tight in the hands. But everyone is different — your map might be different from someone else's."
+      },
+      {
+        "question": "What should you do when you notice a feeling in your body?",
+        "answer": "Just notice it. You don't have to fix it or stop it. Just say hello to it: 'Oh, there's that wobbly feeling in my tummy. I wonder what it's telling me.' Noticing is the first step."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Creative",
+        "name": "The body map",
+        "description": "Lie down on a big piece of paper and draw around your child's body. Then together, draw where different feelings live — a yellow sun for happiness in the chest, a dark cloud for sadness, a red flame for anger. Put it on the wall. Point to it when feelings arrive during the week."
+      },
+      {
+        "type": "Game",
+        "name": "Feelings hide and seek",
+        "description": "Name a feeling, then close your eyes and look for it in your body. Tell each other where you found it. Take turns. Be specific — not just 'my tummy' but 'the top of my tummy, near my ribs.'"
+      },
+      {
+        "type": "Mindful",
+        "name": "The body scan",
+        "description": "Lie down together. Starting at the top of your head, slowly travel down your body noticing any sensations. Don't label them as good or bad — just notice. This takes about two minutes. Do it at bedtime. It helps children wind down and builds the habit of listening to their bodies."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Where in your body does happy live?",
+        "note": "Let them point, draw, or describe — any form is fine."
+      },
+      {
+        "prompt": "Where does worried live?",
+        "note": "Very common answers: tummy, throat, chest. All valid."
+      },
+      {
+        "prompt": "Did you find any feelings in your body today that surprised you?",
+        "note": "This opens awareness to unexpected somatic experiences."
+      },
+      {
+        "prompt": "For you: close your eyes and check where you're holding tension right now. What feeling might be living there?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Where do feelings live?",
+        "options": [
+          { "text": "Only in our heads", "correct": false },
+          { "text": "In our bodies — different feelings in different places", "correct": true },
+          { "text": "Nowhere — they aren't real", "correct": false }
+        ]
+      },
+      {
+        "question": "In the story, where did Ollie find her excitement?",
+        "options": [
+          { "text": "In her toy box", "correct": false },
+          { "text": "In her fizzy tummy", "correct": true },
+          { "text": "Behind her eyes", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Interoception — the sixth sense",
+        "body": "Interoception is the ability to notice and understand signals from inside your own body. It is increasingly recognised as foundational to emotional regulation, decision-making, and wellbeing. Children who develop strong interoceptive awareness are better able to identify and manage their emotions. You are teaching your child a sensory skill as fundamental as sight.",
+        "practice": "Once a day this week, before you leave the house, pause and do a 30-second internal check. Not 'how am I feeling?' but 'what do I notice in my body right now?' Jaw tight? Shoulders raised? Breath shallow? Report to your child what you found."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "emotions",
+    "lesson_number": 3,
+    "slug": "the-weather-inside-5-6",
+    "title": "The weather inside",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Help your child discover that feelings are like weather — they move through us, they change, and storms never last forever.",
+    "parent_guide": "The weather metaphor is one of the most useful tools in emotional literacy. It externalises the feeling slightly — which creates just enough distance to reduce overwhelm — while honouring that it is real. Use this metaphor all week, not just in this lesson. 'What's the weather like inside you right now?' is a question you can ask at any moment.",
+    "story": {
+      "title": "Maya's weather",
+      "body": "Maya woke up and something felt wobbly inside her chest. Not sick-wobbly. Just... wobbly.\n\nHer mum asked: 'How are you feeling?' Maya thought hard. 'Like there's a little storm cloud in my tummy,' she said.\n\nHer mum sat down beside her. 'Feelings are like weather,' she said gently. 'Some days sunny inside. Some days stormy. And storms — they never last forever.'\n\n'But what does the storm want?' asked Maya.\n\nHer mum smiled. 'That's exactly the right question.'\n\nAnd for the first time, Maya didn't feel afraid of the wobbly feeling. She felt curious about it instead.",
+      "discussion_prompt": "Have you ever had a wobbly feeling? What do you think it was trying to tell you?"
+    },
+    "explore": [
+      {
+        "question": "Why is the weather a good way to think about feelings?",
+        "answer": "Weather changes. It never stays the same forever. The same is true of feelings — even really big, stormy ones eventually pass. Knowing this can help when a feeling feels so big you can't imagine it ever going away."
+      },
+      {
+        "question": "What do we do when the weather inside is stormy?",
+        "answer": "We don't try to stop the storm — that never works. We find a safe place and wait. We breathe. We ask what the storm is telling us. We remember that the sun is always there behind the clouds, even when we can't see it."
+      },
+      {
+        "question": "Can I have sunny and cloudy weather at the same time?",
+        "answer": "Yes. You can feel happy about something and sad about something else at exactly the same time. This is called mixed feelings, and it's very normal — especially for big events like the last day of school, or a birthday when you miss someone."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Creative",
+        "name": "The weather chart",
+        "description": "Draw a sky together. Add different weather symbols — sunshine, clouds, rain, snow, storm, rainbow. Each morning this week, each person picks their inner weather and adds it to the chart. At the end of the week, look at how much it changed."
+      },
+      {
+        "type": "Game",
+        "name": "Weather charades",
+        "description": "Act out the weather inside you — no words. The other person guesses. Be dramatic: a blizzard, a tiny drizzle, a gentle breeze, a full thunderstorm. The sillier the better."
+      },
+      {
+        "type": "Mindful",
+        "name": "Cloud watching (inside)",
+        "description": "Lie down. Close your eyes. Imagine your feelings as clouds moving across a sky. Just watch them. Don't try to push them away or hold them still. Notice that they keep moving. This takes about two minutes and is especially useful before sleep."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What was the weather inside you today?"
+      },
+      {
+        "prompt": "Did the weather change during the day? What made it change?"
+      },
+      {
+        "prompt": "What do you do when the weather inside is stormy?"
+      },
+      {
+        "prompt": "For you: what's your inner weather right now? What has it been this week? Share honestly — this models self-awareness more powerfully than any lesson.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is true about stormy feelings?",
+        "options": [
+          { "text": "They last forever if you don't stop them", "correct": false },
+          { "text": "They always pass — storms never last forever", "correct": true },
+          { "text": "They mean something is wrong with you", "correct": false }
+        ]
+      },
+      {
+        "question": "What did Maya feel after asking what the storm wanted?",
+        "options": [
+          { "text": "More scared", "correct": false },
+          { "text": "Curious instead of afraid", "correct": true },
+          { "text": "Nothing — the feeling went away", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Impermanence and emotional suffering",
+        "body": "Much emotional suffering comes not from feelings themselves but from our resistance to them — the belief that they should not be happening, or that they will never end. Buddhist psychology, ACT, and mindfulness traditions all converge on this: feelings are impermanent by nature. Suffering arises when we fight that impermanence. The weather metaphor teaches your child this truth in a form a five-year-old can understand.",
+        "practice": "This week, when a difficult feeling arrives, try saying to yourself: 'This is weather. It is moving through me. It will change.' Notice whether this shifts your relationship to the feeling.",
+        "reading": "Tara Brach — Radical Acceptance. Specifically the first chapter on the 'trance of unworthiness' — how resistance to difficult feelings compounds suffering."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "emotions",
+    "lesson_number": 4,
+    "slug": "big-scary-feelings-5-6",
+    "title": "Big, scary feelings",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 12,
+    "is_sensitive": true,
+    "is_guided": true,
+    "description": "Meet anger, fear, and sadness — the feelings children most often try to hide — and learn that they are safe to feel.",
+    "parent_guide": "This is a sensitive lesson. Before you begin, take a breath and check in with yourself. If you have difficult relationships with anger, fear, or sadness from your own childhood, this lesson may surface something for you. That is okay — but notice it, so it doesn't come through as your child sharing their big feelings. The goal is simple: your child should finish this lesson feeling that their biggest, hardest feelings are safe to bring to you. Nothing else matters as much as that.",
+    "story": {
+      "title": "The three visitors",
+      "body": "Everyone in town was afraid of the three visitors.\n\nAngry Red arrived with stomping feet and loud voice. People ran inside and locked their doors.\n\nSad Blue arrived with heavy shoulders and slow steps. People turned away and pretended not to see.\n\nScared Yellow arrived trembling, with wide eyes. People laughed nervously and told them to cheer up.\n\nNobody let the visitors in.\n\nOne day, a small child named Fen left the door open.\n\nAngry Red came in first. 'I'm here because something unfair happened,' they said, quietly. 'I just needed someone to know.'\n\nSad Blue came in next. 'I'm here because something I loved is gone,' they said. 'I just needed to not be alone.'\n\nScared Yellow came in last, still trembling. 'I'm here because something felt dangerous,' they said. 'I just needed someone to stay close.'\n\nFen sat with all three of them until they were ready to leave.\n\nNone of them stayed forever.",
+      "discussion_prompt": "Which of the three visitors feels the scariest to let in? Why do you think that is?"
+    },
+    "explore": [
+      {
+        "question": "Why do anger, fear, and sadness feel scary?",
+        "answer": "They are big and uncomfortable. They feel like something is wrong. But they are not wrong — they are important. Anger tells us something is unfair. Fear tells us to be careful. Sadness tells us something mattered to us. All three are trying to help."
+      },
+      {
+        "question": "What is anger for?",
+        "answer": "Anger is your body's way of saying 'something is not right.' It gives you energy to make a change or to speak up. Anger is not the same as being violent — you can feel angry and still choose how you respond to it."
+      },
+      {
+        "question": "What do we do with fear?",
+        "answer": "Fear is information about something that might not be safe. Sometimes fear is right — it's telling you about real danger. Sometimes fear is worried about something that isn't actually dangerous. In both cases, it helps to have someone you trust nearby."
+      },
+      {
+        "question": "Is it okay to cry?",
+        "answer": "Absolutely. Crying is how sadness leaves the body. When you cry, you are not being weak — you are doing exactly what your body needs to do. Many brave people cry. Many strong people cry. Crying is not the opposite of strength."
+      },
+      {
+        "question": "Your mirror — the big three",
+        "answer": "Which of these three — anger, fear, sadness — is most difficult for you to sit with in your child? Most parents find one of them harder than the others, and that difficulty comes through as distancing, minimising, or over-fixing. Knowing which one challenges you helps you respond more intentionally when your child brings it to you.",
+        "is_parent_mirror": true
+      }
+    ],
+    "activities": [
+      {
+        "type": "Game",
+        "name": "The visitor game",
+        "description": "Take turns being one of the three visitors. Knock on a pretend door. The other person lets you in and asks: 'What is your message?' Act out the feeling. The person listening tries to just be present — not fix, not minimise. Just sit with the feeling until it's ready to leave."
+      },
+      {
+        "type": "Creative",
+        "name": "A portrait of your big feeling",
+        "description": "Draw your biggest, scariest feeling. Give it a shape, a colour, a face. Name it. Make it as big as it feels. Then draw yourself sitting next to it — not running away, just being near it. Put it somewhere you can see it."
+      },
+      {
+        "type": "Mindful",
+        "name": "The safe place",
+        "description": "Together, create a 'safe place' for big feelings — a corner with a blanket, a cushion, a favourite toy. When a big feeling arrives, go to the safe place. The rule: big feelings are allowed here. You can be angry, sad, or scared in the safe place. Stay until the feeling is ready to leave."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Which of the three visitors is hardest for you to let in? Why?",
+        "note": "For 5–6: simplify to 'which feeling is the scariest?'"
+      },
+      {
+        "prompt": "What does angry feel like in your body?"
+      },
+      {
+        "prompt": "Can you think of a time you felt really sad? What helped?",
+        "note": "Listen carefully. This may be the most important conversation of the whole programme."
+      },
+      {
+        "prompt": "For you: which of the three visitors is hardest for you personally to let in — in yourself, and in your child? Reflect honestly.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What did Angry Red actually need?",
+        "options": [
+          { "text": "To be ignored until the anger went away", "correct": false },
+          { "text": "For someone to know that something unfair happened", "correct": true },
+          { "text": "To break something", "correct": false }
+        ]
+      },
+      {
+        "question": "Crying is:",
+        "options": [
+          { "text": "A sign of weakness", "correct": false },
+          { "text": "How sadness leaves the body — a normal and healthy response", "correct": true },
+          { "text": "Something to be avoided", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Parental emotional contagion",
+        "body": "Children are extraordinarily sensitive to their parents' emotional reactions to their feelings. When a parent becomes anxious seeing their child angry, or distant seeing their child sad, the child learns: 'This feeling is too much for the people who love me.' This is one of the primary mechanisms through which emotional suppression patterns are transmitted across generations. Being able to stay present with your child's big feelings — without fixing, minimising, or over-reacting — may be the most important emotional skill a parent can develop.",
+        "practice": "This week, when your child experiences a big feeling, try the WAIT practice before responding: W — What is my child actually feeling? A — Am I making this about me? I — Is my child safe? T — What do they need right now (presence, words, space)? The pause is the whole practice.",
+        "reading": "Daniel Siegel and Mary Hartzell — Parenting from the Inside Out. The foundational text on how unresolved parental emotion affects children's emotional development."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "emotions",
+    "lesson_number": 5,
+    "slug": "the-feelings-wheel-7-8",
+    "title": "The feelings wheel",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Expand your emotional vocabulary beyond the basic five — and discover that naming a feeling more precisely changes your relationship to it.",
+    "parent_guide": "This lesson is about precision. The difference between 'sad' and 'lonely' is not just semantic — it changes what you do next. A child who can say 'I feel left out' instead of 'I feel bad' is far more equipped to address the situation. The activity of finding specific words for feelings is itself a powerful practice — do it together, make it a game, and let the conversation wander wherever it goes.",
+    "story": {
+      "title": "The word collectors",
+      "body": "In the village of Feelingstone, there was a library that collected words.\n\nNot just any words. This library collected the exact right word for every feeling.\n\nMost people in the village used about ten feelings words: happy, sad, angry, scared, tired, excited, bored, proud, embarrassed, and fine.\n\n'Fine,' the librarian always said, 'is the most dangerous word in the language. It covers up everything it touches.'\n\nThe library had thousands of other words. Words for the specific sadness of watching something end. Words for the complicated pride of watching a friend succeed when you wanted to succeed yourself. Words for the particular loneliness of being in a room full of people.\n\nOne day, a boy called Eli came in. He said: 'I feel bad. All the time. Just bad.'\n\nThe librarian spent two hours with him.\n\nBy the end, Eli had found his real words: he was grieving his old school, anxious about not fitting in at the new one, and intermittently, unexpectedly, hopeful.\n\nHe walked out lighter.\n\n'The words didn't change what happened,' said the librarian to her assistant. 'But they gave him a map instead of fog.'",
+      "discussion_prompt": "What are some feelings you have that you don't quite have a word for? Can we find the word together?"
+    },
+    "explore": [
+      {
+        "question": "Why does having more feeling words matter?",
+        "answer": "Research shows that people who can name their feelings with precision handle them significantly better. When you know you're not just 'sad' but specifically 'disappointed,' you know what actually happened and what might help. Vague feelings create vague suffering. Precise feelings create clearer paths forward."
+      },
+      {
+        "question": "What are some words that live close to 'happy'?",
+        "answer": "Content, joyful, elated, grateful, proud, relieved, hopeful, peaceful, delighted, excited, triumphant, blissful. Each one is slightly different. Excited is happy that's pointing at the future. Grateful is happy about something you almost didn't have. Relieved is happy that something scary didn't happen."
+      },
+      {
+        "question": "What is the word 'fine' hiding?",
+        "answer": "Often everything. 'Fine' is frequently a polite way of saying 'I don't want to go into it' or 'I don't have the words' or 'I don't think you want to know.' When someone says 'I'm fine' in a way that doesn't feel fine, it's always worth gently asking again."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Game",
+        "name": "The word hunt",
+        "description": "Start with one basic feeling word. Set a timer for five minutes. Together, find as many more specific words for that feeling as you can — use a dictionary, thesaurus, or your own imagination. The winner is whoever finds the most unexpected or precise word. Then talk about the differences between them."
+      },
+      {
+        "type": "Creative",
+        "name": "Your feelings wheel",
+        "description": "Draw a circle with your five core feelings around the outside. Then draw lines outward from each one and add more specific words on those lines — like a wheel with spokes. Hang it up. Add to it whenever you discover a new word for a feeling."
+      },
+      {
+        "type": "Mindful",
+        "name": "The precision check-in",
+        "description": "Each evening this week, instead of 'how was your day?' ask: 'what is the most specific word for how you're feeling right now?' Take turns. This replaces the vague with the precise and deepens the daily check-in habit."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "List five words for 'sad' that are more specific. How are they different from each other?"
+      },
+      {
+        "prompt": "What do you think you are really feeling when you say you're 'fine'?"
+      },
+      {
+        "prompt": "Is there a feeling you have regularly that you still don't have a perfect word for? Describe it as best you can."
+      },
+      {
+        "prompt": "For you: what feeling do you regularly call 'fine'? What is the more precise word? Write it down.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why did Eli feel lighter after the session with the librarian?",
+        "options": [
+          { "text": "The librarian fixed his problems", "correct": false },
+          { "text": "Having precise words gave him a map instead of fog", "correct": true },
+          { "text": "The library had a cure for bad feelings", "correct": false }
+        ]
+      },
+      {
+        "question": "What is special about the word 'relieved' compared to 'happy'?",
+        "options": [
+          { "text": "They mean exactly the same thing", "correct": false },
+          { "text": "Relieved is happy that something scary didn't happen", "correct": true },
+          { "text": "Relieved is a stronger feeling than happy", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Emotional granularity — the science",
+        "body": "Lisa Feldman Barrett's research found that individuals with higher emotional granularity — the ability to distinguish between related emotions — show reduced emotional reactivity, better physical health outcomes, reduced alcohol use under stress, and fewer days on medication. The mechanism: precision in labelling activates the prefrontal cortex (the 'thinking brain') rather than leaving the emotional response entirely in subcortical structures. Naming is regulatory.",
+        "practice": "For one week, replace every 'fine' with the most honest specific word you can find. Report to your child. Make it a shared project.",
+        "reading": "Lisa Feldman Barrett — How Emotions Are Made. The chapter on emotional granularity is directly relevant. This book will also permanently change how you think about emotions."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "emotions",
+    "lesson_number": 6,
+    "slug": "feelings-and-choices-7-8",
+    "title": "Feelings and choices",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Understand the crucial difference between having a feeling and acting on it — and practice the pause that makes choice possible.",
+    "parent_guide": "This is the lesson about the gap between stimulus and response — one of the most important ideas in emotional intelligence. The goal is not for children to suppress feelings or perform calmness. It is to understand that they have a choice about what they do with feelings, even when they don't have a choice about feeling them. Practice this with your own behaviour this week — your child is watching.",
+    "story": {
+      "title": "The pause",
+      "body": "Noah had a problem with his fists.\n\nWhenever something made him angry, his fists clenched before his brain caught up.\n\nOne day, he punched a wall and hurt his hand.\n\nHis dad sat with him while he cried — not from the anger anymore, but from the pain of it.\n\n'I didn't want to do that,' said Noah. 'It just happened.'\n\n'Between the angry and the punch,' said his dad, 'there is a tiny gap. It happens so fast it feels invisible. But it's there.'\n\n'How do I find it?' asked Noah.\n\n'You start by looking for it,' said his dad. 'Every time you notice the feeling first — even a second before you act — you've found the gap. And every time you find it, it gets bigger.'\n\nNoah practised. He was not always successful. But over time, the gap got bigger.\n\nHe still felt angry. But he learned what to do with it.",
+      "discussion_prompt": "Can you think of a time you did something because of a feeling, and afterwards wished you had paused? What would you have done differently?"
+    },
+    "explore": [
+      {
+        "question": "What is the difference between a feeling and a choice?",
+        "answer": "You can't always choose what you feel. Feelings arrive — that's just how they work. But you can choose what you do with them. Feeling angry is not a choice. Hitting is. Feeling scared is not a choice. Hiding is. Between the feeling and the action, there is always a tiny gap."
+      },
+      {
+        "question": "How do you find the gap?",
+        "answer": "The gap gets bigger the more you practise noticing it. You can start with your breathing: when a big feeling arrives, take one conscious breath before you do anything. That breath is the gap. Over time, one breath becomes five, and five becomes enough to make a real choice."
+      },
+      {
+        "question": "What can you do with a big feeling instead of acting it out?",
+        "answer": "Name it — out loud if possible. Move your body — shake your hands, jump, run. Put it in writing — even one word. Talk to someone safe. Breathe slowly. None of these make the feeling disappear — they give it somewhere to go that isn't harmful."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Game",
+        "name": "Freeze",
+        "description": "Play together, getting energetic and silly. Periodically call 'Freeze!' Everyone stops mid-action. In the frozen moment, each person has to notice one thing they're feeling in their body. This practises the pause in a playful, low-stakes way."
+      },
+      {
+        "type": "Creative",
+        "name": "The choice map",
+        "description": "Draw a feeling in the middle of a page. Then draw arrows pointing outward, each one showing a possible response to that feeling — some helpful, some less so. Talk about what each choice leads to. This makes the idea of 'between feeling and action there is choice' concrete and visible."
+      },
+      {
+        "type": "Mindful",
+        "name": "The breathing gap",
+        "description": "Practise this together until it's automatic: when a strong feeling arrives, breathe in for four counts, hold for one, breathe out for four. Do it together now, even with no feeling present. The aim is to make this automatic enough that it's available in a moment of heat."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Describe a time a feeling made you do something you later regretted. What was the feeling? What did you do? What would you do differently?"
+      },
+      {
+        "prompt": "What are three things you can do with a big feeling instead of acting it out straight away?"
+      },
+      {
+        "prompt": "Which feeling makes it hardest for you to find the gap?"
+      },
+      {
+        "prompt": "For you: in which situations do you have the most difficulty finding the gap? What does this show your child?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happened to Noah's gap over time?",
+        "options": [
+          { "text": "It disappeared because he stopped feeling angry", "correct": false },
+          { "text": "It got bigger as he practised noticing it", "correct": true },
+          { "text": "It stayed the same size", "correct": false }
+        ]
+      },
+      {
+        "question": "What is true about choosing our feelings?",
+        "options": [
+          { "text": "We can always choose what we feel", "correct": false },
+          { "text": "We can choose what we do with feelings, even if we can't choose the feelings themselves", "correct": true },
+          { "text": "We have no choice about feelings or actions", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Viktor Frankl's gap",
+        "body": "Viktor Frankl wrote from his experience in Nazi concentration camps: 'Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.' This is the same gap Noah discovers. It is available to a seven-year-old. It is available to you. The question is whether you practise finding it.",
+        "practice": "This week, choose one recurring situation where you tend to react automatically — a moment that regularly triggers you. Decide in advance: in that moment, I will take one breath before I respond. Just one. Report to your child how it goes.",
+        "reading": "Viktor Frankl — Man's Search for Meaning. The first third, describing the camps, is the lived evidence of everything this lesson is teaching."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "emotions",
+    "lesson_number": 7,
+    "slug": "emotional-patterns-9-10",
+    "title": "My emotional patterns",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 12,
+    "is_sensitive": true,
+    "is_guided": true,
+    "description": "Discover that feelings can run on patterns — automatic responses learned early — and that patterns can be changed.",
+    "parent_guide": "This is a sensitive lesson. The concept of emotional patterns is powerful and true — but it runs close to the territory of 'where did this pattern come from?' which often leads back to family dynamics. Be prepared for your child to notice things about your emotional behaviour. Meet this with openness, not defensiveness. If your child says 'you always go quiet when you're upset,' the best response is: 'You're right. That's something I learned a long time ago. I'm working on it.' This models the entire lesson.",
+    "story": {
+      "title": "The track in the snow",
+      "body": "Every winter in the village, children sledged down the same hill.\n\nThe first child to go made a track in the fresh snow. The second child's sled slid into that track naturally — it was easier than making a new one. By the end of the day, every sled was following the same groove, worn deep into the snow.\n\nLena noticed this.\n\nShe also noticed that her own feelings worked the same way.\n\nWhen she was criticised, she always went quiet and then felt ashamed. That was her track. She had been following it since she was very small.\n\nWhen her brother was praised and she wasn't, she always felt a sharp spike of jealousy, then felt guilty about the jealousy. That was another track.\n\n'The tracks aren't bad,' her grandmother said when Lena described them. 'They form because they work — at least, they worked once. But they don't have to be the only way down the hill.'\n\n'Can I make a new track?' asked Lena.\n\n'You can,' said her grandmother. 'But it takes more effort than sliding in the old one. And at first, it feels strange.'",
+      "discussion_prompt": "Can you notice one of your own emotional tracks — a feeling you almost always have in a certain situation? Where do you think that track came from?"
+    },
+    "explore": [
+      {
+        "question": "What is an emotional pattern?",
+        "answer": "An emotional pattern is a feeling response that happens almost automatically in certain situations. You don't decide to feel it — it just happens, quickly, before your thinking brain catches up. Patterns form because they were useful at some point. They are not character flaws."
+      },
+      {
+        "question": "Where do emotional patterns come from?",
+        "answer": "Most form in childhood — through things that happened to us, what we observed in the adults around us, or decisions we made about how to stay safe or get our needs met. They are learned. And anything that is learned can, with effort and time, be changed."
+      },
+      {
+        "question": "How do you change a pattern?",
+        "answer": "First: notice it. You cannot change what you cannot see. Second: name it without judgment — 'ah, there's my shame pattern again.' Third: get curious about it — 'what is this protecting me from?' Fourth: practise a different response, even a small one, even once. New tracks are made by new choices, repeated."
+      },
+      {
+        "question": "Your mirror — inherited patterns",
+        "answer": "This is the most difficult and most important parent mirror in the entire programme. Emotional patterns pass between generations with extraordinary fidelity. The way you respond to criticism, conflict, sadness, and fear was largely shaped by how the adults in your childhood responded to those things. Your child is now learning their patterns partly by watching you. This is not a blame statement — it is an invitation to a particular kind of awareness.",
+        "is_parent_mirror": true
+      }
+    ],
+    "activities": [
+      {
+        "type": "Creative",
+        "name": "Pattern mapping",
+        "description": "Draw three columns: Situation / My automatic feeling / An alternative I could try. Together, fill in three rows with real situations from your child's life. Keep it light and collaborative — this is exploration, not criticism. Share your own patterns as you do it."
+      },
+      {
+        "type": "Game",
+        "name": "The pattern spotter",
+        "description": "For one week, each person tries to spot one of their own patterns in real time — not a habit they want to change, just one they want to notice. At dinner or bedtime, share: 'I spotted one today. Here is what it was.' No judgment. Just noticing."
+      },
+      {
+        "type": "Mindful",
+        "name": "The STOP practice",
+        "description": "Teach the STOP acronym: Stop. Take a breath. Observe (what am I feeling? what is my pattern doing?). Proceed (with awareness, not automatically). Practise this together now with a low-stakes scenario. Use it this week when you notice a pattern activating."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Describe one of your emotional patterns. What triggers it? What do you automatically feel or do? When do you think this pattern formed?"
+      },
+      {
+        "prompt": "Is there a pattern you have noticed in someone you love? (Write kindly — this is not a criticism exercise.)"
+      },
+      {
+        "prompt": "What would a new 'track' look like for your most familiar pattern? What would you feel or do instead?"
+      },
+      {
+        "prompt": "For you: write about one of your own emotional patterns. Where do you think it came from? What effect do you think it has on your child when it activates? Write honestly and without self-criticism.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why do emotional patterns form?",
+        "options": [
+          { "text": "Because we are weak or flawed", "correct": false },
+          { "text": "Because they were useful at some point — they are learned responses", "correct": true },
+          { "text": "They form randomly and for no reason", "correct": false }
+        ]
+      },
+      {
+        "question": "What is the first step to changing a pattern?",
+        "options": [
+          { "text": "Feeling ashamed of it", "correct": false },
+          { "text": "Noticing it — you cannot change what you cannot see", "correct": true },
+          { "text": "Suppressing it immediately whenever it appears", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Intergenerational transmission of emotional patterns",
+        "body": "Research on attachment theory shows that the single strongest predictor of a child's attachment security is not what happened to the parent in childhood — it is whether the parent has made sense of what happened to them. Parents who have reflected on their own emotional history with honesty and coherence raise securely attached children, regardless of what they experienced. This lesson, done honestly, is that process.",
+        "practice": "Write about one emotional pattern you carry. Where does it come from? What did it protect you from? What does it cost you now? What would it mean to loosen its grip? You do not have to share this writing with anyone — but the act of writing it is itself transformative.",
+        "reading": "Daniel Siegel — The Developing Mind. Mary Main's research on attachment and the Adult Attachment Interview is the scientific foundation here. For a more accessible version: Bessel van der Kolk — The Body Keeps the Score, chapters 7–9."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "emotions",
+    "lesson_number": 8,
+    "slug": "emotions-wisdom-9-10",
+    "title": "Emotions as your compass",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 12,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Bring it all together — and discover how your emotional intelligence becomes a compass for living well.",
+    "parent_guide": "This is the capstone lesson for the Emotions world. The goal is integration — helping your child see how all the skills from the previous seven lessons connect into something they can carry with them. Be celebratory. Acknowledge how much ground you have covered together. Name specific moments from the previous lessons you have shared. The journal prompt for this lesson should, if possible, be kept — it is a snapshot of where your child is right now.",
+    "story": {
+      "title": "The old sailor",
+      "body": "The old sailor could read the sea in ways that others couldn't.\n\nNot because she had a better map. She had no map at all.\n\nShe read it through her body — the way the waves changed in her stomach before a storm arrived, the particular feeling in her chest when land was near, the quality of silence that meant something was wrong.\n\n'How do you know?' younger sailors always asked.\n\n'I learned to listen,' she said. 'When I was young, I was afraid of the sea's moods. I wanted it to be calm. I tried to pretend the storms weren't coming. I was often wrong and sometimes in danger.'\n\n'Then I learned to listen instead of fight. The sea tells you everything — if you trust it enough to hear it.'\n\nShe paused.\n\n'Your feelings are the same. They are the oldest navigation system you have. They were there before maps. Before language. They are trying to help you find your way.'",
+      "discussion_prompt": "Looking back at everything we've learned about feelings — what is the most important thing you've discovered about yourself?"
+    },
+    "explore": [
+      {
+        "question": "What does it mean for emotions to be a compass?",
+        "answer": "A compass tells you which direction you're facing. Emotions do the same — they tell you when something is wrong, when something matters, when something is right, and when you've moved away from what you value. They are directional information."
+      },
+      {
+        "question": "What does it take to use your emotions as a compass?",
+        "answer": "You need to be able to notice them — which is why we started with where feelings live in the body. You need to be able to name them precisely — which is the vocabulary work. You need to know you're the noticer, not just the feeling. And you need to know that you have a choice about how you respond."
+      },
+      {
+        "question": "What does emotional intelligence actually look like in real life?",
+        "answer": "It looks like: knowing when you're about to say something you'll regret and pausing. Noticing when a friend is struggling even when they say they're fine. Making decisions that align with what you actually value. Being honest about how you feel without blaming others for it. It is not about being calm — it is about being aware."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Creative",
+        "name": "The emotional map",
+        "description": "Draw a map of your emotional landscape — not as it was when we started, but as it is now. What is the terrain like? What regions feel familiar? What areas are still uncharted? Share your maps with each other."
+      },
+      {
+        "type": "Mindful",
+        "name": "The integration check-in",
+        "description": "Sit quietly together. Ask: of everything we've learned about feelings, what has most changed about how I understand myself? Give each person five minutes to reflect before sharing. No interruptions. This is a ceremony — treat it as one."
+      },
+      {
+        "type": "Game",
+        "name": "The emotional wisdom quiz",
+        "description": "Create five situations (real or made up) and take turns answering: what would the emotionally intelligent response look like here? Not the automatic response — the wise one. Discuss why. There are no wrong answers, only more and less useful ones."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What is the most important thing you have learned about your own feelings through this world?"
+      },
+      {
+        "prompt": "Which of your emotional patterns do you most want to work on? Why?"
+      },
+      {
+        "prompt": "Write a letter to your feelings. What do you want to say to them now that you know them better?"
+      },
+      {
+        "prompt": "For you: write about what you have noticed about your own emotional life through doing these eight lessons alongside your child. What has changed? What do you want to take forward?",
+        "is_parent_prompt": true,
+        "note": "This is the most important parent journal prompt in the Emotions world. Take time with it."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What did the old sailor learn that made her a better navigator?",
+        "options": [
+          { "text": "To fight the sea's moods and keep calm", "correct": false },
+          { "text": "To listen to the sea rather than trying to pretend it wasn't stormy", "correct": true },
+          { "text": "To stay on land whenever possible", "correct": false }
+        ]
+      },
+      {
+        "question": "Emotional intelligence in real life looks most like:",
+        "options": [
+          { "text": "Never feeling difficult emotions", "correct": false },
+          { "text": "Always being calm no matter what happens", "correct": false },
+          { "text": "Noticing what you feel and choosing how to respond with awareness", "correct": true }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "The gift of integration",
+        "body": "Dan Siegel describes psychological wellbeing as 'integration' — the linking of differentiated parts into a functioning whole. Emotional intelligence is not about having calm feelings. It is about having a coherent, integrated relationship with the full range of your emotional experience. You and your child have spent eight lessons building that integration together. What you have done is rare. Most adults never do it.",
+        "practice": "Write one page about your emotional life as it was before this programme, and one page about how you experience it now — however subtly different that might be. Keep both pages. Come back to them in a year.",
+        "reading": "Dan Siegel — Mindsight. The conceptual architecture of this entire Emotions world is deeply influenced by Siegel's work. This book will give you the neuroscience behind everything you and your child have been doing."
+      }
+    ]
+  }
+]
