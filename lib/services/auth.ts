@@ -1,6 +1,6 @@
 import { NextRequest } from 'next/server';
 import bcrypt from 'bcryptjs';
-import jwt from 'jsonwebtoken';
+import jwt, { SignOptions } from 'jsonwebtoken';
 import crypto from 'crypto';
 import { z } from 'zod';
 import { supabase } from '@/lib/db/supabase';
@@ -23,7 +23,10 @@ export async function POST_register(req: NextRequest) {
 
   const password_hash = await bcrypt.hash(password, 12);
   const { data: user, error } = await supabase
-    .from('users').insert({ email, password_hash, name, pd_level }).select('id,email,name,plan').single();
+    .from('users')
+    .insert({ email, password_hash, name, pd_level })
+    .select('id,email,name,plan')
+    .single();
   if (error || !user) return apiError('Could not create account', 500);
 
   const tokens = await generateAndSaveTokens(user);
@@ -33,11 +36,19 @@ export async function POST_register(req: NextRequest) {
 // ── POST /api/auth/login ─────────────────────────────────────
 export async function POST_login(req: NextRequest) {
   const body = await parseBody<any>(req);
-  const parsed = z.object({ email: z.string().email(), password: z.string() }).safeParse(body);
+  const parsed = z.object({
+    email: z.string().email(),
+    password: z.string(),
+  }).safeParse(body);
   if (!parsed.success) return apiError('Validation error', 400);
 
   const { email, password } = parsed.data;
-  const { data: user } = await supabase.from('users').select('id,email,name,plan,password_hash').eq('email', email).single();
+  const { data: user } = await supabase
+    .from('users')
+    .select('id,email,name,plan,password_hash')
+    .eq('email', email)
+    .single();
+
   if (!user || !(await bcrypt.compare(password, user.password_hash))) {
     return apiError('Invalid email or password', 401);
   }
@@ -67,7 +78,12 @@ export async function POST_refresh(req: NextRequest) {
 
   await supabase.from('refresh_tokens').delete().eq('token_hash', hash);
   const u = stored.users as any;
-  const tokens = await generateAndSaveTokens({ id: stored.user_id, email: u.email, name: u.name, plan: u.plan });
+  const tokens = await generateAndSaveTokens({
+    id: stored.user_id,
+    email: u.email,
+    name: u.name,
+    plan: u.plan,
+  });
   return apiOk(tokens);
 }
 
@@ -98,14 +114,19 @@ export async function GET_me(req: NextRequest) {
 
 // ── Helpers ──────────────────────────────────────────────────
 async function generateAndSaveTokens(user: { id: string; email: string; name: string; plan: string }) {
+  const signOptions: SignOptions = { expiresIn: '7d' };
   const accessToken = jwt.sign(
     { id: user.id, email: user.email, name: user.name, plan: user.plan },
     process.env.JWT_SECRET!,
-    { expiresIn: process.env.JWT_EXPIRES_IN || '7d' }
+    signOptions
   );
   const refreshToken = crypto.randomBytes(64).toString('hex');
   const hash = crypto.createHash('sha256').update(refreshToken).digest('hex');
   const expiresAt = new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString();
-  await supabase.from('refresh_tokens').insert({ user_id: user.id, token_hash: hash, expires_at: expiresAt });
+  await supabase.from('refresh_tokens').insert({
+    user_id: user.id,
+    token_hash: hash,
+    expires_at: expiresAt,
+  });
   return { accessToken, refreshToken };
 }
