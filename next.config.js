@@ -1,8 +1,3 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  api: {
-    bodyParser: false, // Required for Stripe webhooks
-  },
-};
-
+const nextConfig = {};
 module.exports = nextConfig;
