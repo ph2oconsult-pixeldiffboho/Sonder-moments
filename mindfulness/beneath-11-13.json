@@ -1,0 +1,549 @@
+[
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 1,
+    "slug": "mindfulness-beneath-11-13-session1",
+    "title": "Why your mind is like a browser with 40 tabs open",
+    "age_band": "11-13",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "A direct, honest introduction to mindfulness for early teens — what it actually is, why their specific brain makes it harder, and why it matters more than they've probably been told.",
+    "parent_guide": "The Beneath mindfulness sessions should feel different from the Wonder track — more honest, more direct, more willing to engage with why a young teenager might resist mindfulness. The browser-with-40-tabs metaphor is deliberately contemporary and will land immediately. Don't moralize about screen time in this session — the goal is to build understanding and genuine interest, not guilt.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What is actually happening in your mind most of the time?",
+        "answer": "Research suggests the mind wanders approximately 47% of waking hours — close to half your life spent somewhere other than where you actually are. For adolescents, this percentage is higher. The tabs include: social replays (did I say the wrong thing?), social previews (what will they think?), identity negotiations (am I this kind of person?), threat scans (what could go wrong?), and infinite loops of content from digital environments. This is not a personal failing. It is the default state of an undirected mind."
+      },
+      {
+        "question": "Why is the adolescent brain particularly prone to mind-wandering?",
+        "answer": "The prefrontal cortex — which provides top-down regulation of attention — is still developing until the mid-twenties. Meanwhile, the default mode network, which generates self-referential thought and mind-wandering, is highly active during adolescence as part of identity formation. The result: a brain that genuinely finds it harder to stay present than an adult brain, for legitimate neurological reasons. This is temporary. It also means that building attention skills now has an unusually large return on investment."
+      },
+      {
+        "question": "What does mindfulness actually do — beyond the wellness clichés?",
+        "answer": "Mindfulness practice demonstrably strengthens attention, reduces amygdala reactivity, improves working memory, reduces rumination, and increases the speed of emotional recovery after difficult events. A 2011 Harvard study found that eight weeks of mindfulness practice produced measurable changes in brain structure. A 2014 randomised trial found that mindfulness training improved attention and reduced anxiety in early adolescents. This is not self-help. It is neuroscience."
+      },
+      {
+        "question": "What is the difference between mindfulness and meditation?",
+        "answer": "Meditation is the formal practice — sitting, focusing, usually with closed eyes. Mindfulness is the quality — a particular kind of attention, present and non-judgmental — that can be brought to any activity. You can meditate formally. You can also be mindful while eating, walking, listening, or doing anything else. The formal practice builds the capacity. The informal application is where it changes daily life."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "The tab count",
+        "description": "Set a timer for two minutes. Sit quietly and count how many different thoughts (tabs) your mind visits. Write a tally mark for each new thought. At the end: how many tabs were open? What kinds were they? This gives you real data about your own default mental state — without judgment, just observation."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What are the most frequently open tabs in your mind? List the five most common thought categories."
+      },
+      {
+        "prompt": "When is your mind most scattered? When is it most focused? What's different about those conditions?"
+      },
+      {
+        "prompt": "What would change in your life if you had more control over which tabs were open and when?"
+      },
+      {
+        "prompt": "For you: do your own tab count. What did you find? What does your mind's default state reveal about what you're carrying?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "Adolescent attention and its neurological basis",
+        "body": "The adolescent brain's heightened default mode network activity serves an evolutionary function: it processes social information, constructs identity narratives, and evaluates social standing — all critical tasks during the transition to independence. The problem is that this processing is not always useful in real time, and it comes at the cost of present-moment awareness. Understanding this helps both parents and teenagers approach attention difficulties with curiosity rather than judgment.",
+        "practice": "Do the tab count yourself. Compare your results with your teenager's. This shared self-observation is more instructive than any amount of advice about presence.",
+        "reading": "Daniel Siegel — Brainstorm. The most accessible account of adolescent brain development and its implications."
+      }
+    ],
+    "sage_context": "First mindfulness session. Sage should be curious about the teenager's relationship with their own attention — not prescriptive about what mindfulness 'should' look like. Ask: 'What's it like being in your own head most of the time?'"
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 2,
+    "slug": "mindfulness-beneath-11-13-session2",
+    "title": "The space between thought and action",
+    "age_band": "11-13",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Build the most practically useful skill in mindfulness — the gap between stimulus and response — with specific application to the situations early teens actually face.",
+    "parent_guide": "This session is the most directly useful in the Beneath mindfulness track. The gap between stimulus and response is the place where all intentional behaviour happens. At 11–13, the specific situations worth addressing are: social conflicts, digital reactions (sending something you regret), performance anxiety, and family friction. Acknowledge honestly which situations make your own gap disappear.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What is the gap — and what can you do with it?",
+        "answer": "Viktor Frankl wrote from the Nazi concentration camps: 'Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.' At 11–13, this gap is genuinely small — the amygdala fires fast and the prefrontal cortex hasn't fully developed. But it exists. And it can be widened with practice."
+      },
+      {
+        "question": "How do you widen the gap in social situations?",
+        "answer": "The practical tools: before responding to something that activates your alarm, take one breath. If you're about to send a message from an emotional state, pause for sixty seconds. In an argument, name what you're feeling before saying what you think. None of these are complicated. All of them are genuinely difficult in the heat of the moment. Which is exactly why they need to be practised at calm moments."
+      },
+      {
+        "question": "What about digital situations — why is the gap especially hard there?",
+        "answer": "Digital communication removes the social cues that would normally create natural pauses — no facial expression, no tone of voice, no physical presence. It also creates the illusion of urgency (the other person appears to be waiting, the notification demands a response). And the emotional brain tends to be more reactive in text because there's less context to buffer interpretation. The gap is most needed and least available in digital communication."
+      },
+      {
+        "question": "What does 'choosing your response' actually mean?",
+        "answer": "Not becoming emotionally neutral. Not always taking the high road. But having access to more than one option — being able to say 'in this moment, given this situation, what do I actually want to do?' rather than simply running the automatic program. This requires the gap. The gap requires practice. The practice is available."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "The gap inventory",
+        "description": "List three situations where your gap reliably disappears — where you react before you've chosen. For each: what triggers it? What does the automatic response look like? What would you choose if you had the gap? This is not a confession exercise — it's a map of where the work is."
+      },
+      {
+        "type": "Practice",
+        "name": "The sixty-second rule",
+        "description": "This week: before sending any message from a heightened emotional state, wait sixty seconds. Not to change what you say — you might say exactly the same thing. Just to say it from a chosen state rather than an automatic one. Apply this once and note what, if anything, changed."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Where does your gap most reliably disappear? What is the most common situation where you react automatically and later wish you hadn't?"
+      },
+      {
+        "prompt": "Have you tried the sixty-second rule this week? What happened?"
+      },
+      {
+        "prompt": "Frankl found the gap in the worst possible conditions. What does that say about whether it's available to you?"
+      },
+      {
+        "prompt": "For you: where does your gap disappear with your child? What do they see when it does?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "Frontal lobe development and the adolescent gap",
+        "body": "The structural immaturity of the adolescent prefrontal cortex is real and measurable on MRI. The PFC normally provides inhibitory control over amygdala reactions — the 'top-down' regulation that creates the gap. In adolescence, this inhibitory pathway is underdeveloped, making the gap genuinely smaller. However, research by Sarah-Jayne Blakemore shows that deliberate practice — specifically, practising the pause — accelerates the development of these inhibitory pathways. Practice literally builds the gap neurologically.",
+        "reading": "Sarah-Jayne Blakemore — Inventing Ourselves: The Secret Life of the Teenage Brain."
+      }
+    ],
+    "sage_context": "Ask the teenager about a specific recent situation where their gap disappeared. Not to criticise — to get curious about what triggers automatic reaction. 'What was happening just before it? What did it feel like in your body?'"
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 3,
+    "slug": "mindfulness-beneath-11-13-session3",
+    "title": "What gratitude actually is — and what it isn't",
+    "age_band": "11-13",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Distinguish genuine gratitude from performed positivity — and build a practice that is honest enough to survive contact with real adolescent experience.",
+    "parent_guide": "Gratitude is frequently misrepresented to teenagers as a cure for negative emotion or a demand for positivity. This session is explicit about what gratitude is not — toxic positivity, forced cheerfulness, the denial of difficulty. The gratitude practice offered here is honest enough to be taken seriously by someone who is genuinely struggling. Be authentic about when gratitude is accessible to you and when it isn't.",
+    "story": null,
+    "explore": [
+      {
+        "question": "Why does standard gratitude advice often feel hollow?",
+        "answer": "Because it is often demanded in the wrong moment, directed at things that don't feel genuinely valuable, or deployed as a way to avoid acknowledging something difficult. 'Just be grateful for what you have' in response to real pain is not wisdom. It's dismissal. Genuine gratitude is earned through attention and presence — it cannot be forced or faked, and attempts to force it tend to produce either resentment or performance."
+      },
+      {
+        "question": "What is genuine gratitude, then?",
+        "answer": "It is what happens when you actually notice the value of something — when you are present enough, and paying enough attention, to feel the weight of what you have. It is specific, not general. It is felt, not said. It requires the kind of full attention that is rare when you're distracted, rushed, or in pain. It also, importantly, doesn't require conditions to be good. Genuine gratitude can coexist with genuine difficulty."
+      },
+      {
+        "question": "What is the difference between gratitude and toxic positivity?",
+        "answer": "Toxic positivity uses positive framings to deny or minimise genuine negative experience. 'Everything happens for a reason.' 'Look on the bright side.' 'Be grateful you have it better than others.' These are responses to other people's pain that prioritise the discomfort of the person saying them over the reality of the person experiencing the pain. Genuine gratitude, by contrast, acknowledges the full reality of a situation — including the hard parts — and notices what is also genuinely good alongside it. Both things, not instead of."
+      },
+      {
+        "question": "How do you build a gratitude practice that works when things are genuinely hard?",
+        "answer": "Make it specific. Make it present. Make it honest. Not 'I'm grateful for my family' but 'I noticed today that my mum made me breakfast without being asked and it mattered.' Not 'I should be grateful I'm alive' but 'I genuinely noticed the way the light hit the street this morning and it was real and beautiful.' Start small, stay specific, let the feeling come if it comes — don't manufacture it."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Reflection",
+        "name": "The genuine gratitude list",
+        "description": "Write five things you are genuinely grateful for right now — not things you think you should be grateful for, but things you actually feel the weight of. Be as specific as possible. Note whether the feeling is present when you write each one, or whether you're generating it intellectually. Honesty is the whole point."
+      },
+      {
+        "type": "Discussion",
+        "name": "The toxic positivity test",
+        "description": "Share examples of advice or responses that felt like toxic positivity — times when someone told you to be grateful or positive in a way that felt dismissive rather than helpful. Discuss: what would have been more useful? What would genuine support have looked like? This builds discernment."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What is genuinely worth gratitude in your life right now — things you actually feel, not things you think you should feel?"
+      },
+      {
+        "prompt": "Can you think of a hard period in your life when you found something genuinely worth gratitude alongside the difficulty? What was it?"
+      },
+      {
+        "prompt": "What would a gratitude practice look like that was honest enough to work for you specifically — that wouldn't feel like performance?"
+      },
+      {
+        "prompt": "For you: have you ever responded to your child's pain with something that felt like toxic positivity? What would genuine gratitude-alongside-difficulty look like in your relationship with them?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "The science of gratitude and its limits",
+        "body": "Robert Emmons' research on gratitude journals found measurable wellbeing benefits — but only when the practice was genuine rather than mechanical. Studies by Sonja Lyubomirsky found that the optimal frequency for gratitude journaling is once per week, not daily — daily practice tends to become rote. The key variable is the depth of processing: genuinely attending to what is valuable, not generating a list. The adolescent who dismisses gratitude practice has often encountered the mechanical version. The genuine version is worth finding.",
+        "reading": "Robert Emmons — Thanks! Sonja Lyubomirsky — The How of Happiness."
+      }
+    ],
+    "sage_context": "Ask the teenager what genuine gratitude feels like versus performed gratitude — have they experienced both? What's the difference? Be curious about what they actually value, not what they think they should."
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 4,
+    "slug": "mindfulness-beneath-11-13-session4",
+    "title": "Boredom, stillness, and what's in the silence",
+    "age_band": "11-13",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "An honest exploration of boredom as a signal, stillness as a skill, and what early adolescents might find if they stopped filling every silence.",
+    "parent_guide": "Boredom is almost universally experienced as aversive at 11–13 — something to be eliminated as quickly as possible through stimulation. This session reframes boredom not as a problem but as a signal and a gateway. Be honest about your own relationship with silence and stillness — many adults are as uncomfortable with it as their teenagers.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What is boredom telling you?",
+        "answer": "Boredom is the signal that the current activity is not providing adequate stimulation for the brain's needs. But that signal has two possible meanings: either you need more stimulation, or you need less. The reflex is to add stimulation — reach for a phone, start a new video, message someone. But boredom can also be an invitation to stop seeking stimulation from outside and see what arises from inside. Most people never find out, because they always choose the reflex."
+      },
+      {
+        "question": "Why is stillness increasingly rare and increasingly valuable?",
+        "answer": "The digital environment has made it possible to never be bored — every moment of potential stillness can be filled with content. This seems like a gain but is actually a loss. The default mode network — responsible for creativity, self-reflection, memory consolidation, and moral reasoning — requires genuine rest, not passive consumption. Research by Immordino-Yang shows that adolescents who have access to unstructured stillness develop more nuanced moral reasoning and stronger identity formation than those who don't."
+      },
+      {
+        "question": "What is actually in the silence if you stay long enough to find out?",
+        "answer": "Different things for different people. Often: the thoughts you've been avoiding. Sometimes: the things you actually want, beneath the things you've been conditioned to want. Often: the beginnings of creative ideas. Sometimes: a quality of simple aliveness that is hard to name but worth finding. Research on mind-wandering during genuine rest (as opposed to distraction) shows consistently higher positive affect — which is counterintuitive given how uncomfortable the initial minutes of boredom feel."
+      },
+      {
+        "question": "Why is the first few minutes of stillness the hardest?",
+        "answer": "The brain experiences the removal of stimulation as a kind of deprivation — the dopamine pathways that have been conditioned by social media, gaming, and messaging create a genuine withdrawal effect in the absence of stimulation. This is not metaphorical. It is the same mechanism as mild substance withdrawal. The discomfort passes. Most people don't wait long enough to discover this."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "The twenty-minute experiment",
+        "description": "Do twenty minutes of nothing. No screen, no music, no book. You can sit, lie down, look out a window, walk slowly — but no external stimulation. Report what happened: what came in the silence? What was the discomfort like? Did anything interesting arise? When did the discomfort peak and when did it ease?"
+      },
+      {
+        "type": "Discussion",
+        "name": "The boredom taxonomy",
+        "description": "Discuss: what kinds of boredom do you experience? Boredom that comes from feeling trapped or restless (negative). Boredom that comes from not being stimulated externally (neutral, potentially useful). Boredom that might actually be a signal from your own mind trying to say something (worth listening to). Which kind do you encounter most? What do you do with each?"
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What happened in the twenty-minute experiment? Describe the discomfort and what, if anything, arrived in the silence."
+      },
+      {
+        "prompt": "What have you been avoiding finding in the silence? What might be there if you looked?"
+      },
+      {
+        "prompt": "How would your relationship with your phone change if you treated boredom as an invitation rather than a problem?"
+      },
+      {
+        "prompt": "For you: when did you last sit in genuine stillness? What would you find if you did?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "The attention economy and the manufactured need",
+        "body": "The attention economy is built on the conversion of boredom from a temporary state to an emergency to be solved. Social media platforms profit from this conversion. Research by B.J. Fogg and others has documented the deliberate engineering of compulsive use: variable reward schedules, infinite scroll, notification systems designed to create a continuous low-level anxiety about missing out. Understanding this mechanism is the first step toward choosing differently.",
+        "reading": "Tristan Harris — The Social Dilemma (documentary). Johann Hari — Stolen Focus."
+      }
+    ],
+    "sage_context": "Ask the teenager what they're most afraid they'd find if they sat in silence long enough. Not what they think they'd find — what they're afraid of. This often reveals something important."
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 5,
+    "slug": "mindfulness-beneath-11-13-session5",
+    "title": "Mindfulness and social anxiety",
+    "age_band": "11-13",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": true,
+    "is_guided": true,
+    "description": "A direct exploration of how mindfulness practices can help with the social anxiety that is near-universal in early adolescence.",
+    "parent_guide": "Social anxiety is the single most common source of distress in early adolescence — the constant monitoring of how you appear to others, the fear of negative evaluation, the anticipation of social rejection. This session addresses it directly and practically. Be alert to whether your teenager seems to be experiencing significant social anxiety beyond the normal developmental range — if so, this session is a starting point for a conversation, not a substitute for professional support.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What is social anxiety, and is it normal?",
+        "answer": "Social anxiety is the fear of negative evaluation by others — the worry about being judged, humiliated, rejected, or seen as inadequate in social situations. Mild to moderate social anxiety is nearly universal in early adolescence: the developing brain is exquisitely sensitive to social signals, and social evaluation genuinely matters more at this developmental stage than at any other. Significant social anxiety — the kind that consistently prevents participation in normal activities — is worth taking seriously and getting support for."
+      },
+      {
+        "question": "What makes social anxiety worse?",
+        "answer": "Avoidance — avoiding the feared situation provides temporary relief but confirms to the nervous system that the situation is dangerous, increasing anxiety next time. Rumination — replaying social interactions in search of evidence of failure loops anxiety continuously. Safety behaviours — things done to reduce the chance of negative evaluation (staying quiet, over-preparing, not making eye contact) can maintain anxiety by preventing the discovery that the feared outcome often doesn't happen."
+      },
+      {
+        "question": "How can mindfulness help?",
+        "answer": "Mindfulness reduces the power of ruminative thought by creating distance between the thought and the self — the watcher perspective. It reduces amygdala reactivity through regular practice. And it builds the capacity to be present in social situations rather than monitoring them from a distance — which is both more comfortable and more connecting. The goal is not to make social situations feel perfectly safe. It is to reduce the suffering caused by the monitoring and the rumination."
+      },
+      {
+        "question": "What is the most useful single mindfulness practice for social anxiety?",
+        "answer": "Refocusing attention outward during social situations. Social anxiety directs attention inward — onto self-monitoring. Deliberate outward attention — 'what is this person actually saying? what is their facial expression? what is happening in this room?' — moves attention off the self-monitor and into genuine engagement. This simultaneously reduces anxiety and improves the quality of the social interaction."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Reflection",
+        "name": "The anxiety map",
+        "description": "Map your social anxiety landscape: which situations trigger the most anxiety? What specifically are you afraid of in each? What do you currently do to cope? Which coping strategies help, and which maintain the anxiety? This map is for you — it's a navigation tool, not a confession."
+      },
+      {
+        "type": "Practice",
+        "name": "The outward attention practice",
+        "description": "In your next social situation where you notice self-monitoring: deliberately redirect attention outward — onto the other person's face, what they're saying, the room, the details of the actual situation. Do this for thirty seconds. Notice what changes. The practice is not about feeling brave — it's about redirecting attention."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "In what social situations does your self-monitor run loudest? What is it monitoring for?"
+      },
+      {
+        "prompt": "Have you tried the outward attention practice? What happened?"
+      },
+      {
+        "prompt": "What would it be like to go into a social situation with 80% of your attention outward rather than inward?"
+      },
+      {
+        "prompt": "For you: how much social anxiety did you carry at your teenager's age? What helped? What do you wish someone had told you?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "Attentional retraining for social anxiety",
+        "body": "Attentional retraining — the deliberate redirection of attention from self-focused to externally-focused — is one of the most consistently effective interventions for social anxiety in randomised controlled trials. The mechanism is well understood: self-focused attention during social interaction increases self-consciousness, distorts evaluation, and prevents the disconfirmation of feared outcomes. External attention produces the opposite effect. Mindfulness training, by building attentional flexibility, makes this redirection more accessible.",
+        "reading": "Clark and Wells — A Cognitive Model of Social Phobia (for clinical background). For the teenager: Gillian Butler — Overcoming Social Anxiety and Shyness."
+      }
+    ],
+    "sage_context": "This is a sensitive session. If the teenager describes significant social anxiety, be genuinely curious about the specifics — not to diagnose, but to understand. Ask what they're afraid will happen, and whether it usually happens. Avoid reassurance ('I'm sure it will be fine') — it maintains rather than reduces anxiety."
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 6,
+    "slug": "mindfulness-beneath-11-13-session6",
+    "title": "Sleep, screens, and the quiet mind",
+    "age_band": "11-13",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "A practical, honest session on sleep quality, the effect of screens on the adolescent mind, and how mindfulness can help — without moralism.",
+    "parent_guide": "This session approaches screens and sleep from a practical, scientific angle rather than a moral one. The goal is not to produce guilt about screen use but genuine understanding of the mechanisms by which late screens affect sleep and mood — and some practical tools. Be honest about your own screen use and sleep quality. This session is most effective when approached as a shared practical problem, not a parenting lecture.",
+    "story": null,
+    "explore": [
+      {
+        "question": "Why does sleep matter so much for the adolescent brain specifically?",
+        "answer": "During adolescence, the brain undergoes its second major period of synaptic pruning — the process by which unused neural connections are eliminated and frequently-used ones are strengthened. This process occurs almost exclusively during sleep. Poor sleep quality during adolescence doesn't just affect how you feel the next day — it affects the structural development of the brain itself. Sleep is not optional for the adolescent brain. It is one of its primary development mechanisms."
+      },
+      {
+        "question": "What exactly do screens do to sleep?",
+        "answer": "Blue light from screens suppresses melatonin production — delaying the body's natural sleep signal by up to ninety minutes. But the more significant effect is psychological: emotionally activating content (social comparison, argument threads, exciting content) keeps the nervous system in a state of arousal that is incompatible with the sleep onset process. The brain needs approximately ninety minutes of declining arousal to initiate sleep. Content that activates emotion resets this countdown."
+      },
+      {
+        "question": "What does sleep deprivation do to emotional regulation?",
+        "answer": "Dramatically reduces prefrontal cortex activity — reducing the gap, increasing amygdala reactivity, making emotional regulation significantly harder. Studies show that sleep-deprived adolescents show amygdala responses to negative stimuli that are 60% stronger than those of well-rested adolescents. The irony: the nights when you most want to stay on your phone to manage social anxiety are the nights when doing so most guarantees you'll be more anxious tomorrow."
+      },
+      {
+        "question": "How can mindfulness practices help with sleep?",
+        "answer": "The body scan — a systematic focus of attention on physical sensations from head to feet — is one of the most well-evidenced sleep onset aids. It works by directing attention away from activating thought content and toward non-activating sensory experience. Slow diaphragmatic breathing activates the parasympathetic nervous system and reduces arousal. Neither requires believing in anything — they work through direct physiological mechanisms."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "The sleep prep protocol",
+        "description": "For three nights this week: screens off ninety minutes before sleep. Spend ten minutes doing a body scan or slow breathing. Note your sleep quality on those nights versus your normal nights. This is an experiment, not a rule. The point is data, not compliance."
+      },
+      {
+        "type": "Discussion",
+        "name": "The honest conversation about screens",
+        "description": "Talk with your parent about your actual screen use before sleep — both of you, honestly. What are you looking for? What does it give you? What does it cost you? This is not a confessional — it's a mutual investigation into a shared problem."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What do you use screens for in the last hour before sleep? What need is it meeting?"
+      },
+      {
+        "prompt": "What was your sleep like on the nights you tried the sleep prep protocol? What, if anything, changed?"
+      },
+      {
+        "prompt": "If your emotional regulation tomorrow is directly affected by your screen use tonight, does that change how you feel about the choice?"
+      },
+      {
+        "prompt": "For you: what is your own screen use before sleep? How does it affect your mornings? What would you change if you could?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "Adolescent sleep and its disruption",
+        "body": "Matthew Walker's research documents sleep deprivation's effects with precision: even one night of poor sleep reduces prefrontal cortex activity by 14%, increases amygdala reactivity by 60%, and impairs working memory by 40%. For adolescents, whose baseline prefrontal cortex activity is already lower than adults, the effect of chronic sleep deprivation is particularly severe. This is not a minor wellbeing issue. It is a public health concern with direct effects on mental health, academic performance, and impulse control.",
+        "reading": "Matthew Walker — Why We Sleep. Chapter 7 on sleep and emotional health is directly relevant."
+      }
+    ],
+    "sage_context": "Ask the teenager about their actual sleep quality and what their late-night mind is like. Not in a judgmental way — with genuine curiosity about what they're seeking and what they find."
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 7,
+    "slug": "mindfulness-beneath-11-13-session7",
+    "title": "Mindfulness and hard times",
+    "age_band": "11-13",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": true,
+    "is_guided": true,
+    "description": "Explore mindfulness not as a tool for feeling better but as a way of being present with difficulty — and understand the difference between these two things.",
+    "parent_guide": "This sensitive session addresses something often misunderstood about mindfulness: it is not primarily a tool for feeling better. It is a practice of being fully present with whatever is happening — including genuinely difficult things. This reframing is important because teenagers who try mindfulness as a tool to fix distress and find it doesn't work often conclude mindfulness doesn't work. It works differently than that. Be particularly attentive to your teenager during this session.",
+    "story": null,
+    "explore": [
+      {
+        "question": "Is mindfulness supposed to make you feel better?",
+        "answer": "Not necessarily, and not always. This is important. Mindfulness is the practice of being fully present with what is actually here — which includes being fully present with grief, fear, confusion, and pain. In the short term, this can feel worse than distraction. The long-term evidence shows that it reduces suffering — not by eliminating difficult emotions, but by changing the relationship with them. The first meeting can be uncomfortable."
+      },
+      {
+        "question": "What is the difference between pain and suffering?",
+        "answer": "Pain is the direct experience of something difficult — loss, fear, disappointment. Suffering is the secondary layer: the resistance to pain, the stories about it, the wishing it were different. 'This is unbearable and it will never end and it means something is wrong with me' — that is suffering, added to pain. Mindfulness practice reduces the suffering layer without denying the pain. This is different from — and more honest than — trying to feel better."
+      },
+      {
+        "question": "What does being present with something hard actually look like?",
+        "answer": "Acknowledging it is real. Staying with the direct experience rather than the stories about it. Noticing where it lives in the body. Breathing with it rather than against it. Not demanding that it resolve or change. Being here with it — which is both less comfortable and more dignified than running from it."
+      },
+      {
+        "question": "When is mindfulness not enough — or not appropriate?",
+        "answer": "When the difficulty is severe enough to require professional support. When the pain is acute and the capacity to sit with it is genuinely overwhelmed. When mindfulness becomes a way of avoiding taking action that needs to be taken. These are real limits. Mindfulness is a powerful practice but not a replacement for therapy, support, or action when those are what is needed."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Reflection",
+        "name": "The presence experiment",
+        "description": "Choose something mildly difficult that is currently present in your life — not the most painful thing, but something real. Spend five minutes being as present with it as possible: notice where it lives in your body. Notice what kind of thing it is. Notice what the experience is, separate from the stories about it. Write about what you found."
+      },
+      {
+        "type": "Discussion",
+        "name": "Pain and suffering",
+        "description": "Talk with your parent about the distinction between pain and suffering. Can you identify examples in your own experience where the suffering (stories, resistance, wishing it were different) was greater than the actual pain? What happened when you stopped the suffering layer, even briefly?"
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What is something hard in your life right now? What is the pain — the direct experience? What is the suffering — the stories and resistance added to it?"
+      },
+      {
+        "prompt": "What happened in the presence experiment? Was it possible to be with the difficulty? What changed when you tried?"
+      },
+      {
+        "prompt": "Is there something you've been avoiding being present with — something you keep distracting yourself from? What do you think you'd find?"
+      },
+      {
+        "prompt": "For you: what is the pain in your life that you've been adding the most suffering to? What would it look like to sit with the pain without the stories?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "The second arrow — Buddhist teaching on suffering",
+        "body": "The Buddhist teaching on suffering uses the metaphor of two arrows. The first arrow is pain — unavoidable, real, the direct experience of difficulty. The second arrow is the suffering we add to it: our resistance, our stories, our self-blame, our demands that it be otherwise. The first arrow cannot always be avoided. The second arrow is largely chosen. Mindfulness practice, over time, reduces the second arrow. This doesn't eliminate pain. It reduces the additional suffering that compounds it.",
+        "reading": "Tara Brach — Radical Acceptance. The first chapter directly addresses this distinction."
+      }
+    ],
+    "sage_context": "HEIGHTENED SENSITIVITY. If the teenager reveals acute distress during this session, don't continue with the reflection exercise. Be present. Ask what they need. If crisis language appears, follow protocol immediately."
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 8,
+    "slug": "mindfulness-beneath-11-13-session8",
+    "title": "Building your practice",
+    "age_band": "11-13",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "The capstone session — building a personal mindfulness practice that is honest, sustainable, and genuinely yours.",
+    "parent_guide": "The goal of this final session is a personal practice the teenager will actually use — not the one they think they should have, but the one that works for their specific life and mind. Be honest about what works in your own practice and what doesn't. The shared honesty about imperfect practice is more instructive than any ideal version.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What does a sustainable mindfulness practice look like?",
+        "answer": "Small and consistent beats large and occasional. Research consistently shows that daily practice of two minutes produces larger effects over six months than weekly practice of sixty minutes. The practice that actually happens is the right practice. Which means: it needs to fit your life, not an idealised version of it."
+      },
+      {
+        "question": "What are the minimum viable practices — the ones that actually move the needle?",
+        "answer": "The breath pause — one conscious breath before reacting to emotional triggers. This is the gap practice. The attention redirect — deliberately placing attention outward in social situations. The tab count — periodic check-ins on where the mind is. The body scan before sleep — for sleep quality and emotional processing. Any one of these, practised consistently, produces measurable change."
+      },
+      {
+        "question": "What gets in the way of practice?",
+        "answer": "The belief that you're doing it wrong. The expectation of a specific experience. The sense that it 'should' feel different from this. The comparison to some ideal meditative state. None of these are real obstacles — they are thoughts about practice that can themselves be observed mindfully. The practice is just this, as it actually is."
+      },
+      {
+        "question": "What do you commit to?",
+        "answer": "Specificity is everything. 'I'll be more mindful' is not a commitment. 'I will take one conscious breath before responding to messages that activate my alarm' is. 'I'll practise gratitude' is not. 'At dinner each evening, I'll share one specific genuine gratitude' is. What specific practice will you commit to, in what specific context, for what specific period?"
+      }
+    ],
+    "activities": [
+      {
+        "type": "Reflection",
+        "name": "The practice design",
+        "description": "Design your personal mindfulness practice for the next month. Answer specifically: (1) which practice(s) from this world will I use? (2) in what specific context? (3) at what specific time? (4) how will I know if it's working? Write it down. Share it with your parent."
+      },
+      {
+        "type": "Discussion",
+        "name": "The honest review",
+        "description": "Look back across all eight sessions. What was most useful? What didn't land? What surprised you? What do you want to keep? This is an honest review, not a celebration exercise — critical feedback improves practice."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What is the specific practice you're committing to? Be as concrete and specific as possible."
+      },
+      {
+        "prompt": "What from this world surprised you most? What changed — even slightly — in how you experience your own mind?"
+      },
+      {
+        "prompt": "What would you tell a friend about mindfulness based on what you've actually discovered — not the standard description, but the real version?"
+      },
+      {
+        "prompt": "For you: what is your mindfulness commitment going forward? Share it with your teenager. The seen practice is worth more than any amount of advice.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "The implementation intention",
+        "body": "Peter Gollwitzer's research on 'implementation intentions' shows that the simple act of specifying when, where, and how a behaviour will occur dramatically increases follow-through — by as much as three times compared to general intentions. 'I will practise mindfulness' is a general intention. 'I will take one conscious breath when I hear a notification sound, before opening the app' is an implementation intention. The specificity is not a small detail. It is the difference between a resolution and a practice.",
+        "reading": "Peter Gollwitzer — Implementation Intentions (Psychological Bulletin, 1999). Freely available online."
+      }
+    ],
+    "sage_context": "Final session. Ask the teenager about their practice commitment and why they chose it. Honour the specificity. Close with genuine warmth — this was significant work."
+  }
+]

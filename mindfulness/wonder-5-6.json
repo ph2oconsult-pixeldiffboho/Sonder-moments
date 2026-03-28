@@ -1,0 +1,649 @@
+[
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 1,
+    "slug": "pause-button-5-6",
+    "title": "The pause button",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 8,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Discover that you have a pause button inside you — and that pressing it is a superpower.",
+    "parent_guide": "This is the gentlest possible entry into mindfulness. The 'pause button' concept is concrete enough for five and six year olds to grasp immediately, and introduces the idea that there is a moment between what happens and what we do. Keep it playful. The freeze game is the heart of the lesson. Do it more than once and laugh a lot.",
+    "story": {
+      "title": "The magic button",
+      "body": "Leo had a problem.\n\nWhenever something happened — something exciting, or scary, or that made him feel a lot — everything came out at once. Too loud. Too fast. Too much.\n\nHis dad showed him something.\n\n'See this spot?' He touched the centre of Leo's chest, very gently. 'This is where your pause button lives.'\n\nLeo looked down. 'I can't see it.'\n\n'You can't see it,' said his dad. 'But you can press it. Like this.' He took one slow breath in and let it out. 'That's pressing the pause button.'\n\nLeo tried. In slowly. Out slowly.\n\nSomething inside him went quiet. Just for a moment.\n\n'Whoa,' said Leo.\n\n'Pretty good, right?' said his dad.\n\nLeo practised all week. He didn't always remember in time. But every time he pressed it, the world slowed down just enough to see what was really happening.",
+      "discussion_prompt": "Can you find your pause button? Where do you think it lives? What happens when you press it?"
+    },
+    "explore": [
+      {
+        "question": "What is a pause button?",
+        "answer": "A pause button is something you do — like a slow breath — that gives you just a moment before you react. It doesn't make feelings go away. It just creates a tiny space so you can choose what to do next."
+      },
+      {
+        "question": "When is a good time to press your pause button?",
+        "answer": "Whenever things feel very fast or very full. Before you say something you might regret. When you feel like a volcano is about to erupt. Even in happy, exciting moments — a pause helps you enjoy them more."
+      },
+      {
+        "question": "Does pressing pause mean you don't feel things?",
+        "answer": "No. You feel everything just as much. The pause just gives your thinking brain a chance to catch up. You feel the feeling — and then you get to choose what to do with it."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Game",
+        "name": "The freeze game",
+        "description": "Play together, moving and being silly. Call 'Pause!' and everyone freezes completely. In the frozen moment: take one slow breath in, one slow breath out. Then call 'Play!' and continue. Do this many times. This is literally practising the pause button through play."
+      },
+      {
+        "type": "Creative",
+        "name": "Draw your pause button",
+        "description": "Each person draws what their pause button looks like. It can be anything — a big red button, a star, a cloud. Name it. Put it on the fridge. Point to it during the week when a pause would help."
+      },
+      {
+        "type": "Mindful",
+        "name": "The pause breath",
+        "description": "Practise together: breathe in through the nose for three counts, out through the mouth for three counts. Do it sitting calmly. Then do it after some running around. Notice how it feels different each time. The aim is to make this available in any state."
+      }
+    ],
+    "journal": [
+      { "prompt": "Did you press your pause button this week? What happened?" },
+      { "prompt": "When was it hardest to remember to pause?" },
+      { "prompt": "What does pressing pause feel like inside you?" },
+      { "prompt": "For you: when do you find it hardest to pause? What does your child see when you can't find it?", "is_parent_prompt": true }
+    ],
+    "quiz": [
+      {
+        "question": "What does pressing the pause button do?",
+        "options": [
+          { "text": "Makes your feelings go away", "correct": false },
+          { "text": "Creates a tiny space so you can choose what to do next", "correct": true },
+          { "text": "Makes you forget what happened", "correct": false }
+        ]
+      },
+      {
+        "question": "How do you press your pause button?",
+        "options": [
+          { "text": "By counting to ten very fast", "correct": false },
+          { "text": "With one slow, intentional breath", "correct": true },
+          { "text": "By closing your eyes for a minute", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "The neuroscience of the pause",
+        "body": "A slow deliberate exhale activates the parasympathetic nervous system via the vagus nerve — shifting the body from threat-response mode to rest-and-digest within seconds. This is not a metaphor. Your child is learning to consciously activate their own calming system. Most adults never learn this.",
+        "practice": "Practise the pause breath yourself ten times today in different emotional states. Notice what changes. Build the habit before you need it.",
+        "reading": "James Nestor — Breath: The New Science of a Lost Art."
+      }
+    ]
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 2,
+    "slug": "noticing-5-6",
+    "title": "The noticing game",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 8,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Develop the skill of paying attention — to the world around you and the world inside you — as a joyful practice.",
+    "parent_guide": "Children this age are naturally more present than adults. This lesson honours and develops that capacity. Approach it as a game and an adventure. The five-senses activity is the heart of the lesson — do it slowly, compare what each person notices, and celebrate the differences.",
+    "story": {
+      "title": "The noticer",
+      "body": "Juno was the best noticer in the whole street.\n\nShe noticed the small spider building its web in the garden gate. She noticed how the light changed on the pavement just before rain. She noticed when her grandmother was sad before her grandmother knew it herself.\n\n'How do you see so much?' her friend asked.\n\n'I don't see more,' said Juno. 'I just look more.'\n\nHer friend tried it. Standing still for one whole minute, just looking and listening.\n\nShe heard a bird she had never noticed. She saw a pattern in a wall she had walked past every day for three years. She felt the temperature of the air on her arms.\n\n'It's like everything got louder,' she said.\n\n'It didn't get louder,' said Juno. 'You just got quieter.'",
+      "discussion_prompt": "What is something you noticed today that you have never noticed before? What helped you see it?"
+    },
+    "explore": [
+      {
+        "question": "What does it mean to really notice something?",
+        "answer": "Noticing means paying full attention — not just seeing something but really taking it in. Your mind isn't somewhere else. It is like the difference between eating while watching TV and eating while really tasting your food."
+      },
+      {
+        "question": "Can you notice things inside you as well as outside?",
+        "answer": "Yes. Just like you can notice the colour of a bird, you can notice that your stomach is tight, or that you're feeling excited, or that a thought keeps coming back. Inside noticing is just as interesting as outside noticing."
+      },
+      {
+        "question": "Why is noticing a superpower?",
+        "answer": "Because when you really notice, you see more of the world — including parts that are beautiful or important that most people walk straight past. Noticers find more to be grateful for and understand other people better."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Game",
+        "name": "Five things",
+        "description": "Stop wherever you are. Together, each person finds: five things they can see, four they can touch, three they can hear, two they can smell, one they can taste. Do this slowly. Compare what each person notices. The differences are fascinating."
+      },
+      {
+        "type": "Game",
+        "name": "What's different?",
+        "description": "One person closes their eyes. The other changes one small thing in the room. The first person opens their eyes and finds what changed. This makes noticing into a game and practises careful, present-moment attention."
+      },
+      {
+        "type": "Mindful",
+        "name": "The one-minute sit",
+        "description": "Sit completely still for one minute. Just notice — sounds, body sensations, passing thoughts. Don't try to feel anything in particular. Afterwards, share what you each noticed. This is the beginning of meditation."
+      }
+    ],
+    "journal": [
+      { "prompt": "What is something you noticed this week that you had never noticed before?" },
+      { "prompt": "What was the most interesting thing you noticed inside yourself today?" },
+      { "prompt": "What gets in the way of really noticing things?", "note": "Common answers: being in a hurry, thinking about something else." },
+      { "prompt": "For you: when were you last genuinely, fully present — noticing the moment you were in? Describe it.", "is_parent_prompt": true }
+    ],
+    "quiz": [
+      {
+        "question": "What did Juno's friend discover when she stood still and really noticed?",
+        "options": [
+          { "text": "That there was nothing interesting to see", "correct": false },
+          { "text": "Things she had walked past every day but never truly taken in", "correct": true },
+          { "text": "That noticing was boring", "correct": false }
+        ]
+      },
+      {
+        "question": "What did Juno mean by 'you just got quieter'?",
+        "options": [
+          { "text": "That her friend had become less noisy", "correct": false },
+          { "text": "That the world was always full of things to notice — she just slowed down enough to receive them", "correct": true },
+          { "text": "That the birds had stopped singing", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "The default mode network and mind-wandering",
+        "body": "A landmark study by Killingsworth and Gilbert found people are mind-wandering 47% of the time, and consistently less happy when wandering than when focused — regardless of what they are doing. Present-moment attention is statistically associated with wellbeing.",
+        "practice": "Notice today how often your mind wanders from what you are actually doing. Not as criticism — as genuine curiosity. Where does it go?"
+      }
+    ]
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 3,
+    "slug": "breathing-5-6",
+    "title": "The breath that is always there",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 9,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Discover the breath as an anchor — always present, always available, the simplest and most powerful mindfulness tool.",
+    "parent_guide": "This lesson introduces the breath as anchor — the central technique of most mindfulness practices. At 5–6, introduce it through play and imagery. The key message: when everything is loud and fast, your breath is always there and always yours. Practise the breathing exercises together. Your willingness to breathe with your child is the most important part.",
+    "story": {
+      "title": "The anchor",
+      "body": "When the sea was stormy, boats used anchors.\n\nAn anchor didn't stop the storm. It just kept the boat from being carried away.\n\nMaya's grandmother showed her something.\n\n'Your breath is your anchor,' she said.\n\nMaya thought this was very strange. 'My breath is just breathing.'\n\n'Try this.' She put Maya's hand on her own tummy. 'Breathe in slowly and feel your tummy rise. Breathe out slowly and feel it fall.'\n\nMaya tried. Tummy up. Tummy down.\n\n'Is there a storm inside you right now?' her grandmother asked.\n\nMaya checked. A little one. School had been tricky today.\n\n'The breath won't make the storm go away,' said her grandmother. 'But if you focus on it — just this breath, just this one — you won't be carried away.'\n\nMaya breathed in. She breathed out.\n\nThe storm didn't disappear. But she felt the anchor holding.",
+      "discussion_prompt": "Have you ever noticed your breathing? When do you breathe fast? When do you breathe slowly? What happens when you breathe slowly on purpose?"
+    },
+    "explore": [
+      {
+        "question": "Why is breathing a good anchor?",
+        "answer": "Because it is always with you. You can't forget to bring it or lose it. It works anywhere — at school, in the car, at night. And nobody can even see you doing it. It is the most available tool you will ever have."
+      },
+      {
+        "question": "How does slow breathing help?",
+        "answer": "When you breathe slowly on purpose — especially with a longer out-breath — your body gets a signal: things are safe. Your heart slows. Your muscles soften a little. It is your body's own calming system, and you can switch it on yourself."
+      },
+      {
+        "question": "What does it mean to focus on your breath?",
+        "answer": "It means putting your full attention on the feeling of breathing — the air coming in, your chest or tummy rising, the air going out. When your mind wanders (and it will), you just gently bring it back. That is all. That is the whole practice."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Game",
+        "name": "Belly breathing",
+        "description": "Lie down and put a small toy on your tummy. Breathe in slowly through your nose — watch the toy rise. Breathe out slowly through your mouth — watch it fall. Try to make it move smoothly and slowly, like a boat on gentle water."
+      },
+      {
+        "type": "Game",
+        "name": "The breathing race",
+        "description": "Blow a feather or bubble across the room using only slow, controlled breaths. No huffing and puffing. This teaches breath control through play."
+      },
+      {
+        "type": "Mindful",
+        "name": "One minute of breath",
+        "description": "Sit comfortably. Close your eyes. For one minute, pay attention to your breathing. Don't change it — just notice it. When your mind wanders, bring it back. Afterwards: how many times did your mind wander? This is normal. The returning is the practice."
+      }
+    ],
+    "journal": [
+      { "prompt": "When did you use your breath as an anchor this week? What happened?" },
+      { "prompt": "What does it feel like to breathe slowly on purpose?" },
+      { "prompt": "Where does your mind go when you try to focus on your breath?", "note": "All answers are wonderful — thinking about food, games, family. All normal." },
+      { "prompt": "For you: when did you last use your breath deliberately to anchor yourself? How often do you remember this tool is available?", "is_parent_prompt": true }
+    ],
+    "quiz": [
+      {
+        "question": "Why did Maya's grandmother say the breath is an anchor?",
+        "options": [
+          { "text": "Because it makes storms go away", "correct": false },
+          { "text": "Because it keeps you from being carried away — it is always there and always yours", "correct": true },
+          { "text": "Because breathing is only useful when you are already calm", "correct": false }
+        ]
+      },
+      {
+        "question": "What do you do when your mind wanders during breath focus?",
+        "options": [
+          { "text": "Stop — you have done it wrong", "correct": false },
+          { "text": "Gently bring your attention back. That is the whole practice.", "correct": true },
+          { "text": "Try harder to stop your mind from wandering", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Heart rate variability and the vagus nerve",
+        "body": "Slow diaphragmatic breathing dramatically increases heart rate variability by stimulating the vagus nerve. High HRV is associated with better emotional regulation, improved immune function, and greater cognitive flexibility. When your child watches their tummy rise with a slow breath, they are improving their cardiovascular and nervous system health.",
+        "practice": "Try box breathing: in for four, hold for four, out for four, hold for four. Four rounds. Notice how you feel before and after.",
+        "reading": "James Nestor — Breath: The New Science of a Lost Art."
+      }
+    ]
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 4,
+    "slug": "busy-mind-5-6",
+    "title": "The busy mind",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 9,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Discover that having a wandering mind is completely normal — and learn a friendly way to work with it.",
+    "parent_guide": "Many children try a breathing exercise, notice their mind wandering, and conclude they are bad at it. This lesson reframes mind-wandering as normal and teaches that gently returning attention is itself the practice. Be honest about your own wandering mind. Sharing that yours wanders too is one of the most important things you can say.",
+    "story": {
+      "title": "The puppy mind",
+      "body": "Zoe was trying to sit still.\n\nBut her mind kept running off. One moment thinking about lunch. Then her friend's birthday. Then whether dogs could swim.\n\n'I am terrible at this,' she told her uncle. 'My mind won't stay.'\n\nHer uncle laughed kindly. 'Your mind is like a puppy.'\n\n'A puppy?'\n\n'Yes. A puppy doesn't sit still because you want it to. It runs off and sniffs things. You can't make it stop. But you can gently call it back.'\n\n'And it comes?'\n\n'Slowly, with practice. And every time you call it back — that is the training. You're not failing when your mind wanders. You're practising when you notice and return.'\n\nZoe tried again. Her mind ran off seventeen times in two minutes. She called it back seventeen times.\n\n'Seventeen practices,' said her uncle. 'Not seventeen failures.'",
+      "discussion_prompt": "Where does your mind go when it wanders? What are its favourite places to run off to?"
+    },
+    "explore": [
+      {
+        "question": "Is it normal for your mind to wander?",
+        "answer": "Completely. Everyone's mind wanders — children, adults, even people who have meditated for years. Mindfulness is not about having a perfectly still mind. It is about noticing when it has wandered and gently returning."
+      },
+      {
+        "question": "Why do we call it a puppy mind?",
+        "answer": "Because puppies are curious and hard to keep in one place — just like thoughts. You would not be angry at a puppy for running off. You would call it back gently. That is exactly the right attitude toward your wandering mind."
+      },
+      {
+        "question": "What does gently returning mean?",
+        "answer": "Bringing your attention back without criticising yourself. Not 'bad mind!' but just 'oh — there it went. Back to the breath now.' Kindness toward yourself is part of the practice."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Game",
+        "name": "Where did the puppy go?",
+        "description": "After a one-minute breathing practice, each person shares where their mind ran off to. Make a list — it is often hilarious. Compare the lists. Celebrate the most creative wanderings. This normalises mind-wandering and makes it interesting."
+      },
+      {
+        "type": "Creative",
+        "name": "Draw the puppy mind",
+        "description": "Draw your mind as a puppy. What is it chasing? Then draw yourself gently calling it back. Put the drawing where you do your breathing practice as a reminder."
+      },
+      {
+        "type": "Mindful",
+        "name": "The counting breath",
+        "description": "Breathe in and out, counting each breath from one to ten. When your mind wanders — and it will — start again at one. How high can you get? Don't compete. Just notice. Children are often delighted to discover they cannot get past three at first."
+      }
+    ],
+    "journal": [
+      { "prompt": "Where does your puppy mind love to go most? List its favourite wandering places." },
+      { "prompt": "How many times did your mind wander during breathing practice this week? How did it feel to return each time?" },
+      { "prompt": "What is the difference between being harsh with yourself about wandering and being like Zoe's uncle?" },
+      { "prompt": "For you: how does your mind wander? How harsh are you with yourself when you notice you have drifted?", "is_parent_prompt": true }
+    ],
+    "quiz": [
+      {
+        "question": "Why did Zoe's uncle compare her mind to a puppy?",
+        "options": [
+          { "text": "Because puppies are annoying", "correct": false },
+          { "text": "Because both need gentle patient training — not harsh correction", "correct": true },
+          { "text": "Because Zoe wanted a puppy", "correct": false }
+        ]
+      },
+      {
+        "question": "Zoe's uncle called her seventeen mind-wanderings:",
+        "options": [
+          { "text": "Seventeen failures", "correct": false },
+          { "text": "Seventeen practices — each return is the training", "correct": true },
+          { "text": "A sign she was bad at this", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Self-compassion and the inner critic",
+        "body": "Kristin Neff's research shows that self-criticism is not motivating — it is demotivating and associated with anxiety. Self-compassion is associated with greater resilience and paradoxically higher standards. The puppy mind story is teaching self-compassion to a five-year-old.",
+        "practice": "Notice this week how you speak to yourself when you fail at something small. Would you use those words with a five-year-old? If not, try the puppy approach: 'Oh — there my mind went. Back now.'",
+        "reading": "Kristin Neff — Self-Compassion: The Proven Power of Being Kind to Yourself."
+      }
+    ]
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 5,
+    "slug": "gratitude-5-6",
+    "title": "Thank you for this",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 9,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Discover the practice of gratitude — not as politeness, but as a way of noticing what is good.",
+    "parent_guide": "Gratitude as a practice — not the social obligation of saying thank you, but the intentional habit of noticing what is good — is one of the most reliably effective practices for improving wellbeing. At 5–6, keep it concrete, specific, and playful. Model genuine gratitude yourself: name specific things you are truly grateful for, not vague or performative ones.",
+    "story": {
+      "title": "The list",
+      "body": "Every night before bed, Cora's dad made a list.\n\nNot of things he needed to do. A list of three things that had been good that day.\n\nSome days the things were big. Some days they were small: 'Really good cup of tea.' 'Found a parking space.' 'The cat sat on my lap.'\n\nCora started her own list when she was five.\n\nSome days it was hard to think of three things. Those were usually the days she had been most certain nothing good had happened.\n\nBut when she looked properly — really looked — there was always something.\n\nA caterpillar on the path. Her favourite song on the radio. The warmth of her bed.\n\n'The things were always there,' she told her dad, years later. 'I just hadn't been looking for them.'",
+      "discussion_prompt": "What are three things from today that were good — even small things? What do you think would happen if you looked for good things every day?"
+    },
+    "explore": [
+      {
+        "question": "What is gratitude?",
+        "answer": "Gratitude is noticing and appreciating what is good — in your life, in the world, in the people around you. It is different from saying thank you because someone made you. Real gratitude is when you genuinely feel glad something exists."
+      },
+      {
+        "question": "Why does noticing good things matter?",
+        "answer": "Our brains are wired to notice what is wrong — to scan for problems. This is useful but it means we can miss what is good. Practising gratitude is like training your brain to scan for good things too. The good things were always there. You are just learning to see them."
+      },
+      {
+        "question": "Does gratitude mean pretending everything is fine?",
+        "answer": "No. You can have a hard day and still find three true things that were good. Gratitude doesn't ignore the bad — it notices the good that exists alongside it. Both things can be true at the same time."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "Three good things",
+        "description": "Every evening this week, each person shares three specific good things from their day. Not 'it was okay' — actual specific things. The more specific the better: 'the feeling of coming inside when it was cold' rather than 'being warm.' Make this a family ritual."
+      },
+      {
+        "type": "Creative",
+        "name": "The gratitude jar",
+        "description": "Put a jar in a visible place. Each day, each person writes or draws one good thing on a slip of paper and puts it in the jar. At the end of the week, read them all together. Watch the jar fill. At the end of a month, you have a visible record of everything that was good."
+      },
+      {
+        "type": "Game",
+        "name": "Gratitude hunt",
+        "description": "Go for a walk together. Each person has to find five things to be genuinely grateful for on the walk. Compare lists at the end. This makes gratitude into attention practice."
+      }
+    ],
+    "journal": [
+      { "prompt": "What are three specific things you felt genuinely grateful for this week?" },
+      { "prompt": "Was there a day when it was hard to find good things? What helped you look more carefully?" },
+      { "prompt": "What is one thing you are grateful for that you have never thanked anyone for?", "note": "Often children find this surprising — the sun, their body working, a tree outside the window." },
+      { "prompt": "For you: what are you genuinely, specifically grateful for today? Not the standard answers — the ones that are actually true right now.", "is_parent_prompt": true }
+    ],
+    "quiz": [
+      {
+        "question": "What did Cora discover when she looked carefully on hard days?",
+        "options": [
+          { "text": "That nothing good had happened", "correct": false },
+          { "text": "That there was always something good — she just had not been looking", "correct": true },
+          { "text": "That gratitude was only for good days", "correct": false }
+        ]
+      },
+      {
+        "question": "Gratitude is:",
+        "options": [
+          { "text": "Pretending everything is fine", "correct": false },
+          { "text": "Saying thank you when adults make you", "correct": false },
+          { "text": "Genuinely noticing and appreciating what is good", "correct": true }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "The neuroscience of gratitude",
+        "body": "Emmons and McCullough's research shows that writing three good things per day for three weeks produces significant, lasting improvements in wellbeing and positive emotion. The effects persist after the practice ends. Specificity matters — 'a good day' does not produce the same effect as 'the way the light was on the water at 4pm.'",
+        "practice": "Do the three good things practice yourself for seven days — writing them down. Notice what changes.",
+        "reading": "Robert Emmons — Thanks! How the New Science of Gratitude Can Make You Happier."
+      }
+    ]
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 6,
+    "slug": "being-here-5-6",
+    "title": "Being right here",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 9,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Explore what it means to be truly present — in your body, in the moment, with the people you love.",
+    "parent_guide": "This lesson is about presence. The most powerful thing you can do is genuinely put your phone away and be completely present with your child for the entire session. Everything you teach here will be undermined if you are half-elsewhere while teaching it.",
+    "story": {
+      "title": "Half-here",
+      "body": "Even when her mum was there, she wasn't always really there.\n\nShe was in the kitchen, but her eyes were on her phone. She was at the park, but her mind was somewhere else. She was at bedtime, but she seemed to be listening to something inside her head.\n\nOne day, Anya said: 'Mum. Where are you?'\n\nHer mum looked up. 'I'm right here, baby.'\n\n'You're half-here,' said Anya.\n\nHer mum put her phone down. She looked at Anya — really looked. She put her hand on Anya's cheek.\n\n'You're right,' she said quietly. 'I'm sorry. Where were we?'\n\nAnya smiled. 'We were right here.'",
+      "discussion_prompt": "Have you ever felt like someone was half-here? Have you ever been half-here yourself? What does it feel like when someone is completely with you?"
+    },
+    "explore": [
+      {
+        "question": "What does it mean to be completely present?",
+        "answer": "Your body and your mind are in the same place at the same time. You are not thinking about what happened earlier or what is happening later. You are just here, with what is actually happening right now."
+      },
+      {
+        "question": "Why is it hard to be present?",
+        "answer": "Our minds love to travel through time — into the past or into the future. This is useful but it means the present moment can get missed. And screens make it even harder because they pull your attention away from wherever you actually are."
+      },
+      {
+        "question": "Why does presence matter?",
+        "answer": "Because the present moment is the only place where life is actually happening. Right now — this breath, this conversation — is where everything real is taking place. Being here for it means more is remembered, more is felt, more connection happens."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The fully-here time",
+        "description": "Choose fifteen minutes this week where both of you are completely present together. No phones. No TV. No planning what to do next. Just being in the same place, attending to the same things. Afterwards, each person says one thing they noticed that they might have missed if they were half-here."
+      },
+      {
+        "type": "Game",
+        "name": "Here or away?",
+        "description": "Throughout the day, check in with each other: 'Are you here or away right now?' No judgment — just curiosity. If you are away, say where you went. This makes mind-wandering explicit and interesting rather than something to hide."
+      },
+      {
+        "type": "Creative",
+        "name": "Draw right now",
+        "description": "Sit together and draw the present moment — exactly what you can see from where you are sitting right now. This forces presence. It is impossible to draw 'right now' while being somewhere else in your mind."
+      }
+    ],
+    "journal": [
+      { "prompt": "When this week were you most completely present — most fully here? What were you doing?" },
+      { "prompt": "When this week were you most half-here? Where was your mind instead?" },
+      { "prompt": "What is it like when someone you love is completely present with you? How does it feel different from when they are half-here?", "note": "This question often produces remarkably specific and moving answers." },
+      { "prompt": "For you: how present are you with your child, honestly? What steals your presence most often?", "is_parent_prompt": true }
+    ],
+    "quiz": [
+      {
+        "question": "What did Anya mean when she said her mum was half-here?",
+        "options": [
+          { "text": "That her mum had left the room", "correct": false },
+          { "text": "That her mum's body was there but her mind and attention were somewhere else", "correct": true },
+          { "text": "That her mum was tired", "correct": false }
+        ]
+      },
+      {
+        "question": "Why does presence matter?",
+        "options": [
+          { "text": "Because the past and future are more interesting than now", "correct": false },
+          { "text": "Because the present moment is the only place where life is actually happening", "correct": true },
+          { "text": "Because thinking about the future is always harmful", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Parental presence and attachment",
+        "body": "Research on attachment finds it is not the quantity of time parents spend with children that most predicts secure attachment — it is the quality of presence. Children are exquisitely sensitive to the difference between a parent who is physically present and one who is genuinely attending. The smartphone's effect on parental presence is one of the most documented changes in parent-child interaction in the last decade.",
+        "practice": "Choose one moment in the day that currently involves divided attention and commit to full presence for that slot. No phone. No mental planning. Just there. Do it for one week and notice what changes.",
+        "reading": "Sherry Turkle — Reclaiming Conversation."
+      }
+    ]
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 7,
+    "slug": "hard-days-5-6",
+    "title": "Mindfulness on hard days",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": true,
+    "is_guided": true,
+    "description": "Learn how mindfulness practices help on difficult days — not by making hard things easier, but by helping you stay present with them.",
+    "parent_guide": "This sensitive lesson addresses using mindfulness tools on genuinely difficult days. The critical message — one that separates good mindfulness teaching from toxic positivity — is that mindfulness does not make hard things stop being hard. It helps you stay present with difficulty without being destroyed by it. If your child has had a particularly hard period recently, this lesson may feel very relevant. Go slowly.",
+    "story": {
+      "title": "The rainy day kit",
+      "body": "Remy had a rainy day kit.\n\nNot for actual rainy days — for the rainy days inside.\n\nThe kit had five things.\n\nA small smooth stone. A piece of paper and a pencil. A picture of a safe place. A list of three things that were good about right now.\n\nAnd the last thing: nothing. An empty slot.\n\n'What is that for?' asked Remy's teacher.\n\n'For remembering that sometimes there is nothing to do except feel it,' said Remy. 'And that is okay too.'",
+      "discussion_prompt": "What is in your rainy day kit? What helps you when you are having a hard day inside?"
+    },
+    "explore": [
+      {
+        "question": "Can mindfulness help on hard days?",
+        "answer": "Yes — but not by making hard things stop being hard. What it does is help you stay with the hard thing without running away or being overwhelmed. That is different from fixing it — but it is very useful."
+      },
+      {
+        "question": "What can you do when a hard day arrives?",
+        "answer": "Breathe slowly. Notice what you are feeling in your body without judging it. Find one small thing that is genuinely okay right now. Tell someone you trust. And remember Remy's empty slot: sometimes the right thing to do is simply feel it."
+      },
+      {
+        "question": "Is it okay to just feel bad for a while?",
+        "answer": "Completely. Not every difficult feeling needs to be solved quickly. Sometimes feelings need to be sat with and given time. Allowing them to be there, without fighting, is often what lets them move."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Creative",
+        "name": "Build your rainy day kit",
+        "description": "Together, build an actual rainy day kit — a small box or bag with five things your child chooses. They might include a smooth object, a drawing, a note from you, a list of good things. Keep it somewhere accessible. Knowing it exists is itself comforting."
+      },
+      {
+        "type": "Mindful",
+        "name": "The STOP practice",
+        "description": "Teach the STOP practice for hard moments: Stop. Take a breath. Observe what you are feeling. Proceed gently. Practise this now with a mild difficulty. Make it a formula your child can reach for independently."
+      },
+      {
+        "type": "Game",
+        "name": "Name and stay",
+        "description": "Practise naming a difficult feeling and staying with it for thirty seconds — without fixing it or running from it. Name it precisely. Then stay. Breathe. Notice if it changes slightly when you allow it to be there. This builds emotional tolerance."
+      }
+    ],
+    "journal": [
+      { "prompt": "What is in your rainy day kit? Why did you choose each thing?" },
+      { "prompt": "Did you have a hard day this week? What helped? What didn't?" },
+      { "prompt": "Remy had an empty slot for 'just feeling it.' Have you ever just sat with a hard feeling? What was that like?" },
+      { "prompt": "For you: what is in your own rainy day kit? Does it actually help, or just distract?", "is_parent_prompt": true }
+    ],
+    "quiz": [
+      {
+        "question": "What does mindfulness do on hard days?",
+        "options": [
+          { "text": "Makes hard things stop being hard", "correct": false },
+          { "text": "Helps you stay present with difficulty without being overwhelmed", "correct": true },
+          { "text": "Makes you feel happy instead", "correct": false }
+        ]
+      },
+      {
+        "question": "What was in Remy's empty slot?",
+        "options": [
+          { "text": "A favourite toy", "correct": false },
+          { "text": "A reminder that sometimes the right thing is just to feel it — and that is okay", "correct": true },
+          { "text": "A snack", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Distress tolerance",
+        "body": "Dialectical Behaviour Therapy identifies distress tolerance as one of four core skills for psychological wellbeing — the capacity to tolerate painful experience without making it worse through avoidance or destructive action. Research shows emotional avoidance is a core mechanism in anxiety and depression. Learning to tolerate distress early is one of the most protective things a child can develop.",
+        "practice": "The next time you are in emotional discomfort, try staying with it for three minutes without any coping strategy. Just sit with it. Notice what it does. This is harder than it sounds.",
+        "reading": "Marsha Linehan — DBT Skills Training Handouts and Worksheets."
+      }
+    ]
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 8,
+    "slug": "quiet-place-5-6",
+    "title": "My quiet place",
+    "age_band": "5-6",
+    "track": "wonder",
+    "duration_mins": 9,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "The capstone lesson — discovering that you carry a quiet place inside you wherever you go.",
+    "parent_guide": "This is the final Mindfulness lesson for 5–6 year olds. The tone should be warm and celebratory. Acknowledge specifically what your child has learned. Look at things you have made together in this world. Make the ending feel like a genuine completion worth celebrating.",
+    "story": {
+      "title": "The quiet place",
+      "body": "Whenever things got very loud — inside or outside — Wren knew where to go.\n\nNot a physical place. Not a room. A place inside.\n\nWren had discovered it slowly, lesson by lesson. It was where the pause button lived. Where the breath went when it was slow and steady. Where noticing happened. Where three good things were kept at the end of every day.\n\nWren called it the quiet place.\n\nIt was always there. At school in the middle of a noisy lunch. In the back of the car in traffic. In bed at night when sleep was far away.\n\n'Where do you go when things are too much?' a friend asked.\n\n'Inside,' said Wren. 'I have a quiet place there.'\n\n'Can I come?' asked the friend.\n\n'You have your own,' said Wren. 'You just haven't found it yet.'",
+      "discussion_prompt": "What is your quiet place like? When have you found it this term? What helped you find it?"
+    },
+    "explore": [
+      {
+        "question": "What is the quiet place?",
+        "answer": "The part of you that can be still, even when the world is loud. Where you go when you breathe slowly and pay attention. All the practices in this world have been helping you find it."
+      },
+      {
+        "question": "Do you take it with you wherever you go?",
+        "answer": "Yes. That is the best thing about it. It is not at home or at school or in a particular room. It is in you. Which means it is always accessible — on a hard day, in a new place, when you feel alone."
+      },
+      {
+        "question": "How do you find it?",
+        "answer": "The quickest way is through the breath. One slow intentional breath begins the journey. Noticing what is around you helps. Letting thoughts pass without chasing them. The quiet place is always there. The practices are just the door."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Creative",
+        "name": "Draw your quiet place",
+        "description": "Draw what your quiet place looks like inside — not a physical room but the feeling of it. What colour is it? What is in it? Is it big or small? Keep this drawing — it belongs in The Book."
+      },
+      {
+        "type": "Mindful",
+        "name": "The celebration practice",
+        "description": "Breathe in slowly and think of one thing from this world you are glad you learned. Breathe out and let it settle. Do this three times with three different things. This is a mindfulness practice and a celebration at the same time."
+      },
+      {
+        "type": "Game",
+        "name": "Teaching the quiet place",
+        "description": "Your child teaches the quiet place to a soft toy or imaginary friend — explaining the pause button, the breath, noticing, the three good things. Teaching is the deepest form of learning. Let them be the expert."
+      }
+    ],
+    "journal": [
+      { "prompt": "What is your quiet place like? Describe it." },
+      { "prompt": "Which practice from this world helped you most? Why?" },
+      { "prompt": "When will you use your quiet place next week?", "note": "This forward-looking prompt builds intention and habit." },
+      { "prompt": "For you: what has changed about your own inner life through doing this world alongside your child?", "is_parent_prompt": true }
+    ],
+    "quiz": [
+      {
+        "question": "Where is the quiet place?",
+        "options": [
+          { "text": "In a special room at home", "correct": false },
+          { "text": "Inside you — always accessible, wherever you are", "correct": true },
+          { "text": "Only available when you are alone", "correct": false }
+        ]
+      },
+      {
+        "question": "What is the quickest way to find the quiet place?",
+        "options": [
+          { "text": "Going to your bedroom", "correct": false },
+          { "text": "One slow intentional breath — it begins the journey inward", "correct": true },
+          { "text": "Waiting until you feel calm", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "The secure base and the internal working model",
+        "body": "Bowlby's attachment theory describes the 'secure base' — the internal representation of a reliable caregiver that allows exploration from safety. The quiet place Wren describes is a mindfulness correlate of this: an inner resource of stability accessible independently of external circumstances. You are helping your child build that resource.",
+        "practice": "Write one paragraph about your own inner quiet place — whether you have one, what it feels like, when you can and cannot find it.",
+        "reading": "Daniel Siegel — The Mindful Brain."
+      }
+    ]
+  }
+]

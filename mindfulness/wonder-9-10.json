@@ -1,0 +1,764 @@
+[
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 1,
+    "slug": "attention-9-10",
+    "title": "The architecture of attention",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 11,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Understand attention at a sophisticated level — what it is neurologically, how it can be trained, and why the quality of your attention shapes the quality of your life.",
+    "parent_guide": "At 9–10, children can engage with the science of attention in a genuinely interesting way. This lesson treats them as intellectually capable — presenting neuroscience in accessible terms and inviting them to treat their own mind as a subject of curious investigation. The discussions at this age will often be more substantive than you expect. Follow wherever they lead.",
+    "story": {
+      "title": "The most valuable thing",
+      "body": "The philosopher had been asked the same question by students for forty years.\n\n'What is the most valuable thing a person can have?'\n\nHer students offered: health, love, wisdom, time, money.\n\nShe listened to all of them.\n\n'Attention,' she said finally.\n\nThe students were confused.\n\n'Your life,' she said, 'is made of moments. And moments are made of attention. Where your attention goes, your life goes. Where it doesn't go — however beautiful or important — might as well not exist for you. The person eating a meal while lost in worry has not eaten the meal. The person listening to a friend while planning their response has not heard the friend. The person watching a sunset while composing a message about it has not seen the sunset.'\n\nA student asked: 'Can you get more attention?'\n\n'You cannot get more of it,' she said. 'But you can waste less of it. And you can learn to place it more deliberately. These two things together are what most people call wisdom.'",
+      "discussion_prompt": "Where does your attention go most in a typical day? How much of it do you think is deliberate — placed on purpose — and how much of it gets pulled somewhere without your choosing?"
+    },
+    "explore": [
+      {
+        "question": "What is attention, neurologically?",
+        "answer": "Attention is a limited neural resource — a spotlight that can illuminate one thing at a time. The brain processes enormous amounts of information every second, but conscious awareness can hold only a small amount. Attention determines what enters conscious awareness. Where you direct it shapes what you notice, remember, and experience. It is, in the most literal sense, the medium through which you live your life."
+      },
+      {
+        "question": "What are the three types of attention and how do they work?",
+        "answer": "Focused attention: deliberately directing the spotlight at one thing — a breath, a text, a problem. Sustained attention: maintaining that focus over time. Flexible attention: the ability to shift the spotlight deliberately from one thing to another, rather than being pulled. All three can be trained. Mindfulness practice exercises all three simultaneously."
+      },
+      {
+        "question": "What is the cost of inattention?",
+        "answer": "When attention is not deliberately placed, it defaults to patterns that evolved for survival — scanning for threats, running through social hierarchies, rehearsing past events and future scenarios. These patterns are useful in small doses but destructive in excess. The wandering mind is consistently associated with lower happiness than the present mind. The cost is not abstract — it is in the actual texture of experience."
+      },
+      {
+        "question": "Can you measure your own attention quality?",
+        "answer": "Roughly, yes. Notice how long you can read before your mind wanders. Notice how often you check your phone without intending to. Notice how much you remember of conversations. Notice how often you arrive somewhere with no memory of the journey. These are imprecise indicators but they give you honest data about the current state of your attentional capacity."
+      },
+      {
+        "question": "Your mirror — modelling attention",
+        "answer": "The quality of attention you offer your child — whether you are genuinely present or distracted — is perhaps the most significant signal about their worth and about the value of presence. Research consistently shows that children whose parents offer quality attention develop higher self-esteem, better emotional regulation, and stronger attachment. Your phone use in their presence is not a neutral act.",
+        "is_parent_mirror": true
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The attention audit",
+        "description": "For one day, keep a simple log of where your attention goes each hour: (1) deliberately placed on a chosen task, (2) wandering to past or future, (3) pulled by external stimulation without choosing. At the end of the day, what does your attention economy look like? What percentage was actually yours?"
+      },
+      {
+        "type": "Game",
+        "name": "The attention quality test",
+        "description": "Have a conversation for five minutes — one person talks, one person listens with full attention (no phone, no planning responses, just listening). Afterwards: the talker rates how present the listener felt (1–10). The listener describes three specific things the talker said. Compare notes. What does full attention feel like to give and to receive?"
+      },
+      {
+        "type": "Creative",
+        "name": "The attention economy map",
+        "description": "Draw your attention economy — a pie chart or map showing where your attention actually goes during a typical day. Be honest. Then draw what you'd want it to look like. The gap between the two is the project."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "After doing the attention audit, what did you discover about where your attention actually goes? What surprised you?"
+      },
+      {
+        "prompt": "The philosopher said your life is made of moments and moments are made of attention. Do you think this is true? What would it mean for how you live?"
+      },
+      {
+        "prompt": "What one change to where you place your attention would most improve your daily experience?"
+      },
+      {
+        "prompt": "For you: do your own attention audit. Where does your attention go during time with your child? Be honest about the percentage that is genuinely present.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why did the philosopher say attention is the most valuable thing?",
+        "options": [
+          { "text": "Because it can be traded for money", "correct": false },
+          { "text": "Because life is made of moments and moments are made of attention — where attention doesn't go, things might as well not exist for you", "correct": true },
+          { "text": "Because paying attention in school leads to good grades", "correct": false }
+        ]
+      },
+      {
+        "question": "What are the two things the philosopher said you can do with attention?",
+        "options": [
+          { "text": "Increase it and share it", "correct": false },
+          { "text": "Waste less of it and learn to place it more deliberately", "correct": true },
+          { "text": "Buy it and sell it", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "The attention economy and its cost",
+        "body": "Economist Herbert Simon observed in 1971 that 'a wealth of information creates a poverty of attention.' The digital attention economy — built on maximising time spent and engagement generated — has made this poverty structural. The average adult now checks their phone 96 times per day. Research consistently links heavy social media use with reduced attention span, increased anxiety, and decreased wellbeing. Understanding this is not about moral judgment. It is about understanding the context in which you and your child are attempting to develop attentional capacity.",
+        "practice": "For one day this week, track your phone checks. Every time you pick up your phone without a specific intention, make a tally mark. At the end of the day, share the count with your child. Honest self-disclosure about this is more instructive than any amount of advice.",
+        "reading": "Johann Hari — Stolen Focus. The most accessible and well-researched account of the attention crisis and what causes it."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 2,
+    "slug": "present-moment-9-10",
+    "title": "This moment, exactly",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 11,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Develop a sophisticated relationship with the present moment — including an honest examination of why it is often easier to be anywhere else.",
+    "parent_guide": "At 9–10, the concept of presence can be explored at a genuinely philosophical level. The questions in this lesson — why do we avoid the present? what is actually in it? what does it mean to fully inhabit a moment? — are real questions worth taking seriously. Your child may have more to say about this than you expect. The discussion prompt is designed to be open enough for a genuine conversation between equals.",
+    "story": {
+      "title": "The unopened present",
+      "body": "There was a gift sitting on a table.\n\nIt had been there all day. Wrapped beautifully. With a card that said: This is for you. It is only available right now.\n\nBut people kept walking past it. They were busy thinking about yesterday's unopened gifts. Or they were worried about tomorrow's deliveries. Or they were on their phones, watching other people open gifts somewhere else.\n\nBy evening, the gift was gone.\n\nA few people who had been very present that day — who had stopped and opened it and felt it fully — were sitting quietly, with something in their eyes that the others were missing.\n\n'What was in it?' asked someone who had walked past all day.\n\n'This moment,' said one of the people who had opened it. 'Exactly this one. There was nothing extraordinary about it. It was ordinary. It was warm. It was real. And it was only available once.'",
+      "discussion_prompt": "Why do you think people walk past the present moment — why is it often easier to be in our heads than here? What does it take to actually open the gift?"
+    },
+    "explore": [
+      {
+        "question": "Why is it often easier to be in the past or future than here?",
+        "answer": "The past and future are constructed by the mind — they are imaginary spaces where we have more narrative control than in the present. In the present, we might find discomfort, uncertainty, or just ordinariness. The mind prefers the illusion of control that comes with replaying past events or planning future ones. This preference is deeply wired. Presence requires an active choice against the default."
+      },
+      {
+        "question": "What is actually in the present moment?",
+        "answer": "Sensation: what can be seen, heard, felt, smelled, tasted. Actual experience: what is genuinely happening, as opposed to the story about it. Relationship: real contact with another person, as opposed to performing contact. And — sometimes — something harder to name: a quality of aliveness that the thinking mind tends to abstract away."
+      },
+      {
+        "question": "What is the relationship between presence and memory?",
+        "answer": "Research on memory encoding shows that moments we are fully present for — genuinely attentive, emotionally engaged — are encoded more richly than moments we're distracted or on autopilot. The irony of constant documentation (photos, videos, posts) is that the act of documenting often displaces the actual experience, resulting in weaker memories than simply being there. The best way to have something to remember is to be fully present when it happens."
+      },
+      {
+        "question": "Can you be too present?",
+        "answer": "The capacity to move between past, present, and future is one of the most important human abilities — it enables learning from experience, planning, and imagination. The problem is not that we visit past and future. The problem is that we live there permanently, visiting the present only briefly. The goal is not exclusive present focus but a living, breathing relationship with all three — with the present as home base, and past and future as places you visit with intention."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The present-moment investigation",
+        "description": "Right now, spend five minutes doing nothing but investigating this present moment as precisely and completely as possible. What is here? Describe it — visually, auditorially, sensorially, emotionally. Include the mundane and the beautiful equally. This is not a creative exercise. It is a phenomenological investigation. What is actually here?"
+      },
+      {
+        "type": "Game",
+        "name": "Past, present, or future?",
+        "description": "For twenty minutes during a regular activity — a meal, a walk — each person tracks where their attention is every time one person calls 'check.' Is it in the past, the present, or the future? What percentage is genuinely here? Do this without judgment. Just data."
+      },
+      {
+        "type": "Creative",
+        "name": "This moment, described",
+        "description": "Write the most precise and complete description of this exact moment that you can. Include everything: the quality of light, temperature, sounds, your physical sensations, your mood, what is in front of you, what is behind you. Write for ten minutes without stopping. This is your document of this one unrepeatable moment."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What did the present-moment investigation reveal? What was actually here that you hadn't fully noticed?"
+      },
+      {
+        "prompt": "The story says the gift was only available once. What ordinary moments from the last week were only available once? Did you open them?"
+      },
+      {
+        "prompt": "Why do you personally find it difficult to be present? What does the past or future offer that the present doesn't seem to?"
+      },
+      {
+        "prompt": "For you: what would it mean to make the present moment your home base — to visit past and future with intention rather than living there permanently?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why is it often easier to be in the past or future than present?",
+        "options": [
+          { "text": "The present is less interesting", "correct": false },
+          { "text": "The mind prefers the narrative control of imaginary spaces over the uncertainty of what's actually here", "correct": true },
+          { "text": "The past and future are more real", "correct": false }
+        ]
+      },
+      {
+        "question": "What is the relationship between presence and memory?",
+        "options": [
+          { "text": "Documenting moments creates better memories than being fully present", "correct": false },
+          { "text": "Moments we are fully present for are encoded more richly — the best way to have something to remember is to be there", "correct": true },
+          { "text": "Presence and memory are unrelated", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Temporal experience and wellbeing",
+        "body": "Philip Zimbardo's research on time perspective found that psychological wellbeing is associated with a particular balance of temporal orientations: moderately positive past (learning from experience with gratitude), present hedonism (capacity to enjoy the present), and future orientation (ability to plan and defer gratification). Neither exclusive present focus nor chronic future worry produces wellbeing. The healthy relationship with time involves the present as home base — a place of genuine inhabitation — with past and future as territories visited for specific purposes.",
+        "practice": "Keep a presence log for three days: each evening, write one moment from the day when you were genuinely present — fully here, opening the gift. What made that moment possible? What was in it?",
+        "reading": "Thich Nhat Hanh — The Present Moment. Eckhart Tolle — The Power of Now. Two different expressions of the same central insight."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 3,
+    "slug": "noticing-9-10",
+    "title": "The quality of attention",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 11,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Develop a sophisticated understanding of how the quality of your attention changes what you notice and what you experience — and how to cultivate attentional qualities that enrich life.",
+    "parent_guide": "At 9–10, the noticing practice deepens further into examining the quality of attention itself — not just where attention goes, but how it arrives. Judgment vs. curiosity. Rushing vs. dwelling. Closed vs. open. These distinctions matter enormously and are accessible to nine and ten year olds who are genuinely curious about their own minds. Share your own experience of how the quality of your attention changes what you find.",
+    "story": {
+      "title": "Two ways of looking",
+      "body": "The art teacher gave the class the same assignment: draw the school building.\n\nMost students looked at the building for a few seconds — yes, building, grey, rectangular, windows — and drew from memory.\n\nOne student, Mai, spent twenty minutes just looking before she drew anything.\n\nShe noticed that the building wasn't grey — it was seventeen different shades of grey, some green-tinged, some warm. She noticed that the windows weren't rectangular — they were slightly different sizes and the frames had layers of old paint. She noticed that at three o'clock, the light hit the brickwork at an angle that made it glow amber.\n\nThe drawings looked entirely different.\n\n'Same building,' said the teacher. 'Different quality of attention.'\n\nMai's building looked more real than the building itself.",
+      "discussion_prompt": "When do you look at things with rushed, closed attention — 'yes, I know what that is' — versus slow, open attention? What's the difference in what you find?"
+    },
+    "explore": [
+      {
+        "question": "What is the quality of attention, and how does it differ from the direction of attention?",
+        "answer": "Direction is where you look. Quality is how you look. Two people can direct attention to the same object and have entirely different experiences based on the quality of their attention — whether it is open or closed, curious or judging, rushing or dwelling, full or partial. Quality of attention is trainable and transformative."
+      },
+      {
+        "question": "What are the qualities that enrich attention?",
+        "answer": "Curiosity — approaching experience as if you might find something interesting rather than confirming what you already know. Openness — allowing what is actually there to register rather than filtering through expectations. Non-judgment — noticing without immediately categorising as good or bad. Patience — allowing time for the experience to unfold rather than rushing past it. Gentleness — approaching experience with care rather than analysis or urgency."
+      },
+      {
+        "question": "What is the difference between attention and awareness?",
+        "answer": "Attention is the focused spotlight — directed at one thing. Awareness is broader — the field in which attention moves. Mindfulness works with both: the ability to focus attention deliberately and the ability to rest in open, receptive awareness. Both are valuable. Focused attention gets things done. Open awareness notices what focused attention misses."
+      },
+      {
+        "question": "How does the quality of your attention affect other people?",
+        "answer": "People can feel the quality of the attention they receive. Being looked at with genuine curiosity and openness feels completely different from being looked at with judgment or distraction. Full, warm attention is one of the most profound gifts one person can give another. Research on therapy outcomes consistently finds that the quality of the therapist's attention — more than any specific technique — predicts how well clients do."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The slow look",
+        "description": "Choose one ordinary object. Spend ten minutes looking at it with the quality of attention Mai used — open, curious, patient, not-knowing. Describe what you find. Compare what you find in the first minute versus the tenth minute. The shift in what becomes visible is dramatic and direct."
+      },
+      {
+        "type": "Game",
+        "name": "Quality of attention tasting",
+        "description": "Eat something — a piece of fruit, a biscuit, anything — twice. First time: eat normally, while talking or thinking about something else. Second time: eat with full attention — notice every flavour, texture, temperature, the way it changes as you chew. Compare the two experiences. This is direct evidence of what quality of attention does."
+      },
+      {
+        "type": "Creative",
+        "name": "Draw with slow attention",
+        "description": "Like Mai: choose something to draw. But before drawing, spend fifteen minutes just looking at it — with open, curious, patient attention. Then draw what you actually see, not what you think it looks like. Notice what the slow attention reveals."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What did the slow look reveal about the object you chose? What did you find that you hadn't expected?"
+      },
+      {
+        "prompt": "In which areas of your life do you tend to use rushed, closed attention? What might be different if you brought slow, open attention there?"
+      },
+      {
+        "prompt": "Think of a person in your life. What would it be like to look at them with the same quality of attention that Mai gave the building?"
+      },
+      {
+        "prompt": "For you: what would it mean to bring the quality of attention you wish you received to your interactions with your child?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What made Mai's drawing different from the others?",
+        "options": [
+          { "text": "She had more artistic talent", "correct": false },
+          { "text": "She used a different quality of attention — slow, open, and curious rather than rushed and closed", "correct": true },
+          { "text": "She had a better view of the building", "correct": false }
+        ]
+      },
+      {
+        "question": "What is the difference between attention and awareness?",
+        "options": [
+          { "text": "They are the same thing", "correct": false },
+          { "text": "Attention is the directed spotlight; awareness is the broader field in which attention moves", "correct": true },
+          { "text": "Awareness is less important than attention", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Contemplative attention in the arts",
+        "body": "The quality of attention that Mai develops is what artists, naturalists, poets, and contemplatives have cultivated across every culture: the capacity for what Iris Murdoch called 'just and loving attention' — attending to the reality of what is actually there rather than the projection of what we expect. Murdoch argued this was the foundation of both good art and good ethics. You cannot paint truly, write truly, or love truly without it. Your child is learning it through a drawing exercise. The implications extend far beyond drawing.",
+        "practice": "Try the slow look yourself this week — with any object, any person, any situation you might normally rush past. Spend ten minutes looking as if you might find something you haven't seen before. What do you find?",
+        "reading": "Iris Murdoch — The Sovereignty of Good. John Berger — Ways of Seeing. Two very different accounts of what it means to look well."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 4,
+    "slug": "gratitude-9-10",
+    "title": "Gratitude and the good life",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 11,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Explore gratitude as a philosophical practice — its relationship to luck, perspective, sufficiency, and what it means to live well.",
+    "parent_guide": "At 9–10, gratitude can be explored philosophically — not just as a feeling or a practice, but as a whole orientation to life. This lesson introduces the Stoic practice of negative visualisation, the concept of sufficiency vs. always wanting more, and the philosophical question of whether gratitude is owed to anyone. These are real intellectual questions worth sitting with. Don't rush to resolve them — the exploration is the point.",
+    "story": {
+      "title": "The philosopher's exercise",
+      "body": "The philosopher had one exercise she gave everyone who came to her.\n\n'Before you go to sleep tonight,' she said, 'imagine you have lost everything in this room. Your books. Your warm bed. The window. The sounds from outside. All of it — gone.'\n\nHer student looked puzzled.\n\n'Then tomorrow morning,' she continued, 'imagine it has been given back to you. All of it. Not taken for granted. Given.'\n\nThe student tried it.\n\nThe next morning he woke up and the quality of light through the window was extraordinary. His books looked remarkable. Even the slightly scratchy blanket was an object of wonder.\n\nNothing had changed.\n\nEverything had changed.\n\n'How long does it last?' he asked her.\n\n'For most people, a few days,' she said. 'Then the mind adapts again and takes it all for granted again. That is why it is a practice, not a treatment. You do it again and again. That is the work.'",
+      "discussion_prompt": "Is gratitude something you feel, or is it something you practise? Can you decide to be grateful, or does it just happen to you? What do you think?"
+    },
+    "explore": [
+      {
+        "question": "What did the Stoics understand about gratitude?",
+        "answer": "The Stoic philosophers, including Marcus Aurelius and Epictetus, practised what they called negative visualisation — deliberately imagining the loss of things they valued, to counteract the adaptation that makes good things invisible. This is not pessimism. It is the deliberate creation of contrast — using the imagination of absence to make presence vivid. The philosopher's exercise in the story is negative visualisation."
+      },
+      {
+        "question": "What is the relationship between gratitude and sufficiency?",
+        "answer": "Gratitude and sufficiency — the sense that what you have is enough — are deeply linked. Most of the systems around us are designed to ensure you never feel sufficient: advertising creates new needs continuously, social comparison generates desire for what others have. Gratitude is the counter-practice: not pretending you have everything, but genuinely experiencing what you have as genuinely valuable. Sufficiency is not settling. It is satisfaction."
+      },
+      {
+        "question": "Is gratitude always deserved — is it owed to someone?",
+        "answer": "This is a genuine philosophical question. Gratitude directed at a specific person implies they deserve credit for what they gave. But what about the warmth of sunlight, or the fact of your own existence? Some philosophers argue that gratitude can exist as an orientation — a way of receiving life — that doesn't require a recipient. Others argue it requires a giver. Both views are worth holding."
+      },
+      {
+        "question": "What is the difference between genuine gratitude and performed gratitude?",
+        "answer": "Genuine gratitude arises from actual noticing — from being present enough to feel the value of something. Performed gratitude is a social behaviour: saying the right thing at the right time without the inner experience. Both have their place, but only genuine gratitude produces the wellbeing benefits that research documents. You cannot practise your way to gratitude without practising genuine attention."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The Stoic morning",
+        "description": "Tonight, spend five minutes imagining you have lost something valuable in your life — a person, a place, an ability, a circumstance. Imagine the absence fully. Tomorrow morning, let it be 'given back.' Notice how you experience it. Record what you find."
+      },
+      {
+        "type": "Creative",
+        "name": "The gratitude letter",
+        "description": "Write a letter to someone — a person, a place, a moment, something you might not usually think to be grateful for — expressing genuine gratitude with full specificity. What exactly did they give? What would have been missing without it? You do not have to send the letter. The writing is the practice."
+      },
+      {
+        "type": "Game",
+        "name": "The luck audit",
+        "description": "List twenty things in your life that are good. Then, for each one, decide: is this something you earned, or is it something you were lucky to have? Be honest. Most people find the proportion of luck is higher than they expected. What does that reveal about gratitude?"
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What did the Stoic morning reveal? What looked different after the exercise of imagining absence?"
+      },
+      {
+        "prompt": "Do you think gratitude is something you feel or something you choose? Can both be true?"
+      },
+      {
+        "prompt": "What in your life are you most at risk of taking for granted — and what would it take to stop?"
+      },
+      {
+        "prompt": "For you: do the luck audit yourself. What proportion of what you value most was luck rather than effort? What does honest gratitude look like in response to that?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is negative visualisation?",
+        "options": [
+          { "text": "A practice of focusing on everything bad in your life", "correct": false },
+          { "text": "Deliberately imagining the loss of things you value, to counteract adaptation and make presence vivid", "correct": true },
+          { "text": "A kind of pessimism that makes people unhappy", "correct": false }
+        ]
+      },
+      {
+        "question": "What is the relationship between gratitude and sufficiency?",
+        "options": [
+          { "text": "Gratitude means settling for less than you deserve", "correct": false },
+          { "text": "Gratitude and sufficiency are linked — gratitude is the practice of genuinely experiencing what you have as genuinely valuable", "correct": true },
+          { "text": "They are unrelated", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Stoic practices and modern positive psychology",
+        "body": "The Stoic practices of negative visualisation and memento mori (the contemplation of mortality) preceded modern gratitude research by two thousand years. The psychological mechanism they identified — that contrast between presence and imagined absence generates appreciation — is precisely what Timothy Wilson and Daniel Gilbert's experimental research confirmed in 2005. The Stoics were empiricists of the inner life before empiricism was formalised. Their practices are directly relevant to contemporary wellbeing.",
+        "practice": "Try negative visualisation with three things you value this week. Choose things at different scales: something small, something medium, something large. Notice which scale produces the most vivid gratitude response.",
+        "reading": "Marcus Aurelius — Meditations. Ryan Holiday — The Obstacle Is the Way. Two different entry points into Stoic practice."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 5,
+    "slug": "stillness-9-10",
+    "title": "Solitude and the self",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 11,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Explore solitude as a positive practice — the difference between loneliness and chosen aloneness — and what you find when you are genuinely alone with yourself.",
+    "parent_guide": "At 9–10, children are entering a period of increasing social complexity and peer pressure. The capacity for solitude — the ability to be genuinely alone with oneself without anxiety — is both increasingly counter-cultural and increasingly important. This lesson makes the distinction between loneliness (unwanted aloneness) and solitude (chosen aloneness as a resource), and invites your child to discover what is actually in their own company. Be honest about your own relationship with solitude — many adults fear it.",
+    "story": {
+      "title": "What the astronomer found",
+      "body": "The astronomer worked alone, at the top of a mountain, for six months of every year.\n\nPeople asked how she bore the loneliness.\n\n'I'm not lonely,' she said. 'I am alone. They are completely different things.'\n\nLoneliness, she explained, was the painful awareness of unwanted absence — of people you wanted who weren't there.\n\nSolitude was the chosen experience of one's own company — actively valued, not passively endured.\n\n'When I am alone,' she said, 'I notice things I miss when people are around. The quality of my own thinking. The things I actually believe, as distinct from the things I say to fit in. The sounds that only the silence reveals. And something else — something I don't have a name for. Something that is just mine.'\n\nShe paused.\n\n'When you are always with people, you learn a great deal about other people. When you are sometimes alone, you learn something about yourself. Both are necessary. But only one is often neglected.'",
+      "discussion_prompt": "What do you find when you are genuinely alone — not lonely, but alone on purpose? What is in your own company that is different from when others are there?"
+    },
+    "explore": [
+      {
+        "question": "What is the difference between loneliness and solitude?",
+        "answer": "Loneliness is the painful awareness of unwanted aloneness — the absence of desired connection. Solitude is chosen aloneness — valued, not endured. They share the external condition (being alone) but differ entirely in the inner relationship with that condition. Research shows that people who can access solitude — who are comfortable in their own company — have higher wellbeing, stronger self-knowledge, and are often more genuinely connected in relationships than people who can only tolerate being with others."
+      },
+      {
+        "question": "Why do many people fear solitude?",
+        "answer": "Because solitude means being alone with your own thoughts, feelings, and self-evaluations — without distraction, without external validation, without the social feedback that tells you who you are. For many people, this feels threatening. Research by Timothy Wilson showed that many people prefer mild electric shocks to sitting alone with their thoughts for fifteen minutes. Solitude requires a functioning and reasonably friendly relationship with yourself."
+      },
+      {
+        "question": "What becomes possible in solitude that isn't possible with others?",
+        "answer": "Deep self-knowledge — what you actually think and feel, as distinct from what you think and feel in social context. Genuine rest — not the performance of relaxation but actual restoration. Creative insight — many of the best ideas arrive in solitude. And a particular kind of freedom: from the performing, adapting, and managing that social life requires."
+      },
+      {
+        "question": "How do you cultivate a good relationship with solitude?",
+        "answer": "Start small. Periods of deliberate aloneness without stimulation — a walk without headphones, fifteen minutes without a screen, eating a meal without a book or phone. Notice what arises. Be curious about it rather than anxious. Gradually extend the period. The discomfort of the first minutes tends to give way to something else — if you stay long enough to find it."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The twenty-minute solitude",
+        "description": "Each person spends twenty minutes genuinely alone — no screen, no book, no music. Just being with themselves. Afterwards, share: what happened? What thoughts arrived? Was there discomfort? Did anything shift? This is not a meditation exercise — it is simply being alone, awake, and present."
+      },
+      {
+        "type": "Creative",
+        "name": "The solitude journal",
+        "description": "Immediately after the twenty-minute solitude, write for ten minutes without stopping: whatever arose, whatever you noticed, whatever the silence revealed. Do not edit or evaluate. This is direct reporting from the interior."
+      },
+      {
+        "type": "Game",
+        "name": "Loneliness or solitude?",
+        "description": "Each person describes a recent experience of being alone. The other person asks: was this loneliness or solitude? What made it one or the other? What would have been needed to shift it from one to the other? This builds the capacity to distinguish and choose."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What did you find in the twenty minutes of solitude? Was there anything there that surprised you?"
+      },
+      {
+        "prompt": "Do you find solitude comfortable or uncomfortable? Where do you think that came from?"
+      },
+      {
+        "prompt": "The astronomer said you learn about other people when you are with them, and something about yourself when alone. What do you learn about yourself in solitude that you can't find in company?"
+      },
+      {
+        "prompt": "For you: what is your honest relationship with solitude? Do you seek it or avoid it? What would you find if you spent more time genuinely alone?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the difference between loneliness and solitude?",
+        "options": [
+          { "text": "Loneliness is chosen; solitude is painful", "correct": false },
+          { "text": "Loneliness is painful unwanted aloneness; solitude is chosen aloneness that is valued", "correct": true },
+          { "text": "They are the same experience", "correct": false }
+        ]
+      },
+      {
+        "question": "What becomes possible in solitude that isn't possible with others?",
+        "options": [
+          { "text": "Nothing — being with others is always better", "correct": false },
+          { "text": "Deep self-knowledge, genuine rest, creative insight, and freedom from social performance", "correct": true },
+          { "text": "Only sadness and boredom", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Solitude and the development of self",
+        "body": "Developmental psychologist D.W. Winnicott identified the 'capacity to be alone' — specifically, the capacity to be alone in the presence of a parent — as a crucial developmental achievement. The child who can be alone with their own thoughts and inner world, without anxiety, while feeling the implicit safety of a nearby adult, is developing what Winnicott called the 'true self.' This capacity transfers to adult life: people who can be alone as adults tend to be more genuinely present in relationships, less dependent on external validation, and more capable of accessing their own inner life. Protecting your child's solitude is protecting their self-development.",
+        "practice": "Create conditions for solitude for yourself and your child this week — not together, but separately. Twenty minutes of genuine aloneness, without tasks or screens. Then share what you each found.",
+        "reading": "Winnicott — The Capacity to be Alone (in The Maturational Processes and the Facilitating Environment). Ester Buchholz — The Call of Solitude."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 6,
+    "slug": "difficult-moments-9-10",
+    "title": "Equanimity — the ground that holds",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 12,
+    "is_sensitive": true,
+    "is_guided": true,
+    "description": "Introduce equanimity — the capacity to be moved by difficult experience without being destroyed by it — as the deepest fruit of mindfulness practice.",
+    "parent_guide": "This is the sensitive lesson for the 9–10 Mindfulness world. Equanimity is one of the most sophisticated concepts in contemplative tradition — often misunderstood as detachment or not caring. This lesson distinguishes equanimity (full presence with whatever arises, combined with a stable ground that is not swept away) from suppression, avoidance, and false cheerfulness. At 9–10, children can genuinely grasp this distinction and begin to develop this quality. Approach the lesson with real respect for its depth.",
+    "story": {
+      "title": "The tree and the storm",
+      "body": "In the forest, there were two kinds of trees in a storm.\n\nThe rigid ones — the ones that would not bend — sometimes broke. The wind found their resistance and used it against them.\n\nThe flexible ones — the ones that moved completely with the wind, bending nearly to the ground — sometimes survived the storm but took years to recover.\n\nBut there was a third kind of tree.\n\nThese trees had deep roots and flexible branches. They bent in the storm — they didn't pretend it wasn't happening, they didn't resist it. They moved fully with the wind.\n\nBut they didn't break. And they didn't need years to recover.\n\nWhen the storm passed, they were simply there. A little wet. Perhaps with a few leaves missing. But rooted. Still.\n\nThey had been moved without being swept away.\n\n'That is what we are trying to become,' said the old woman who had watched the forest for fifty years. 'Not the tree that breaks from rigidity. Not the tree that collapses from too much giving. The third kind. Rooted enough to bend without breaking.'",
+      "discussion_prompt": "When a storm comes in your life — something hard or overwhelming — are you more like the rigid tree, the fully-bending tree, or the third kind? What would it take to develop deeper roots?"
+    },
+    "explore": [
+      {
+        "question": "What is equanimity?",
+        "answer": "Equanimity is the capacity to be fully present with whatever arises — including very difficult experience — without either suppressing it or being overwhelmed by it. It is not indifference. It is not detachment. It is being moved by what is genuinely moving, while remaining on ground that doesn't give way beneath you. The third tree."
+      },
+      {
+        "question": "How is equanimity different from suppression?",
+        "answer": "Suppression tries to make the storm go away — to not feel it, not show it, not acknowledge it. Equanimity allows the storm to be fully real — it bends with the wind — while the roots hold. Suppression is the rigid tree. Equanimity is the third tree. The outcome is entirely different: suppression tends to break people; equanimity allows them to survive the storm and return."
+      },
+      {
+        "question": "How is equanimity different from not caring?",
+        "answer": "Not caring would mean the storm doesn't move you — the tree doesn't bend at all. Equanimity is the opposite: it means being fully present with what is happening, fully moved by it. The difference is in the roots, not in the branches. Equanimous people often care deeply. They simply have ground beneath them that can hold the caring without collapsing."
+      },
+      {
+        "question": "How do you develop equanimity?",
+        "answer": "Through the accumulation of practices that build the roots: regular mindfulness practice, which develops stability of attention. The willingness to be with difficult experience without immediately fleeing it. The repeated discovery that difficult experience can be survived — that you are larger than the things that happen to you. And, often, through having been held by someone else's equanimity — a parent, a teacher, a friend — whose roots gave yours something to learn from."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The roots practice",
+        "description": "Sit with a straight back. Feel the ground beneath you. Press your feet into the floor. Feel the weight of your body. Then bring to mind something mildly difficult — something that usually unsettles you. As you hold it in mind, keep feeling the ground, the weight, the roots. Notice: can you be with the difficulty while feeling the ground? This is equanimity practice."
+      },
+      {
+        "type": "Creative",
+        "name": "The third tree",
+        "description": "Draw the three trees from the story. Then reflect: which tree are you most often in difficult situations? Draw what the third tree would look like for you — what would your roots be? What would your flexible branches be? Keep this drawing."
+      },
+      {
+        "type": "Game",
+        "name": "Rigid, collapsing, or rooted?",
+        "description": "Each person shares a recent difficult situation. Together, identify: was the response rigid (resistant, closed), collapsing (overwhelmed), or rooted (present and flexible)? What would the rooted response have looked like? This is not judgment — it is exploration."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Which kind of tree are you most like in a storm? What would developing deeper roots look like for you?"
+      },
+      {
+        "prompt": "Can you think of a time you experienced equanimity — when you were moved by something difficult without being swept away? What made that possible?"
+      },
+      {
+        "prompt": "What are your roots — the things that give you ground when the storm comes?"
+      },
+      {
+        "prompt": "For you: how developed is your own equanimity? When your child is in a storm, can you be a rooted presence for them — or does their storm pull you into one of the other two trees?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is equanimity?",
+        "options": [
+          { "text": "Not caring about difficult things", "correct": false },
+          { "text": "The capacity to be fully present with difficult experience without suppressing it or being overwhelmed — the third tree", "correct": true },
+          { "text": "Being always calm and never upset", "correct": false }
+        ]
+      },
+      {
+        "question": "What is the key difference between the rigid tree and the third tree?",
+        "options": [
+          { "text": "The third tree doesn't feel the storm", "correct": false },
+          { "text": "The third tree has deep roots combined with flexible branches — it bends fully without breaking", "correct": true },
+          { "text": "The third tree is stronger and doesn't move at all", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Equanimity in contemplative traditions",
+        "body": "Equanimity (upekkha in Pali, upeksha in Sanskrit) is considered one of the four brahmaviharas — the four immeasurable qualities cultivated in Buddhist practice. It is specifically defined as the capacity to remain present and balanced amid the changing circumstances of life — neither grasping at pleasure nor fleeing pain. The Stoic concept of apatheia (often mistranslated as apathy) is similar: not the absence of feeling, but the freedom from being enslaved by feelings. Both traditions locate equanimity in practice — not in temperament, not in luck — which means it is available to everyone who develops it.",
+        "practice": "Try the roots practice yourself this week. Sit, feel the ground, bring something mildly difficult to mind, and stay with it while maintaining awareness of the physical ground beneath you. Notice what the ground does.",
+        "reading": "Sharon Salzberg — Loving Kindness. The chapter on equanimity is the most accessible account of this quality in the contemplative tradition."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 7,
+    "slug": "gratitude-hard-days-9-10",
+    "title": "The art of finding good",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 11,
+    "is_sensitive": true,
+    "is_guided": false,
+    "description": "Explore gratitude in the context of genuine difficulty — not as a coping mechanism but as a sophisticated orientation to life that can hold both beauty and suffering simultaneously.",
+    "parent_guide": "This lesson takes the gratitude-on-hard-days concept to its fullest philosophical depth at the 9–10 level. The question is not 'what can you find to be grateful for even when things are hard?' but something more difficult: 'what does it mean to be glad to be alive in a world that contains both extraordinary beauty and genuine suffering?' This is a question worth taking seriously. Don't rush to answers. Sit in the question with your child.",
+    "story": {
+      "title": "Both things",
+      "body": "The poet had been asked many times how she could write about beauty when the world contained so much suffering.\n\n'Because they're not opposites,' she always said. 'They're the same world.'\n\nShe had stood at her mother's bedside when her mother was dying. The dying was real — there was nothing to soften it, nothing to reframe it into something smaller than it was.\n\nAnd the light through the window at three o'clock was extraordinary. Real and extraordinary in a way it might not have been on an ordinary Tuesday.\n\n'The beauty doesn't diminish the grief,' she said. 'And the grief doesn't cancel the beauty. They both belong to being alive. And I find that I am grateful for both — even the grief. Because the grief is proof that there was love. And the love is proof that there was a life worth living.'",
+      "discussion_prompt": "Do you think it's possible to be genuinely grateful for life even in the hardest moments? Not because things are okay, but because being alive — with all of it — is worth something?"
+    },
+    "explore": [
+      {
+        "question": "What is the deepest form of gratitude?",
+        "answer": "Not gratitude for specific good things only — not 'I'm grateful when good things happen.' But gratitude for existence itself — for the fact of being alive, present, conscious, able to experience anything at all, including the difficult things. This is the form of gratitude that can coexist with genuine suffering — because it is grateful not for the good and against the bad, but for the whole of being here."
+      },
+      {
+        "question": "Can you be grateful for grief?",
+        "answer": "The poet in the story says something important: grief is proof of love, and love is proof of a life worth living. This doesn't mean you should be glad people die or difficult things happen. It means that the depth of grief is a measure of the depth of what was real. Grief and gratitude are not opposites — they are two expressions of the same deep caring."
+      },
+      {
+        "question": "What does it mean to find beauty in difficult moments?",
+        "answer": "Not to make the difficulty smaller by pointing at beauty — that is avoidance. But to notice that even in the midst of genuine difficulty, the world continues to offer beauty. The light at three o'clock is real whether or not the circumstances are good. Noticing it is not a betrayal of the difficulty. It is the both-things-at-once orientation — and it is one of the marks of a rich inner life."
+      },
+      {
+        "question": "Is this kind of gratitude always possible?",
+        "answer": "No. In acute trauma, genuine crisis, or states of severe suffering, this orientation is not available or appropriate — and to demand it would be cruel. But as a long-term practice — as an orientation developed over time — it can become available in many circumstances where it might seem impossible. It is not a natural gift. It is a cultivated capacity."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The difficult gratitude",
+        "description": "Think of something genuinely difficult in your life — not a small inconvenience but something that involves real pain or loss. Hold it honestly. Then ask: is there anything — even one real thing — that is also present, even here? Is there any way in which this difficulty is proof of something you value? This is not forced positivity. It is the genuine search for what the poet found."
+      },
+      {
+        "type": "Creative",
+        "name": "A gratitude for something hard",
+        "description": "Write about something difficult and what — if anything — you find yourself grateful for within it or alongside it. Be completely honest. If you find nothing, write that honestly too. If you find something small, that is enough."
+      },
+      {
+        "type": "Game",
+        "name": "The both-things inventory",
+        "description": "Each person shares one hard thing and one beautiful thing that were true at the same time recently. Not to balance them or cancel one with the other — just to hold both. What was it like to hold both things simultaneously?"
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Is there something difficult in your life that you also find yourself, in some way, grateful for? What is the connection between the difficulty and the gratitude?"
+      },
+      {
+        "prompt": "The poet was grateful for the grief because it was proof of love. Do any of the difficult things in your life contain this kind of hidden proof?"
+      },
+      {
+        "prompt": "What would it mean to be genuinely glad to be alive — with all of it, including the hard parts? Is that possible for you? What would it take?"
+      },
+      {
+        "prompt": "For you: what are the hardest things in your life right now? Is there any form of gratitude available even there — not gratitude for the difficulty, but alongside it?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What did the poet mean when she said grief and beauty are 'the same world'?",
+        "options": [
+          { "text": "That suffering is actually beautiful if you look at it right", "correct": false },
+          { "text": "That both belong to being alive — they are not opposites but two expressions of the same reality", "correct": true },
+          { "text": "That beauty makes grief less real", "correct": false }
+        ]
+      },
+      {
+        "question": "Why did the poet say she was grateful for the grief?",
+        "options": [
+          { "text": "Because grief is a positive experience", "correct": false },
+          { "text": "Because grief is proof of love, and love is proof of a life worth living", "correct": true },
+          { "text": "Because she liked feeling sad", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Tragic optimism — Viktor Frankl",
+        "body": "Viktor Frankl coined the term 'tragic optimism' to describe the orientation of people who could find meaning, hope, and even gratitude in the midst of genuine suffering — not by denying the suffering, but by finding what he called 'the defiant power of the human spirit' within it. His evidence was the most extreme possible context: Nazi concentration camps. His conclusion: meaning, and the gratitude that often accompanies it, is not conditioned on circumstances. It is a stance — developed through practice and choice — that is available in almost any circumstance to those who have cultivated it.",
+        "practice": "Try the difficult gratitude practice yourself this week. Identify one genuine difficulty in your life. Sit with it honestly. Then ask: is there anything here — any grief that is proof of love, any difficulty that is proof of something valued — that you can find yourself grateful for alongside the pain?",
+        "reading": "Viktor Frankl — Man's Search for Meaning. The most direct account of this capacity under the most extreme conditions."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 8,
+    "slug": "mindfulness-compass-9-10",
+    "title": "Presence as a way of life",
+    "age_band": "9-10",
+    "track": "wonder",
+    "duration_mins": 12,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "The capstone lesson — integrating the full Mindfulness world and establishing presence, attention, and gratitude as ongoing practices that constitute a way of living.",
+    "parent_guide": "This is the most significant capstone in the Wonder track. By the time a 9–10 year old reaches this lesson, they have been introduced to some of the most sophisticated psychological and contemplative concepts available — attention architecture, the observing self, negative visualisation, equanimity, tragic optimism. The capstone should honour that depth. Take your time. The final journal entry belongs in The Book without question.",
+    "story": {
+      "title": "The three questions",
+      "body": "Tolstoy wrote a story about a king who wanted to know three things: when is the most important time? who is the most important person? what is the most important thing to do?\n\nHe sent messengers to all the wise people in the kingdom.\n\nBut the answers only came to him through a story — through a day of unexpected events — at the end of which he understood:\n\nThe most important time is now. Because now is the only time you have.\n\nThe most important person is whoever is with you right now. Because they are the one who is here.\n\nThe most important thing to do is to do good for that person. Because that is what life is made of.\n\nThe king had expected great philosophies. Complicated answers. Systems.\n\nWhat he found was simpler and harder than any of that.\n\nHe had to be here. Now. With this person. Fully.",
+      "discussion_prompt": "If those are the three questions, what are your answers — right now, in your actual life, not in the abstract?"
+    },
+    "explore": [
+      {
+        "question": "What is the relationship between all the practices in this world?",
+        "answer": "They all point the same direction. The pause button creates a moment of presence. Noticing builds the capacity for presence. Presence is the thing itself. Gratitude is what presence often finds. Stillness is where presence rests. Equanimity is what presence becomes when it deepens. They are different practices but one practice — the continuous cultivation of being here, alive, awake to this actual life."
+      },
+      {
+        "question": "Why is presence 'harder than any philosophy'?",
+        "answer": "Because it cannot be understood from a distance. It must be done. You cannot read your way to presence. You cannot think your way to presence. You can only practise it — in this moment, with this breath, in this room, with this person. The knowledge is in the doing. This is what Tolstoy's king discovered. The great philosophers had given him concepts. Life gave him practice."
+      },
+      {
+        "question": "What does presence as a way of life mean?",
+        "answer": "Not constant mindfulness — that is not possible or even desirable. But an orientation: a tendency to return to the present moment, a practice of noticing when you've wandered, a habit of genuine attention to whoever is with you. Not a destination but a direction. Not perfection but a commitment to the returning."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The three questions now",
+        "description": "Answer Tolstoy's three questions for right now, in this actual moment: who is the most important person (it might be yourself, it might be the person you're with)? What is the most important thing to do? What would it mean to be fully present for it? Then: do it. For five minutes, be fully present for exactly what the answers point to."
+      },
+      {
+        "type": "Creative",
+        "name": "The mindfulness compass",
+        "description": "Draw your mindfulness compass — the practices from this world that are most truly yours. Which are your north star? Which direction do you reliably return to? This is your personal practice map. Keep it.",
+        "note": "Add to The Book."
+      },
+      {
+        "type": "Mindful",
+        "name": "The ceremony of completion",
+        "description": "Sit together in silence for five minutes. Each person simply being present — with the world, with themselves, with each other. No task. No goal. Just here. After the five minutes, each person shares one sentence about what was present. This is the closing ceremony of the Mindfulness world."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What is the practice from this world that is most truly yours — the one you will actually use? Why that one?"
+      },
+      {
+        "prompt": "What has changed about the way you experience ordinary moments through doing this world?"
+      },
+      {
+        "prompt": "Write a letter to yourself at 20 about what you've learned about presence, attention, and gratitude. What do you hope you'll remember?",
+        "note": "Keep this. Add to The Book. This is significant."
+      },
+      {
+        "prompt": "For you: what has doing this world changed about your own relationship to presence? Write the most honest thing you can.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to Tolstoy's three questions, what is the most important time?",
+        "options": [
+          { "text": "The future, because that is where your goals are", "correct": false },
+          { "text": "Now — because now is the only time you have", "correct": true },
+          { "text": "The past, because you can learn from it", "correct": false }
+        ]
+      },
+      {
+        "question": "Why does the story say presence is 'harder than any philosophy'?",
+        "options": [
+          { "text": "Because it requires a great deal of intelligence", "correct": false },
+          { "text": "Because it cannot be understood from a distance — it must be practised in this moment, not thought about", "correct": true },
+          { "text": "Because not many people are capable of it", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "The full life",
+        "body": "William James wrote that the greatest revolution of his generation was the discovery that human beings can alter their lives by altering their attitudes. The Mindfulness world has introduced your child to the most fundamental attitude available: the willingness to be here. To notice. To return. To be grateful for what is real. To hold difficulty without collapse. To be moved without being swept away. These are not small things. They constitute what philosophers across centuries have variously called the good life, the examined life, the full life. Your child has spent eight lessons beginning to build it. The rest of life is the practice.",
+        "practice": "Make one commitment — for yourself and with your child — to a daily mindfulness practice. However small. One minute of belly breathing. One moment of real noticing. One genuine gratitude. The consistency will do more than any amount of understanding. The practice is the practice.",
+        "reading": "Whatever comes next. The work continues."
+      }
+    ]
+  }
+]

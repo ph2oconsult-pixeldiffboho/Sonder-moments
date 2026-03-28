@@ -1,0 +1,735 @@
+[
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 1,
+    "slug": "the-pause-button-7-8",
+    "title": "The pause button",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 9,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Understand why pausing matters — and build the habit of a deliberate breath as the foundation of all mindfulness practice.",
+    "parent_guide": "At 7–8, children can begin to understand the mechanics behind the pause button — why a breath actually helps, not just that it does. This lesson introduces the idea of the brain's alarm system and why the breath can calm it. Share your own practice honestly — when do you use your pause button? When do you fail to use it and wish you had? The more real you make this, the more your child will take it seriously.",
+    "story": {
+      "title": "The alarm that wouldn't stop",
+      "body": "Ben had a very sensitive alarm system.\n\nNot in his house — inside his head. It was called the amygdala (a-mig-duh-luh), though he didn't know that yet. He just knew that sometimes something set it off — a loud noise, a problem, an argument — and suddenly everything felt urgent and fast and loud.\n\nHis teacher called it 'flipping your lid.'\n\n'Your thinking brain is upstairs,' she explained, holding up her fist. 'Your alarm is downstairs.' She tucked her thumb inside. 'When the alarm goes off, it can cut off the thinking brain entirely.' She flipped her fingers open — the lid was flipped.\n\n'How do you put it back?' asked Ben.\n\n'Breathe,' she said. 'Slowly. On purpose. The breath sends a message to the alarm: there is no danger. Stand down.'\n\nBen tried it that afternoon, when his sister took his favourite pen.\n\nHe felt the alarm go off — urgent, hot, ready to shout.\n\nHe took one slow breath.\n\nThe alarm quieted. Just a little. But just a little was enough to think.\n\n'Can I have my pen back?' he said.\n\nHis sister gave it back.\n\n'That's all?' she said.\n\n'That's all,' said Ben.",
+      "discussion_prompt": "Can you feel when your alarm goes off? What does it feel like in your body? What usually sets it off?"
+    },
+    "explore": [
+      {
+        "question": "What is the amygdala and what does it do?",
+        "answer": "The amygdala is a small part of your brain — about the size of an almond — whose job is to detect threats and sound the alarm. When it fires, it releases stress hormones that make your heart beat faster, your muscles tense, and your thinking brain temporarily less available. It evolved to help humans survive dangerous situations. In modern life, it sometimes fires for things that aren't actually dangerous — arguments, tests, embarrassments."
+      },
+      {
+        "question": "How does a slow breath actually calm the amygdala?",
+        "answer": "Slow breathing activates the vagus nerve, which connects your brain to your body and is part of the parasympathetic ('rest and recover') nervous system. When the vagus nerve is activated, it sends a signal to the amygdala: threat is over, stand down. This happens in real time — within one to three slow breaths. A longer exhale than inhale is most effective."
+      },
+      {
+        "question": "Why is one breath enough to start with?",
+        "answer": "Because one breath creates the smallest possible gap between the alarm going off and your reaction. In that gap, the thinking brain gets a chance to come back online. You don't have to be calm. You just need enough gap to choose. One breath creates that gap."
+      },
+      {
+        "question": "Your mirror — the flipped lid",
+        "answer": "Adults flip their lids too. And when a parent's alarm fires in response to a child's alarm, both alarms amplify each other — it is extremely difficult to be calm for your child when your own amygdala has fired. The most useful thing a parent can do in those moments is press their own pause button first. One breath before responding is genuinely transformative.",
+        "is_parent_mirror": true
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The 4-7-8 breath",
+        "description": "Breathe in for 4 counts. Hold for 7 counts. Breathe out for 8 counts. The extended exhale is what activates the parasympathetic nervous system most effectively. Try it together three times now. Practise it when calm so it's available when activated."
+      },
+      {
+        "type": "Game",
+        "name": "Alarm or no alarm?",
+        "description": "Take turns describing everyday situations. The other person rates: does this set off your alarm? Mild, medium, or strong? Where do you feel it in your body? What would one breath do? This builds both self-awareness and demystifies the alarm response."
+      },
+      {
+        "type": "Creative",
+        "name": "The brain model",
+        "description": "Use the fist model from the story: make a fist, with your thumb inside representing the alarm. Practise 'flipping your lid' (fingers open) and 'closing your lid' (fingers close back over thumb after a slow breath). Then draw your brain model and label the thinking brain and the alarm. Understanding the mechanism gives children agency over it."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What situations most reliably set off your alarm? Describe what it feels like in your body."
+      },
+      {
+        "prompt": "Have you managed to use the pause button when your alarm went off? What happened?"
+      },
+      {
+        "prompt": "What is the difference between how a situation feels before and after a pause breath?"
+      },
+      {
+        "prompt": "For you: which situations most reliably flip your lid? What does your child see when that happens? What would one breath before responding change?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does the amygdala do?",
+        "options": [
+          { "text": "It helps you do maths", "correct": false },
+          { "text": "It detects threats and sounds the alarm — temporarily reducing access to the thinking brain", "correct": true },
+          { "text": "It controls breathing", "correct": false }
+        ]
+      },
+      {
+        "question": "Why does slow breathing calm the amygdala?",
+        "options": [
+          { "text": "It distracts you from the problem", "correct": false },
+          { "text": "It activates the vagus nerve which signals to the amygdala that there is no danger", "correct": true },
+          { "text": "It gives the amygdala more oxygen", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Co-regulation and the adult nervous system",
+        "body": "Research on interpersonal neurobiology shows that nervous systems are not isolated units — they regulate each other. A calm parent activates calming in a distressed child through facial expression, tone of voice, posture, and touch. A dysregulated parent amplifies dysregulation in a child. This is not metaphorical — it is mediated by the autonomic nervous system and mirror neurons. Your ability to regulate yourself before responding to your child's dysregulation is not about suppressing your feelings. It is about making your regulated nervous system available to them.",
+        "practice": "Commit to one breath before every response to your child's strong emotions this week. Not to suppress your own feelings — to give your regulated nervous system a moment to come online before your amygdala runs the interaction.",
+        "reading": "Stephen Porges — The Polyvagal Theory. Dan Siegel — The Whole-Brain Child. Both provide the scientific framework for what this lesson is teaching."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 2,
+    "slug": "noticing-7-8",
+    "title": "Paying real attention",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Develop the practice of deliberate attention — learning to notice your own experience with curiosity rather than being lost in thought about it.",
+    "parent_guide": "At 7–8, the noticing practice deepens from observing the external world to observing internal experience. This lesson introduces metacognition — noticing your own thoughts and feelings as mental events rather than being fused with them. Share your own experience of this distinction: the difference between thinking and noticing that you're thinking. It's a subtle but significant shift.",
+    "story": {
+      "title": "The thought watcher",
+      "body": "Kira had a problem with her thoughts.\n\nThey ran constantly — fast, loud, one after another, never stopping. School thoughts. Friendship thoughts. What-if thoughts. Did-I-do-that-right thoughts.\n\nShe felt like she was inside the thoughts all the time. Like she was the thoughts.\n\nThen her uncle showed her something.\n\nHe took her to the window and they watched the street below.\n\n'You are up here,' he said. 'The thoughts are down there. They move. They come and go. But you — you are the one watching from the window.'\n\nKira tried it. She sat quietly and instead of thinking her thoughts, she watched them.\n\nHere came a worry about tomorrow's test. She didn't follow it. She watched it move past.\n\nHere came a memory of something funny. She didn't laugh — she just watched it go.\n\nHere came a thought about dinner. Gone.\n\nShe was still there. At the window. Watching.\n\n'The thoughts are always going to come,' said her uncle. 'The skill is knowing that you're the watcher — not the thought.'",
+      "discussion_prompt": "Have you ever noticed your own thoughts as if from a window — watching them rather than being inside them? What was that like?"
+    },
+    "explore": [
+      {
+        "question": "What is the difference between thinking a thought and watching a thought?",
+        "answer": "When you're thinking a thought, you're inside it — it feels real and immediate and like you. When you're watching a thought, there's a small distance: you observe it as something that came and will go. You are the observer. The thought is the thing being observed. This is a tiny shift with a very large effect."
+      },
+      {
+        "question": "What happens when you watch thoughts instead of following them?",
+        "answer": "They lose some of their urgency. A worry that you follow usually gets bigger — it develops, it escalates, it connects to other worries. A worry that you watch tends to pass more quickly. This doesn't mean ignoring important thoughts. It means not being dragged along by every thought that arrives."
+      },
+      {
+        "question": "What kinds of attention are there?",
+        "answer": "Focused attention: concentrated on one thing deliberately. Open awareness: receptive to everything, without focusing on any one thing in particular. Metacognitive attention: noticing your own thinking and feeling. All three are useful. Mindfulness practises all three, and the ability to move between them intentionally."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The thought parade",
+        "description": "Sit quietly for three minutes. Imagine your thoughts as a parade passing in front of you. You are watching from the pavement — not in the parade. Each thought that comes, acknowledge it: 'there's a worry,' 'there's a memory,' 'there's a plan' — and let it pass. Don't follow any of them. Just watch. Afterwards, share what parade went by."
+      },
+      {
+        "type": "Game",
+        "name": "What kind of thought?",
+        "description": "During the thought parade, try to label each thought by type: worry, memory, plan, judgement, random, physical sensation. Labelling gives you more distance from the thought. Practise this together for a few minutes and then compare what kinds of thoughts most frequently appeared."
+      },
+      {
+        "type": "Creative",
+        "name": "The window drawing",
+        "description": "Draw yourself at a window, watching your thoughts in the street below. What thoughts are in the street? Give them shapes or characters. You are at the window — separate, watching, not swept away. This externalises the metacognitive stance."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What kinds of thoughts appear most often in your thought parade? Worries? Memories? Plans? Something else?"
+      },
+      {
+        "prompt": "Is there a thought you find it hardest to just watch — one that always pulls you in? What is it about that thought?"
+      },
+      {
+        "prompt": "What was it like to be the watcher rather than the thought? Did anything feel different?"
+      },
+      {
+        "prompt": "For you: which of your own thoughts do you get most pulled into? What would it mean to watch from the window instead of follow?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the difference between thinking a thought and watching a thought?",
+        "options": [
+          { "text": "There is no real difference", "correct": false },
+          { "text": "Watching creates a small distance — you observe the thought rather than being inside it", "correct": true },
+          { "text": "Watching means the thought disappears", "correct": false }
+        ]
+      },
+      {
+        "question": "What happened when Kira watched her thoughts instead of following them?",
+        "options": [
+          { "text": "Her thoughts stopped completely", "correct": false },
+          { "text": "She discovered she was still there at the window — separate from the thoughts", "correct": true },
+          { "text": "The thoughts became more intense", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Metacognition and psychological wellbeing",
+        "body": "Metacognition — the ability to think about one's own thinking — is one of the strongest predictors of academic performance, emotional regulation, and psychological wellbeing. Adriaan Wells' metacognitive therapy, which targets unhelpful beliefs about one's own thinking processes, has shown strong results for anxiety and depression. The 'watcher' stance that Kira develops is metacognition in practice: the capacity to observe mental events without being fused with them. This capacity, built in childhood, provides a degree of psychological freedom that is difficult to develop later.",
+        "practice": "Try the thought parade yourself this week — five minutes of watching rather than following. Notice which kinds of thoughts you most often get pulled into. Notice whether labelling them ('there's a worry,' 'there's a judgement') creates any distance.",
+        "reading": "Adriaan Wells — Metacognitive Therapy for Anxiety and Depression. For a less clinical version: Mark Williams and Danny Penman — Mindfulness."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 3,
+    "slug": "present-moment-7-8",
+    "title": "Where is your attention right now?",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Develop a sophisticated awareness of where attention goes — and learn to direct it deliberately to the present moment.",
+    "parent_guide": "At 7–8, children can begin to understand the concept of attention as something that can be trained and directed — not something that just happens to them. This lesson introduces the idea of attention as a muscle: it can be strengthened through practice. The most powerful thing you can model here is deliberately putting down your phone during this lesson and being fully present. Your child will notice.",
+    "story": {
+      "title": "The attention thief",
+      "body": "No one had ever seen the attention thief. But everyone had felt them.\n\nThe attention thief stole your mind away from where you were. One moment you were eating breakfast — the next, you were somewhere in last week's argument. One moment you were listening to a friend — the next, you were planning what to say next rather than hearing what they were saying.\n\nThe attention thief took your attention without asking. And often you didn't notice it was gone until much later.\n\nNoa decided to catch the thief.\n\nShe started noticing when her attention left. Right in the middle of dinner: gone — to a worry. Right in the middle of reading: gone — to a daydream. Right in the middle of a conversation: gone — to a plan.\n\nShe would notice, and bring her attention back.\n\nThe attention thief didn't stop visiting. But now she knew to notice the moment of theft. And noticing was enough to take her attention back.",
+      "discussion_prompt": "Where does your attention get stolen most often? What usually steals it? What does it feel like to bring it back?"
+    },
+    "explore": [
+      {
+        "question": "What is attention, really?",
+        "answer": "Attention is the mental resource you use to process experience. Where your attention goes, your experience follows. If your attention is in the past, you're experiencing the past. If it's in the future, you're experiencing worry or anticipation. If it's here, you're experiencing right now. You have more control over where your attention goes than you might think — but it takes practice."
+      },
+      {
+        "question": "Can attention be trained?",
+        "answer": "Yes. Attention functions like a muscle: it can be strengthened through deliberate exercise. The exercise is simple: notice when your attention has wandered, and bring it back. Do this repeatedly. Over time, your capacity for sustained attention grows, and your ability to notice wandering becomes faster. Research shows measurable improvements in attention span within weeks of regular practice."
+      },
+      {
+        "question": "What steals attention most reliably?",
+        "answer": "Worry and rumination — thoughts about future threats or past mistakes — pull attention away from the present more powerfully than almost anything else. Digital notifications are designed to steal attention and are extraordinarily effective at it. Boredom drives attention away from the present toward stimulation. And unfinished emotional business — unexpressed feelings — competes for attention continuously."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The attention workout",
+        "description": "Set a timer for five minutes. Focus your attention entirely on your breath — just the sensation of breathing. Every time your attention wanders (and it will, many times), notice where it went and gently return. Count how many times you catch a wander. The goal is not to wander fewer times — it's to notice faster. Each catch and return is one repetition of the attention muscle."
+      },
+      {
+        "type": "Game",
+        "name": "The attention tracker",
+        "description": "For one day, each person tracks where their attention goes when it wanders: past, future, or other present concern (worries, plans, daydreams). Keep a simple tally. At the end of the day, compare. Where does your attention go most when it leaves the present moment?"
+      },
+      {
+        "type": "Creative",
+        "name": "The attention map",
+        "description": "Draw a map of where your attention travels during a typical day. Mark the present moment at the centre. Draw the places attention goes: memories, worries, plans, daydreams, conversations, screens. How far does it typically travel? How often does it come home?"
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "Where does your attention get stolen most often? What is the most reliable attention thief in your life?"
+      },
+      {
+        "prompt": "How many times did you catch your attention wandering during the attention workout? What did you notice about where it went?"
+      },
+      {
+        "prompt": "What is one situation where you wish you could be more present? What would be different if you were?"
+      },
+      {
+        "prompt": "For you: where does your attention go most when it's not present with your child? What would it mean to offer more real attention during your time together?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "How is attention like a muscle?",
+        "options": [
+          { "text": "It gets tired and needs rest", "correct": false },
+          { "text": "It can be strengthened through deliberate exercise — noticing when it wanders and returning it", "correct": true },
+          { "text": "Some people are born with more of it and it can't be changed", "correct": false }
+        ]
+      },
+      {
+        "question": "What is the goal of the attention workout?",
+        "options": [
+          { "text": "To wander fewer times", "correct": false },
+          { "text": "To notice wandering faster — each catch and return is one repetition", "correct": true },
+          { "text": "To think about nothing at all", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Attentional training and the brain",
+        "body": "Neuroscientist Richard Davidson's research at the University of Wisconsin found that eight weeks of mindfulness meditation practice produces measurable changes in brain structure and function, including increased prefrontal cortex activity (associated with positive emotion and attention regulation) and decreased amygdala reactivity. Sara Lazar at Harvard found that long-term meditators have measurably thicker cortex in areas associated with attention and interoception. The attention muscle metaphor is not a metaphor — it is a description of neuroplastic change.",
+        "practice": "Try the attention workout yourself this week — five minutes of breath focus with active noticing of wanders. Notice how different this feels from other kinds of rest. Notice what happens to your capacity to be present after regular practice.",
+        "reading": "Daniel Goleman and Richard Davidson — Altered Traits. The most rigorous scientific account of what meditation actually does and doesn't do."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 4,
+    "slug": "gratitude-7-8",
+    "title": "Gratitude as a practice",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Move from gratitude as a feeling to gratitude as a deliberate practice — and understand why specificity and presence make the difference.",
+    "parent_guide": "At 7–8, children can engage with gratitude as a conscious practice rather than just a feeling that happens. This lesson introduces the research-backed finding that specificity — 'the way the light came through the window at exactly that moment' rather than 'the sun' — is what produces the strongest gratitude response. It also introduces the concept of taking things for granted, and the practice of imagining them absent. Both are powerful tools worth modelling.",
+    "story": {
+      "title": "The subtraction experiment",
+      "body": "For homework, Felix's teacher set an unusual assignment.\n\n'Imagine,' she said, 'that three things in your life had never existed. Write about what life would be like without them.'\n\nFelix picked: his best friend. The library. Saturday mornings.\n\nHe started writing.\n\nWithout his best friend, the corridors at school would be longer somehow. Lunch would be quieter in the wrong way. There would be no one to text when something funny happened.\n\nWithout the library, all those hours of other people's lives he'd visited — gone. The dragon book that had changed everything — never read.\n\nWithout Saturday mornings: no slow breakfast. No cartoons. No particular quality of light.\n\nBy the time Felix had finished, he felt strange.\n\nThe things themselves hadn't changed. But he could see them properly now. They had weight and colour and value that he'd forgotten to notice.\n\nHe put down his pen and went to find his friend.",
+      "discussion_prompt": "Pick one thing in your life you might be taking for granted. Imagine it had never existed. What would be missing? What do you notice about it now?"
+    },
+    "explore": [
+      {
+        "question": "What does it mean to take something for granted?",
+        "answer": "Taking something for granted means having something valuable — a person, a place, an ability, a circumstance — without noticing its value. The brain is wired to adapt quickly to good things, treating them as background rather than foreground. Gratitude practice is the deliberate reversal of this adaptation: bringing what is good back into focus."
+      },
+      {
+        "question": "Why does specificity make gratitude more powerful?",
+        "answer": "Research shows that gratitude for specific, concrete, particular things produces stronger positive emotion than gratitude for general categories. 'I'm grateful for my family' is weak. 'I'm grateful for the specific way my dad always makes sure there's milk for my cereal' is strong. Specificity requires noticing — and noticing creates the presence that makes gratitude real."
+      },
+      {
+        "question": "What is the subtraction technique and why does it work?",
+        "answer": "The subtraction technique involves mentally removing something good from your life and imagining what the absence would be like. Research by Timothy Wilson and Daniel Gilbert shows this produces stronger gratitude than simply thinking about the positive thing directly. The contrast — the gap between what you have and what you almost didn't have — activates appreciation powerfully."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The subtraction practice",
+        "description": "Each person picks one thing — a person, a place, a circumstance — and spends three minutes imagining it had never existed. Really imagine the absence: what would be missing? How would life feel different? Then bring it back in your mind. Notice what you feel. Write one specific thing you notice about it now that you hadn't before."
+      },
+      {
+        "type": "Creative",
+        "name": "The specific gratitude journal",
+        "description": "For this week, replace any general gratitude entries with hyper-specific ones. Not 'my home' but 'the specific way the kitchen smells in the morning.' Not 'my friend' but 'the exact thing they said today that made me feel understood.' The more specific, the more real the gratitude becomes."
+      },
+      {
+        "type": "Game",
+        "name": "The gratitude archaeologist",
+        "description": "Go on a gratitude archaeology expedition — dig into something ordinary and find the layers of good things inside it. A glass of water: the pipes, the treatment plant, the engineers, the rain, the person who built the tap. Keep going until you've found five layers. Gratitude expands when you follow the chain of what made something possible."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What did the subtraction experiment reveal about something you'd been taking for granted?"
+      },
+      {
+        "prompt": "Write a hyper-specific gratitude for one thing from today — not the general thing, but the particular detail that made it good."
+      },
+      {
+        "prompt": "Is there a person in your life you've been taking for granted? What would you want them to know if you could tell them?"
+      },
+      {
+        "prompt": "For you: what are you most at risk of taking for granted? What would the subtraction technique reveal if you applied it honestly?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why does specific gratitude produce stronger feelings than general gratitude?",
+        "options": [
+          { "text": "Specific things are more valuable than general ones", "correct": false },
+          { "text": "Specificity requires noticing — and noticing creates the presence that makes gratitude real", "correct": true },
+          { "text": "It doesn't — they're equally effective", "correct": false }
+        ]
+      },
+      {
+        "question": "Why does the subtraction technique work?",
+        "options": [
+          { "text": "It makes people sad, which is good for them", "correct": false },
+          { "text": "The contrast between having something and imagining the absence activates appreciation powerfully", "correct": true },
+          { "text": "It teaches people not to want things", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Hedonic adaptation and its reversal",
+        "body": "Hedonic adaptation — the tendency to quickly return to a baseline level of wellbeing after both positive and negative events — is one of the most robust findings in happiness research. It explains why lottery winners are no happier than non-winners a year later. It also explains why we stop noticing the good things in our lives. Gratitude practice is one of the few reliable interventions that partially counteracts hedonic adaptation by deliberately restoring attention to what is good. The subtraction technique is particularly effective because it defeats adaptation by simulating the contrast the adaptation has erased.",
+        "practice": "Try the subtraction technique this week with your own life — pick three things you value and imagine they never existed. Notice what you find.",
+        "reading": "Sonja Lyubomirsky — The How of Happiness. The most comprehensive scientific review of gratitude and related interventions."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 5,
+    "slug": "stillness-7-8",
+    "title": "The value of doing nothing",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "Discover why stillness and unstructured time are not laziness — and learn to be comfortable in silence and with your own company.",
+    "parent_guide": "Many children at 7–8 experience boredom as something to be avoided at all costs — an uncomfortable state to be filled with stimulation as quickly as possible. This lesson challenges that assumption. Boredom is not a problem to be solved. It is often the precondition for creativity, daydreaming, and self-knowledge. The conversations you can have when there is nothing else to do are often the most important ones. Protect some genuine unstructured time this week and see what emerges.",
+    "story": {
+      "title": "The best afternoon",
+      "body": "The day the internet went down, Yara thought it would be the worst afternoon of the year.\n\nShe sat on the sofa doing nothing.\n\nAt first it was awful. Her mind scrambled for something to do, something to watch, something to click.\n\nThen slowly — after about fifteen minutes — something shifted.\n\nShe found herself lying on her back, looking at a water stain on the ceiling that she'd never noticed before. It looked a bit like a horse. A bit like a boat. She spent a long time deciding.\n\nShe found herself thinking about a story she'd been meaning to write — one she'd been putting off. The characters arrived fully formed. She got up and wrote three pages without stopping.\n\nShe found herself just sitting at the window watching the street, feeling something she couldn't name — something gentle and wide and not-in-a-hurry.\n\nWhen the internet came back, she didn't turn it on immediately.\n\n'How was your afternoon?' her mum asked at dinner.\n\n'Good,' said Yara, surprised to find she meant it. 'Really good, actually.'",
+      "discussion_prompt": "When was the last time you were genuinely bored — with nothing to fill the time — and something interesting happened because of it?"
+    },
+    "explore": [
+      {
+        "question": "Why does boredom sometimes lead to something good?",
+        "answer": "Boredom is the signal that the mind is not being stimulated from outside. When that stimulation is removed, the mind turns inward — and inward is where creativity, self-knowledge, and genuine rest live. Research shows that people have their most creative insights during or just after periods of mind-wandering. Boredom is not the enemy. It is the gateway."
+      },
+      {
+        "question": "What is the difference between rest and distraction?",
+        "answer": "Distraction fills the mind with external content — it occupies attention without restoring it. True rest is the absence of demands on attention — stillness, open space, unstructured time. Research by cognitive neuroscientist Mary Helen Immordino-Yang shows that the brain does its most important consolidation and integration work during genuine rest — not during passive consumption of content. Screens are distraction. Stillness is rest."
+      },
+      {
+        "question": "Why is being comfortable with silence and your own company important?",
+        "answer": "Because if you can only be comfortable when externally stimulated, you are dependent. You need a screen or a friend or a task to feel okay. The capacity to be with yourself — to sit with your own thoughts, feelings, and company without anxiety — is a form of freedom. It is also the precondition for genuine self-knowledge. You cannot know yourself if you never stop to listen."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The boredom experiment",
+        "description": "Set aside twenty minutes with no screens, no tasks, no structured activity. Just time. Sit, walk, lie down, look out a window — but nothing planned. See what emerges. Afterwards, share: what happened in your mind? What did you think about? Did anything interesting arrive?"
+      },
+      {
+        "type": "Creative",
+        "name": "The unstructured page",
+        "description": "Give each person a blank page. No instructions. Do whatever comes — draw, write, doodle, leave it blank. The only rule is no looking at screens and no asking what to do. After ten minutes, share what you made or didn't make. Talk about what the blankness felt like."
+      },
+      {
+        "type": "Game",
+        "name": "Cloud watching",
+        "description": "Lie outside or near a window and watch clouds for ten minutes. No objectives. No cloud identification. Just watching. Allow your mind to make shapes, tell stories, wander. This is restorative attention — receptive, open, not directed. At the end, share what you saw."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What happened during the boredom experiment? Did anything interesting arrive in the stillness?"
+      },
+      {
+        "prompt": "What is your relationship with silence? Is it comfortable or uncomfortable? When did it become that way?"
+      },
+      {
+        "prompt": "What do you think you would find if you spent more time just being — without any task or screen or entertainment?"
+      },
+      {
+        "prompt": "For you: how comfortable are you with unstructured time — your own, and your child's? Do you fill silence reflexively? What might be in the stillness if you didn't?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the difference between rest and distraction?",
+        "options": [
+          { "text": "They are the same thing — both give the brain a break", "correct": false },
+          { "text": "Distraction occupies attention without restoring it; true rest is the absence of demands on attention", "correct": true },
+          { "text": "Distraction is better for the brain", "correct": false }
+        ]
+      },
+      {
+        "question": "Why does boredom sometimes lead to creativity?",
+        "options": [
+          { "text": "Boredom makes people desperate, which motivates them", "correct": false },
+          { "text": "When external stimulation is removed, the mind turns inward where creativity and self-knowledge live", "correct": true },
+          { "text": "Boredom never leads to creativity", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Default mode network and the necessity of rest",
+        "body": "The default mode network (DMN) — activated during rest, mind-wandering, and self-referential thought — is associated with creativity, memory consolidation, social cognition, and future planning. It is also the network most suppressed by chronic digital stimulation. Research by Immordino-Yang shows that DMN activity during adolescence is critical for the development of moral reasoning, empathy, and identity formation. When you protect your child's unstructured time, you are protecting the neural conditions for some of their most important development.",
+        "practice": "Protect one period of genuine unstructured time for your child every day this week — at least twenty minutes with no screens, no scheduled activities, no structured entertainment. Observe what emerges. Trust the process.",
+        "reading": "Ángel Cortés and Roger Säljö — research on learning and rest. For a more accessible account: Jenny Odell — How to Do Nothing."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 6,
+    "slug": "difficult-moments-7-8",
+    "title": "Being with what is",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 11,
+    "is_sensitive": true,
+    "is_guided": true,
+    "description": "Learn the principle of acceptance — being fully present with difficult experience rather than fighting it — and discover why resistance often increases suffering.",
+    "parent_guide": "This sensitive lesson introduces one of the most counterintuitive and powerful ideas in psychology: that accepting difficult experience — allowing it to be present rather than fighting it — reduces suffering more effectively than resistance. This is the opposite of what most people intuitively believe. Your child may initially resist this idea. The story and activities make it experiential rather than conceptual. Do the ice experiment if you can — it is the most direct demonstration of this principle available to a child.",
+    "story": {
+      "title": "The river and the rock",
+      "body": "There was once a river that had a large rock in its way.\n\nOne river fought the rock. It pushed and pushed against the stone, crashing and foaming with effort. It wore itself out. The rock barely moved.\n\nAnother river flowed around the rock. It curved gently, following the rock's shape, not fighting it. It reached the sea long before the first river did.\n\nBen watched these two rivers for a long time.\n\n'The second river isn't giving up,' his mother told him. 'It isn't pretending the rock isn't there. It's just not wasting its energy fighting something it can't change right now.'\n\n'But what if you need to move the rock?' asked Ben.\n\n'Then you find another way,' she said. 'You look for the tools. You ask for help. You wait for the water level to rise. But crashing against it just tires you out and doesn't move it.'\n\nBen thought about the hard things in his own life.\n\nHe thought about the ones he'd been crashing against.\n\nHe wondered what it would feel like to flow around them for a while.",
+      "discussion_prompt": "Is there something hard in your life that you've been crashing against — fighting even though it doesn't seem to move? What would it feel like to flow around it for a while?"
+    },
+    "explore": [
+      {
+        "question": "What is acceptance — and what is it not?",
+        "answer": "Acceptance is allowing a difficult experience to be present without fighting it. It is not giving up, pretending the difficulty doesn't exist, or deciding you'll never change it. It is simply stopping the fight for now — saving the energy spent on resistance for something more useful. The rock is still there. You are just not crashing against it."
+      },
+      {
+        "question": "Why does fighting difficult feelings make them worse?",
+        "answer": "Because resistance — the effort to push a feeling away, suppress it, or argue with it — requires continuous effort and keeps your attention on the very thing you're trying to avoid. Research on thought suppression shows that trying not to think about something actually increases its frequency. Fighting pain amplifies it. Flowing around it — acknowledging it while not engaging in combat — reduces its grip."
+      },
+      {
+        "question": "How do you practise flowing around something hard?",
+        "answer": "You name it without judgment: 'this is hard.' You breathe with it rather than against it. You notice that you are larger than the difficulty — there are other things here too. You ask: is there anything I can do, or is this a rock I need to flow around? If there is something you can do, do it. If not, practise acceptance — not forever, but for now."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "The ice experiment",
+        "description": "Each person holds a piece of ice in one hand. In the first minute: fight the discomfort — tense up, think about how uncomfortable it is, resist the cold. In the second minute: accept the discomfort — breathe slowly, allow the sensation to be present without fighting it, notice it without amplifying it. Compare: which minute felt longer? Which was harder? This direct experience of acceptance vs. resistance is more powerful than any explanation."
+      },
+      {
+        "type": "Game",
+        "name": "Rock or flow?",
+        "description": "Each person describes a difficult situation in their life. The other person helps identify: is this a rock you can move (something you can change), or a rock to flow around (something to accept for now)? Then: what does flowing around look like for this specific situation? This builds both acceptance and agency."
+      },
+      {
+        "type": "Creative",
+        "name": "The two rivers",
+        "description": "Draw the two rivers from the story — one crashing, one flowing. Then draw a rock that represents something difficult in your own life. Which river are you being? Which river do you want to be? What would flowing look like?"
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What did you notice during the ice experiment — was there a difference between fighting and accepting?"
+      },
+      {
+        "prompt": "Is there something in your life you've been fighting that might be a rock to flow around? What would acceptance look like?"
+      },
+      {
+        "prompt": "Is there something you've been accepting that might actually be a rock you could move? What would you need to change that?"
+      },
+      {
+        "prompt": "For you: what in your own life are you spending energy fighting that you might be better served accepting for now? What would it free up?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does the story say about the second river's approach to the rock?",
+        "options": [
+          { "text": "It was giving up and being lazy", "correct": false },
+          { "text": "It wasn't pretending the rock wasn't there — it was just not wasting energy fighting what it couldn't change", "correct": true },
+          { "text": "It went the wrong way", "correct": false }
+        ]
+      },
+      {
+        "question": "Why can fighting a feeling make it worse?",
+        "options": [
+          { "text": "Fighting always makes things worse", "correct": false },
+          { "text": "Resistance keeps your attention on what you're avoiding and often amplifies the feeling", "correct": true },
+          { "text": "It doesn't — fighting feelings always helps", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Acceptance and Commitment Therapy — the control agenda",
+        "body": "Steven Hayes' ACT research identified what he calls the 'control agenda' as a primary driver of psychological suffering: the belief that unwanted internal experiences must be controlled, suppressed, or eliminated. The paradox is that control efforts for internal experiences typically increase their frequency and intensity. ACT proposes 'psychological flexibility' — the ability to be in contact with the present moment as it is, while pursuing valued directions. The river and the rock is an experiential illustration of this core ACT principle.",
+        "practice": "Identify one thing in your own life you've been fighting that might benefit from acceptance. Spend five minutes practising acceptance — not deciding to never change it, but stopping the combat with it for now. Notice what shifts.",
+        "reading": "Steven Hayes — A Liberated Mind. The most accessible account of ACT by its creator."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 7,
+    "slug": "gratitude-hard-days-7-8",
+    "title": "Finding the ground",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 11,
+    "is_sensitive": true,
+    "is_guided": false,
+    "description": "Learn to use gratitude and presence as an anchor — something to return to when difficult emotions are overwhelming.",
+    "parent_guide": "This lesson teaches the use of gratitude and mindful presence not as avoidance tools but as anchors — stable ground to return to when overwhelming feelings make it hard to think or choose. The distinction is important: gratitude is not deployed here to replace difficult feelings or pretend they don't exist. It is used to provide temporary stability — a place to stand while the storm passes. Be honest about when you use this and when you don't.",
+    "story": {
+      "title": "The anchor",
+      "body": "When everything felt like it was moving too fast — when the worry was very loud and the feelings were very big — Theo had learned to find his anchor.\n\nIt was three things. Specific things. Things that were real right now, not from the past, not in the future.\n\nThe smell of his dog's fur.\n\nThe sound of rain on the window.\n\nThe feeling of his feet on the floor — solid, actual, present.\n\nHe would find these things and hold them. Not because they made the worry go away. They didn't. But they reminded him that the worry was not the whole of right now. That there were things here — real, good things — that the worry was not touching.\n\nFrom this ground, he could breathe.\n\nFrom this ground, he could think.\n\nFrom this ground, he could decide what to do next.\n\n'You found your anchor,' his grandmother said one day, watching him.\n\n'I didn't know that's what it was called,' said Theo.\n\n'It doesn't matter what it's called,' she said. 'It matters that you can find it.'",
+      "discussion_prompt": "What could be your anchor — three specific things that are real right now and feel solid? What would you use when the worry is very loud?"
+    },
+    "explore": [
+      {
+        "question": "What is an anchor in the mindfulness sense?",
+        "answer": "An anchor is something real and present that you can return to when difficult feelings are overwhelming. It grounds you in the present moment — not by making the difficult feelings go away, but by reminding you that they are not the whole of right now. An anchor can be a sensation, a specific object, a breath, something you can see or touch."
+      },
+      {
+        "question": "Why does gratitude work as an anchor?",
+        "answer": "Gratitude — specifically, noticing real, particular, present good things — directs attention to the present moment. It activates different neural circuits from worry or rumination. It doesn't compete with difficult feelings by denying them. It adds to what is present: yes, this difficult thing is here, and also these real good things are here. The and is the key word."
+      },
+      {
+        "question": "Is using an anchor the same as avoiding difficult feelings?",
+        "answer": "No — if used correctly. Avoidance means using something good to escape from something difficult — permanently, to never face it. An anchor means using something good to stabilise yourself temporarily so you can face the difficult thing more effectively. The difference is the intention: are you running away, or are you finding ground to stand on?"
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "Building your anchor",
+        "description": "Each person finds their three anchor points: something you can see right now, something you can feel right now (a texture, the floor, warmth), and something real and good that is present right now. Write them down. This is your anchor for this moment. Practise returning to it. Then: what would your anchor be in a moment of high worry? Prepare it in advance."
+      },
+      {
+        "type": "Game",
+        "name": "The anchor test",
+        "description": "Think of a mild worry — something real but not overwhelming. Let it be present. Then use your anchor: three real, present things. Notice what happens to the worry. Does it get smaller? Does it become more manageable? Does it feel more like one part of right now rather than all of it? This is the practice."
+      },
+      {
+        "type": "Creative",
+        "name": "The anchor card",
+        "description": "Make a small card — the size of a playing card — with your three anchors on it. Decorate it. Keep it somewhere accessible. This is not a magic object — it is a reminder of a practice. When the worry is loud, the card reminds you what to do."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What are your three anchors — three specific, present, real things that help you feel grounded?"
+      },
+      {
+        "prompt": "Have you tried using your anchor when something difficult was present? What happened?"
+      },
+      {
+        "prompt": "What is the difference between using gratitude as an anchor and using it to avoid something difficult?"
+      },
+      {
+        "prompt": "For you: what is your anchor? Do you use it? When do you most need it — and do you actually reach for it then?",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does an anchor do when difficult feelings are overwhelming?",
+        "options": [
+          { "text": "It makes the difficult feelings go away", "correct": false },
+          { "text": "It reminds you that difficult feelings are not the whole of right now — and provides stable ground to stand on", "correct": true },
+          { "text": "It distracts you so you forget the problem", "correct": false }
+        ]
+      },
+      {
+        "question": "What is the difference between using an anchor and avoidance?",
+        "options": [
+          { "text": "There is no difference", "correct": false },
+          { "text": "Avoidance means permanently escaping; an anchor means temporarily stabilising to face the difficulty more effectively", "correct": true },
+          { "text": "Avoidance is healthier than anchoring", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "Grounding techniques and the nervous system",
+        "body": "Grounding techniques — practices that anchor attention in present sensory experience — are among the most widely used and empirically supported interventions for anxiety, trauma responses, and emotional overwhelm. The mechanism is direct: sensory attention activates the present-moment processing systems of the brain and reduces activation of the threat-processing amygdala. Research on post-traumatic stress consistently shows that grounding practices provide rapid short-term reduction of distress, enabling the kind of regulated state necessary for longer-term processing.",
+        "practice": "Develop your own anchor this week. Identify three specific present things. Practise returning to them when you notice worry or stress arising. Notice whether the practice changes how the difficult experience feels.",
+        "reading": "Peter Levine — In an Unspoken Voice. The most thorough account of grounding and its physiological basis."
+      }
+    ]
+  },
+
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 8,
+    "slug": "mindfulness-compass-7-8",
+    "title": "The practice is the practice",
+    "age_band": "7-8",
+    "track": "wonder",
+    "duration_mins": 10,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "The capstone lesson — understanding that mindfulness is not something you master but something you return to, again and again, throughout a life.",
+    "parent_guide": "The capstone lesson for the 7–8 Mindfulness world. The central message: there is no destination in mindfulness practice. There is only the returning — the moment of noticing you've wandered and coming back. Every such moment is the practice. This is both liberating and demanding, and your child is old enough to understand it. Be honest about your own practice: where you succeed, where you fail, what you keep returning to. The imperfect practice is the practice.",
+    "story": {
+      "title": "Beginning again",
+      "body": "Hana had been meditating for three minutes.\n\nShe had started thinking about her friend twice. About lunch once. About a song that was stuck in her head four times. About what she was going to do after about three times.\n\nThat was ten times her mind had wandered in three minutes.\n\nShe felt like she was terrible at this.\n\nShe told her dad.\n\nHer dad smiled. 'You've just done the practice ten times.'\n\n'What?'\n\n'Every time your mind wanders and you notice and come back — that's the whole practice. You just did it ten times in three minutes. That's not failure. That's ten repetitions.'\n\nHana thought about this.\n\n'So there's no point where you get good at it? Where it doesn't wander?'\n\n'The mind always wanders,' said her dad. 'Even after years. But the coming back gets faster. And the noticing gets gentler. And you start to feel at home in the practice rather than behind in it.'\n\nHana sat down again.\n\nBeginning again.",
+      "discussion_prompt": "Is there something in your life where beginning again — after not succeeding — is part of the practice itself? What does that feel like?"
+    },
+    "explore": [
+      {
+        "question": "What does 'the practice is the practice' mean?",
+        "answer": "It means that mindfulness is not something you eventually master — it is something you repeatedly return to. The mind wanders. You notice. You come back. That noticing and returning is the whole practice. You don't fail at mindfulness by having a wandering mind. You succeed at mindfulness by noticing the wandering and coming back. The coming back is everything."
+      },
+      {
+        "question": "What changes with practice if the mind always wanders?",
+        "answer": "The noticing gets faster — you catch the wandering sooner. The returning gets gentler — less self-judgment, more ease. The sense of being at home in the practice deepens. And something shifts in the relationship to difficulty: you become more comfortable with impermanence, with starting over, with the ongoing nature of practice. These changes are real and measurable."
+      },
+      {
+        "question": "How do you know the practice is working?",
+        "answer": "Not by having fewer wandering thoughts. By how you handle the ones you have. By the quality of the returning. By how you treat yourself when you've wandered. By whether the practices feel more available to you in difficult moments. By whether the people around you notice something different — more presence, more patience, more genuine attention."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Mindful",
+        "name": "Ten beginnings",
+        "description": "Sit for five minutes. Count how many times you return to the breath after wandering. Each return is a beginning. Each beginning is the practice. At the end, share your count. The person with the most beginnings did the most practice — not the fewest."
+      },
+      {
+        "type": "Creative",
+        "name": "The practice map",
+        "description": "Draw a visual map of your mindfulness practice from this world. Mark where you began, the practices you learned, the moments that surprised you, the ones that were hard, the ones that helped. Where are you now? This is a record of your journey — add it to The Book."
+      },
+      {
+        "type": "Game",
+        "name": "The favourite return",
+        "description": "Each person shares their favourite 'return' — the practice they've used most, found most natural, or relied on most. Why that one? What was it about it that worked? Celebrate the specificity of your own practice. Not everyone returns the same way."
+      }
+    ],
+    "journal": [
+      {
+        "prompt": "What was your biggest discovery in this Mindfulness world?"
+      },
+      {
+        "prompt": "Which practice are you most likely to keep using? Why?"
+      },
+      {
+        "prompt": "Write about a moment from this world where you were genuinely present — fully here. What was it like?",
+        "note": "Consider adding this to The Book."
+      },
+      {
+        "prompt": "For you: what has shifted in your relationship with presence, stillness, or gratitude through doing this world? Write honestly about what you take forward.",
+        "is_parent_prompt": true
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to Hana's dad, what does it mean when your mind wanders ten times in three minutes?",
+        "options": [
+          { "text": "You are terrible at meditation", "correct": false },
+          { "text": "You have done the practice ten times — each return is a repetition", "correct": true },
+          { "text": "You should stop trying", "correct": false }
+        ]
+      },
+      {
+        "question": "What actually changes with mindfulness practice?",
+        "options": [
+          { "text": "Your mind stops wandering completely", "correct": false },
+          { "text": "The noticing gets faster, the returning gets gentler, and you become more at home in the practice", "correct": true },
+          { "text": "You become incapable of negative thoughts", "correct": false }
+        ]
+      }
+    ],
+    "parallel": [
+      {
+        "concept": "The practice as teacher",
+        "body": "The Japanese concept of shoshin (beginner's mind) applied to ongoing practice captures what Hana's father is teaching: the practitioner who has been sitting for forty years and the one who has been sitting for forty days are not doing different things. They are both just returning, again and again. The quality of the returning deepens. The space of the returning widens. But the fundamental act — noticing and coming back — never changes. This is humbling and liberating in equal measure. It means there is no level at which practice becomes unnecessary. It also means there is no level at which you are behind.",
+        "practice": "Commit to a daily practice — however small — for the next four weeks. One minute is enough. The consistency matters more than the duration. Let your child see you doing it. The seen practice is more instructive than any teaching.",
+        "reading": "Pema Chödrön — When Things Fall Apart. Thich Nhat Hanh — Peace Is Every Step. Two different traditions, the same profound patience with the ongoing practice."
+      }
+    ]
+  }
+]

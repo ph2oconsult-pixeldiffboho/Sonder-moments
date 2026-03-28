@@ -1,0 +1,472 @@
+[
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 1,
+    "slug": "mindfulness-beneath-14-16-s1",
+    "title": "What mindfulness actually is — and isn't",
+    "age_band": "14-16",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "A direct, intellectually honest introduction to mindfulness for mid-adolescents — stripping away the commercialised version to reveal what the practice actually is and why it matters.",
+    "parent_guide": "Mid-adolescents are often sceptical of mindfulness because of how it is sold — as wellness product, as school intervention delivered badly, as the solution to everything. That scepticism is reasonable and should be respected rather than overcome. This session engages with the scepticism directly. Your best contribution is genuine intellectual engagement rather than persuasion.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What mindfulness actually is",
+        "answer": "Mindfulness is the practice of paying deliberate attention to the present moment — to what is actually happening, inside and outside, without immediately judging it or trying to change it. That is the entire definition. It is not relaxation (though it can produce relaxation). It is not positive thinking. It is not a spiritual practice (though it has roots in Buddhist meditation). It is a specific way of directing attention."
+      },
+      {
+        "question": "Why the scepticism is reasonable",
+        "answer": "Mindfulness has been extensively commercialised, frequently oversold, and often delivered badly. 'Mindfulness apps' that gamify attention practice are largely ineffective. School-based programmes that feel coercive produce resistance rather than skill. The wellness industry uses 'mindfulness' to mean almost anything. If you have encountered bad versions, your scepticism is appropriate. That does not mean the underlying practice is without value."
+      },
+      {
+        "question": "What the actual evidence shows",
+        "answer": "Rigorous research — not industry-funded — shows mindfulness practice produces measurable changes in: stress response (reduced cortisol), attention regulation, emotional reactivity, and structural brain changes in regions associated with self-awareness and compassion. The effect sizes are moderate but consistent. It is not a cure for anything. It is a trainable skill that improves with practice and produces real, measurable benefits."
+      },
+      {
+        "question": "Why it might be worth your attention specifically",
+        "answer": "At 14–16, you are navigating an information environment specifically engineered to fragment attention. Your attention is the product that social media platforms are selling to advertisers. Mindfulness is, at one level, the practice of reclaiming your attention from the systems designed to capture it. That framing — attention as something worth defending — tends to resonate more with adolescents than 'it will reduce your stress.'"
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "The honest experiment",
+        "description": "Before deciding whether mindfulness is worth your time, run an experiment: sit still for five minutes and pay attention to your breathing. When your mind wanders, note where it went and return. Afterwards, write down: how many times did you wander? Where did you go? What was it like to try to return? This is the actual practice. Evaluate it based on direct experience, not description."
+      }
+    ],
+    "journal": [
+      { "prompt": "What were your assumptions about mindfulness before this session? Have any of them shifted?" },
+      { "prompt": "What do you think the relationship is between your attention and your wellbeing?" },
+      { "prompt": "What would it mean to reclaim some of your attention from the systems that currently capture it?" },
+      { "prompt": "For you: how is your own attention? Is it something you have deliberate access to, or does it feel largely reactive to whatever demands it?", "is_parent_prompt": true }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "The attention economy",
+        "body": "Tristan Harris, former Google design ethicist, documented how social media platforms use slot-machine mechanics, variable reward schedules, and social validation loops to maximise 'time on platform.' These mechanisms exploit the same neurological systems as addictive substances. The attention of adolescents is worth billions of dollars to these companies. Understanding this does not require abandoning digital technology — but it does change the frame from personal failure to structural design.",
+        "practice": "Track your own phone use honestly for one day using your device's screen time reporting. Note not just the total time but the pattern: how often you pick it up, what prompts you to do so, and how you feel immediately before and after.",
+        "reading": "Johann Hari — Stolen Focus. Tim Wu — The Attention Merchants."
+      }
+    ],
+    "sage_context": "Open by asking what the teenager actually thinks about mindfulness — what they've heard, whether they're sceptical, what they'd want it to be if it were actually useful. Engage with their scepticism genuinely rather than overcoming it."
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 2,
+    "slug": "mindfulness-beneath-14-16-s2",
+    "title": "Attention — your most valuable resource",
+    "age_band": "14-16",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "A serious exploration of attention — what it is, why it is finite, and why learning to direct it deliberately is one of the most important skills you can build.",
+    "parent_guide": "This session treats attention as a serious subject — one that most adults have never examined carefully. Your teenager is growing up in an environment specifically designed to fragment attention. This session offers a framework for understanding that. Come to it as a fellow explorer — your own attention is equally worth examining.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What is attention, exactly?",
+        "answer": "Attention is the selective focus of consciousness — the process by which some information enters your awareness while most is filtered out. At any moment, your senses are receiving millions of bits of information. Your attention selects a tiny fraction of those for conscious processing. What you attend to shapes what you think, feel, and ultimately do. Attention is not passive — it is a choice, though often an unconscious one."
+      },
+      {
+        "question": "Why is attention finite?",
+        "answer": "The prefrontal cortex — the brain's executive control system that directs deliberate attention — has limited capacity and fatigues with use. This is called 'directed attention fatigue.' After sustained periods of deliberate focus, the quality of attention degrades: decision-making worsens, emotional regulation suffers, creativity declines. Recovery requires rest or exposure to what psychologist Stephen Kaplan calls 'soft fascination' — naturally interesting stimuli that restore attention without demanding it."
+      },
+      {
+        "question": "What determines where your attention goes?",
+        "answer": "Several competing systems: deliberate intent (what you consciously choose to attend to), emotional salience (threats and rewards capture attention automatically), novelty response (new stimuli automatically draw attention), and social cueing (the attention of others redirects yours). Digital platforms are engineered to exploit all of these simultaneously, producing attention capture that feels voluntary but is largely involuntary."
+      },
+      {
+        "question": "What does deliberate attention practice actually train?",
+        "answer": "The same neural systems that underpin self-regulation more broadly: the prefrontal cortex and its connections to the anterior cingulate cortex, which monitors conflict between competing impulses. Regular meditation practice measurably increases grey matter density in these regions and improves their functional connectivity. In practical terms: you get better at choosing where your attention goes and maintaining it there under competing demands."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "The attention audit",
+        "description": "For one full day, keep a log of what captures your attention and how. Note: what you deliberately chose to attend to, what captured your attention without you choosing, and what you were trying to attend to when something hijacked you. At the end of the day, calculate roughly: what percentage of your waking attention was deliberate versus reactive? Most people find this ratio surprising."
+      },
+      {
+        "type": "Discussion",
+        "name": "The attention conversation",
+        "description": "Talk with your parent about both your attention habits. Where does each of your attentions go without you choosing? What are the biggest captors? What do you wish you paid more attention to? This is a conversation between equals — both parties' attention is equally worth examining."
+      }
+    ],
+    "journal": [
+      { "prompt": "What did your attention audit reveal? What surprised you?" },
+      { "prompt": "What do you most want to pay more attention to? What gets in the way?" },
+      { "prompt": "Describe a moment of genuine, full attention — when you were completely absorbed in something. What was that like?" },
+      { "prompt": "For you: what has happened to your attention over the last decade? Is it better or worse than it was? What do you think caused the change?", "is_parent_prompt": true }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "Directed attention fatigue and restoration",
+        "body": "Attention Restoration Theory (ART), developed by Rachel and Stephen Kaplan, proposes that directed attention fatigues and can be restored by exposure to natural environments. Research consistently shows that time in nature — even viewing nature from a window — reduces directed attention fatigue, restores cognitive capacity, and improves mood. This is relevant to both digital use and urban adolescent life, where access to restorative natural environments is often limited.",
+        "practice": "Take a twenty-minute walk in a natural or semi-natural environment this week — no phone. Notice what happens to the quality of your attention during and after.",
+        "reading": "Rachel and Stephen Kaplan — The Experience of Nature. Johann Hari — Stolen Focus."
+      }
+    ],
+    "sage_context": "Ask the teenager what they think they pay attention to most, then what they wish they paid attention to. Explore the gap between those two things."
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 3,
+    "slug": "mindfulness-beneath-14-16-s3",
+    "title": "The quality of your inner life",
+    "age_band": "14-16",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "An exploration of what your inner life is actually like — the background texture of your conscious experience — and why it matters more than most external circumstances.",
+    "parent_guide": "This session asks a question most adolescents have never been asked directly: what is your inner life actually like? Not your feelings about specific events, but the background texture of your consciousness. This is a philosophical and introspective session. Let it be slow and thoughtful. The quality of the conversation matters more than covering the material.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What do we mean by the 'quality of your inner life'?",
+        "answer": "Beyond specific feelings and events, there is a background texture to your conscious experience — a general quality of your inner world that persists across situations. For some people, the default inner texture is something like quiet curiosity. For others, chronic mild anxiety. For others, a kind of flatness. For others, restlessness. This background quality is not fixed — it is significantly affected by practices, habits, relationships, and attention. But most people have never examined it directly."
+      },
+      {
+        "question": "What determines the quality of your inner life?",
+        "answer": "More than almost anything else: what you habitually attend to. The quality of inner life research by psychologist Mihaly Csikszentmihalyi found that people are happiest when fully absorbed in meaningful challenge — what he called 'flow.' They are least happy when passive, distracted, or self-monitoring without purpose. The implication: how you direct your attention has more effect on the quality of your inner life than most external circumstances."
+      },
+      {
+        "question": "What is the relationship between inner life quality and external circumstances?",
+        "answer": "Significantly weaker than most people believe. Hedonic adaptation — the tendency to return to a baseline level of wellbeing after positive or negative events — means that most changes in external circumstances produce only temporary shifts in inner life quality. This cuts both ways: getting what you want does not lastingly improve your inner life; losing what you have does not lastingly worsen it. The research suggests that internal practices — attention, gratitude, relationship quality, meaning — have stronger and more durable effects."
+      },
+      {
+        "question": "What does it mean to take responsibility for the quality of your inner life?",
+        "answer": "It means treating your inner life as something you have agency over — something shaped by choices about attention, practice, and relationship — rather than something that happens to you as a result of circumstances. This is a demanding idea. It does not mean that difficult external circumstances don't matter. It means that given any set of circumstances, the quality of your inner life is not entirely determined by them."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Reflection",
+        "name": "The inner life audit",
+        "description": "Write honestly about the background texture of your inner life right now. Not specific events or feelings — the background. What is the general quality of your consciousness most of the time? Restless? Quietly anxious? Curious? Flat? Alive? What would you change about it if you could? What do you think produces it?"
+      }
+    ],
+    "journal": [
+      { "prompt": "Describe the background texture of your inner life — the quality of your consciousness most of the time, not just in specific emotional moments." },
+      { "prompt": "What circumstances do you think would most improve your inner life? Do you believe they actually would? Why?" },
+      { "prompt": "What practices or habits most reliably improve the quality of your inner life? What degrades it?" },
+      { "prompt": "For you: what is the quality of your own inner life right now, honestly? What are you attending to, and how does that affect it?", "is_parent_prompt": true }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "Flow and the optimal experience",
+        "body": "Mihaly Csikszentmihalyi's research on flow — the state of complete absorption in meaningful, challenging activity — found it to be the experiential correlate of peak wellbeing. Flow requires a specific balance: the challenge of the activity must match the skill level of the person (too easy produces boredom; too hard produces anxiety). The conditions for flow in adolescence are being systematically eroded by digital entertainment, which provides stimulation without challenge and entertainment without meaning.",
+        "practice": "Identify one activity in your life that sometimes produces flow — complete absorption. Schedule thirty minutes of it this week with no distractions. Notice what the inner texture is like during and after.",
+        "reading": "Mihaly Csikszentmihalyi — Flow: The Psychology of Optimal Experience."
+      }
+    ],
+    "sage_context": "Ask the teenager to describe the background texture of their inner life as honestly as they can. Follow their description with genuine curiosity — what produces that texture? What would change it?"
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 4,
+    "slug": "mindfulness-beneath-14-16-s4",
+    "title": "Gratitude without performance",
+    "age_band": "14-16",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "A direct examination of gratitude — what the research actually shows, why performative gratitude is useless, and what genuine gratitude practice looks like.",
+    "parent_guide": "Mid-adolescents often have complex feelings about gratitude — it can feel like something adults use to manage them ('you should be grateful for what you have'), which makes it defensive territory. This session approaches it entirely differently: as a practice with real neurological mechanisms, supported by evidence, worth taking seriously on its own terms. Come to it with genuine intellectual interest rather than as a lesson to deliver.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What the research actually shows about gratitude",
+        "answer": "Emmons and McCullough's research — among the most replicated findings in positive psychology — shows that writing three specific good things per day for three weeks produces significant, lasting improvements in wellbeing, life satisfaction, and positive affect. The effects persist after the practice ends. Critically: specificity matters enormously. 'I had a good day' produces minimal effect. 'The specific quality of the light at dusk on the walk home' produces measurable neurological change."
+      },
+      {
+        "question": "Why performative gratitude doesn't work",
+        "answer": "Gratitude as social performance — saying what you are grateful for because someone expects you to — activates the social evaluation system and produces stress rather than genuine positive affect. The neurological mechanism that produces wellbeing requires genuine, specific, spontaneous noticing of something good. It cannot be faked or forced. This is why gratitude practices that feel coercive (mandatory gratitude journals, being told to be grateful) are ineffective and often counter-productive."
+      },
+      {
+        "question": "What genuine gratitude actually involves",
+        "answer": "Three elements: noticing something good (attention), recognising that the good did not come solely from yourself (attribution), and feeling something genuine in response (affect). The attribution component is interesting — gratitude is specifically different from simple enjoyment. You can enjoy a sunset; you feel grateful that a sunset exists. This other-directedness — toward the world, toward other people, toward existence itself — is part of what makes gratitude an antidote to the self-absorption that characterises much suffering."
+      },
+      {
+        "question": "What about things that are genuinely hard?",
+        "answer": "Genuine gratitude is compatible with — and often deepened by — difficulty. Some of the most powerful gratitude research involves people in genuinely difficult circumstances finding specific things to appreciate. This is not toxic positivity — it is not 'be grateful, things could be worse.' It is the cognitive move of finding what is genuinely good, without denying what is genuinely hard. Both are true simultaneously."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "Seven days of specific gratitude",
+        "description": "For seven days, write three genuinely specific things you noticed today that were good. The test for genuine specificity: could you write the same three things tomorrow? If yes, they are not specific enough. 'The particular way my friend laughed at something stupid' passes. 'My friends' does not. Keep the list. Review it at the end of seven days."
+      },
+      {
+        "type": "Discussion",
+        "name": "The honest gratitude conversation",
+        "description": "Talk with your parent about what you are each genuinely grateful for right now — not what you think you should be grateful for. Notice whether the things you name are specific or vague. Notice whether any of them involve each other. This conversation often produces surprising honesty."
+      }
+    ],
+    "journal": [
+      { "prompt": "What three specific things are you genuinely grateful for today — things specific enough that you couldn't write them again tomorrow?" },
+      { "prompt": "Is there something in your life that is genuinely difficult, alongside which you can also find something genuine to appreciate?" },
+      { "prompt": "What is your relationship with gratitude as an idea? Does it feel like something adults use to manage you, or something you can genuinely access?" },
+      { "prompt": "For you: what are you genuinely, specifically grateful for today? Be as honest and specific as you are asking your teenager to be.", "is_parent_prompt": true }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "Negativity bias and its correction",
+        "body": "The human brain's negativity bias — the tendency to weight negative information more heavily than equivalent positive information — evolved as a survival mechanism. In an environment of genuine physical threat, attending primarily to danger was adaptive. In modern life, this bias produces chronic over-attention to threat and under-attention to the good that coexists with it. Gratitude practice is, at one level, a deliberate correction of this evolutionary miscalibration.",
+        "practice": "Notice this week how often your attention is captured by what is wrong, difficult, or missing in a situation versus what is good or present. Not as criticism — as observation. Then practise one deliberate noticing of something good in each situation where you notice the negativity bias activating.",
+        "reading": "Rick Hanson — Hardwiring Happiness. An accessible account of the negativity bias and how to work with it."
+      }
+    ],
+    "sage_context": "Ask the teenager to name one thing they are genuinely grateful for right now — something specific. Follow up with genuine curiosity about why that thing matters to them."
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 5,
+    "slug": "mindfulness-beneath-14-16-s5",
+    "title": "Solitude and boredom — the underrated skills",
+    "age_band": "14-16",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "A serious examination of solitude and boredom — what they are for, why they have become rare, and why developing tolerance for both is increasingly important.",
+    "parent_guide": "This is the session that most directly addresses something specific to your teenager's generation: the near-total elimination of boredom and solitude through ubiquitous digital engagement. Approach it without the implication that previous generations had it right. The question is simply: what is lost when boredom and solitude disappear, and is it worth recovering?",
+    "story": null,
+    "explore": [
+      {
+        "question": "What is boredom actually for?",
+        "answer": "Boredom is a motivational state that arises when the current activity is insufficiently stimulating. Neuroscience research by Sandi Mann and others shows that boredom activates the default mode network — the brain's internal processing system — producing increased creative thinking, mind-wandering that generates novel connections, and a drive toward more meaningful engagement. Boredom, allowed rather than immediately eliminated, is the precondition for creativity and self-directed motivation."
+      },
+      {
+        "question": "What happens when boredom is never allowed?",
+        "answer": "The default mode network is consistently suppressed. The internal processing that produces creative insight, autobiographical integration, and genuine self-knowledge doesn't occur. People become dependent on external stimulation and progressively less able to generate internal engagement. Research on adolescents with high smartphone use shows reduced capacity for sustained internal attention — not because of damage, but because it was never practised."
+      },
+      {
+        "question": "What is solitude, as distinct from loneliness?",
+        "answer": "Solitude is chosen aloneness — time spent alone that is generative rather than painful. Loneliness is unchosen isolation that produces distress. Solitude has been essential to creative, intellectual, and spiritual development across cultures and centuries. The capacity for productive solitude — to be alone with your thoughts in a way that generates rather than tortures — is increasingly rare and increasingly valuable."
+      },
+      {
+        "question": "Why do both feel uncomfortable at first?",
+        "answer": "Because they require tolerating an absence of stimulation that the nervous system has been conditioned to expect. The discomfort of early boredom or solitude is real — but it is not dangerous. It is the sensation of the default mode network activating in a system that has been kept externally stimulated. With practice, the discomfort diminishes and what lies on the other side becomes accessible."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "Thirty minutes of nothing",
+        "description": "Spend thirty minutes doing nothing — no phone, no music, no reading, no conversation. Sit or lie down. Allow whatever arises. Do not try to meditate or be productive. Just be bored if that is what happens. Afterwards, write for ten minutes about what occurred — in your mind, in your body, what you noticed. This is a significant experiment for most teenagers."
+      },
+      {
+        "type": "Discussion",
+        "name": "The solitude conversation",
+        "description": "Talk with your parent about each of your relationships with solitude. Do you seek it? Avoid it? What happens when you are alone with your thoughts? When did you last have genuine solitude — not loneliness, but chosen, generative aloneness? Compare your experiences honestly."
+      }
+    ],
+    "journal": [
+      { "prompt": "When did you last have genuine solitude — chosen, sustained time alone with your thoughts? What was it like?" },
+      { "prompt": "Describe your relationship with boredom. Do you eliminate it immediately? What do you reach for when it arrives?" },
+      { "prompt": "What do you think you might find if you allowed more boredom and solitude into your life? What are you afraid you might find?" },
+      { "prompt": "For you: how comfortable are you with solitude? When did you last sit with your thoughts without filling the space?", "is_parent_prompt": true }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "Deep work and the cost of distraction",
+        "body": "Cal Newport's research on cognitive performance found that 'deep work' — sustained, focused, cognitively demanding work without distraction — is both increasingly rare and increasingly valuable in the modern economy. The capacity for deep work requires the same underlying neurological infrastructure as productive solitude: a trained ability to sustain attention and tolerate the absence of external stimulation. These capacities are trainable but require deliberate practice — and deliberate protection of the conditions that make them possible.",
+        "practice": "Schedule one ninety-minute block this week with no phone, no notifications, and no music. Use it for whatever matters most to you — studying, creating, thinking, planning. Notice what the cognitive quality is like compared to your normal fragmented attention.",
+        "reading": "Cal Newport — Deep Work. Michael Harris — Solitude: In Pursuit of a Singular Life in a Crowded World."
+      }
+    ],
+    "sage_context": "Ask the teenager what they think they would find if they sat alone with their thoughts for thirty minutes. What do they imagine would arise? What do they think they are avoiding when they reach for a phone?"
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 6,
+    "slug": "mindfulness-beneath-14-16-s6",
+    "title": "Mindfulness and the body under stress",
+    "age_band": "14-16",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "A practical, science-based session on using body awareness and mindfulness practices to work with stress — not eliminate it, but change your relationship to it.",
+    "parent_guide": "This is the most practically focused session in the 14–16 Mindfulness track. Mid-adolescents face genuine stress — academic, social, familial — and this session offers real tools rather than platitudes. Be honest about your own stress and how you work with it. The conversation about what actually works for each of you is the most useful part.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What stress actually is — and why eliminating it is the wrong goal",
+        "answer": "Stress is a physiological response to perceived demand — the activation of the sympathetic nervous system in preparation for meeting a challenge. Mild to moderate stress actually improves performance across most tasks (the Yerkes-Dodson curve). The problem is not stress itself but: chronic activation without recovery, stress about stress (the meta-level anxiety that you shouldn't be stressed), and the inability to distinguish between productive arousal and harmful overload."
+      },
+      {
+        "question": "What Kelly McGonigal's research revealed",
+        "answer": "McGonigal's research, initially developed from a famous Stanford lecture, showed that the effect of stress on health outcomes is significantly moderated by people's beliefs about stress. People who believed stress was harmful showed the expected negative health outcomes. People who believed stress was an enhancement — a sign that the body was preparing to meet a challenge — showed different outcomes. The belief changed the physiology. This does not mean stress is never harmful. It means your relationship to stress matters as much as its presence."
+      },
+      {
+        "question": "How body awareness helps with stress",
+        "answer": "Mindful body awareness — noticing what stress feels like physically without immediately trying to eliminate it — does two things: it engages the prefrontal cortex (improving regulation) and it provides information about the nature and intensity of the stress response. People who can accurately perceive their own physiological state are better able to regulate it. The first step of working with stress is usually knowing exactly what it feels like in your particular body."
+      },
+      {
+        "question": "What actually works for acute stress",
+        "answer": "The physiological sigh (two quick inhales, long exhale) activates the parasympathetic nervous system within seconds. Cold exposure (cold water on face/wrists) activates the dive reflex and lowers heart rate. Physical movement burns the cortisol and adrenaline that the stress response produces. Cognitive reappraisal — deliberately reinterpreting the arousal as readiness rather than threat — changes the phenomenology and physiology simultaneously. And disclosed stress (telling someone you're stressed) reduces the physiological response."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "The stress body map",
+        "description": "Draw your body and mark exactly where and how stress manifests physically in you — not in general, but specifically. Tight chest? Shallow breathing? Clenched jaw? Stomach tension? Restless legs? The more precisely you can map your stress response, the more quickly you can recognise it and intervene early, before it becomes overwhelming."
+      },
+      {
+        "type": "Practice",
+        "name": "The reappraisal practice",
+        "description": "The next time you notice pre-performance anxiety — before an exam, a presentation, a difficult conversation — try saying to yourself: 'My body is preparing me for this. This arousal is readiness.' Notice whether this changes the felt quality of the experience. This is a cognitive reappraisal technique with solid evidence behind it."
+      }
+    ],
+    "journal": [
+      { "prompt": "Map your stress response as precisely as you can. Where does it live in your body? What are its early warning signs?" },
+      { "prompt": "What is your current relationship with stress — do you believe it is harmful, or do you have any access to the idea that it is preparation?" },
+      { "prompt": "What has worked for you when stress has been high? What has not worked?" },
+      { "prompt": "For you: what is your stress physiology like? How do you work with it? What do you model for your teenager about stress and how to meet it?", "is_parent_prompt": true }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "The stress-performance relationship",
+        "body": "The Yerkes-Dodson law describes the inverted-U relationship between arousal and performance: both insufficient arousal (boredom, low motivation) and excessive arousal (panic, overwhelm) produce poor performance, while moderate arousal produces optimal performance. The practical implication: the goal before a challenging situation is not to eliminate stress but to find the right level of activation. Mindfulness practices that reduce excessive arousal while maintaining engagement produce better outcomes than those that simply aim for calm.",
+        "practice": "Before a challenging situation this week, notice your arousal level and try to calibrate rather than eliminate: if very high, use the physiological sigh; if very low, use physical movement or music to increase activation. Notice whether calibrating rather than eliminating produces a different quality of performance.",
+        "reading": "Kelly McGonigal — The Upside of Stress. Highly relevant and accessible."
+      }
+    ],
+    "sage_context": "Ask the teenager what their stress response feels like physically — where they feel it, what its quality is. Then explore what they currently do with it and what they think would happen if they tried reappraisal."
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 7,
+    "slug": "mindfulness-beneath-14-16-s7",
+    "title": "Presence and connection",
+    "age_band": "14-16",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "An exploration of the relationship between mindful presence and genuine human connection — how being truly present with another person is one of the most valuable things you can offer.",
+    "parent_guide": "This session addresses something mid-adolescents feel acutely but rarely examine: the quality of presence in relationships. The difference between being physically in a room with someone and being genuinely present to them. This session asks your teenager to examine that difference — and asks you to do the same. The conversation you have while discussing this will itself be an example of the practice.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What does it mean to be genuinely present to another person?",
+        "answer": "It means your attention is fully on them — not planning your response while they speak, not monitoring your phone, not processing your own thoughts about what they are saying. It means listening to understand rather than to respond. Research by Ting-Toomey and others shows that people can reliably sense whether they are receiving genuine attention or performed attention — and that the quality of the connection is dramatically different in each case."
+      },
+      {
+        "question": "How does phone use affect presence in relationships?",
+        "answer": "Research by Andrew Przybylski and Netta Weinstein found that simply having a phone visible during a conversation — even face-down — significantly reduces the depth of connection reported by both parties, and is particularly harmful to conversations about personally meaningful topics. The phone does not have to be in use. Its presence signals that attention is potentially divided, which activates social threat monitoring and reduces openness."
+      },
+      {
+        "question": "What does genuine listening actually involve?",
+        "answer": "Carl Rogers, one of the most influential psychologists of the twentieth century, identified 'active listening' — listening to truly understand rather than evaluate or respond — as the single most powerful element in therapeutic change. Its components: full attention, reflection of the emotional content (not just the words), suspension of judgment, and tolerance for silence. These are trainable skills that transform the quality of relationships when practised."
+      },
+      {
+        "question": "What is the relationship between your presence to yourself and your presence to others?",
+        "answer": "Paradoxically, the practices of mindfulness that build self-awareness — attending to your own inner experience, noticing your thoughts and feelings — also improve your capacity to be present to others. People who are more comfortable with their own inner experience are less preoccupied with self-monitoring in social situations, freeing more of their attention for genuine presence to the other person."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Practice",
+        "name": "The full-presence conversation",
+        "description": "Have a fifteen-minute conversation with your parent — no phones in the room, no other tasks. Both people listen to genuinely understand rather than to respond. After each person speaks, the listener reflects back what they heard before responding — not their own thoughts, but what they understood. Notice how different this feels from a normal conversation."
+      },
+      {
+        "type": "Reflection",
+        "name": "The presence audit",
+        "description": "Think about the three relationships most important to you. Rate honestly (1–10) how present you actually are in each: how often your attention is genuinely on the other person versus divided or performing. What drives the gaps? What would change if you increased your presence by one point in each?"
+      }
+    ],
+    "journal": [
+      { "prompt": "Who in your life makes you feel most genuinely heard? What do they do that produces that feeling?" },
+      { "prompt": "When are you most present with the people who matter to you? When are you most absent?" },
+      { "prompt": "What would it mean to offer genuine presence as a deliberate practice in your most important relationships?" },
+      { "prompt": "For you: how present are you to your teenager, honestly? What does your attention feel like when you are with them? What competes with it?", "is_parent_prompt": true }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "Attachment theory and presence",
+        "body": "Daniel Stern's research on mother-infant interaction identified 'attunement' — the parent's accurate mirroring of the infant's emotional state — as the primary mechanism through which secure attachment develops. Attunement is impossible without genuine presence: you cannot mirror what you are not attending to. This attunement need does not disappear in adolescence — it simply becomes less visible. Teenagers need to feel genuinely attended to, not just physically present to. The quality of your presence is as important at 15 as it was at 15 months.",
+        "practice": "Have one conversation with your teenager this week in which your sole intention is to understand what they are saying — not to respond, not to advise, not to worry about it afterwards. Just attend and understand. Notice what this produces.",
+        "reading": "Carl Rogers — On Becoming a Person. The chapter on active listening is one of the most practically useful twenty pages in psychology."
+      }
+    ],
+    "sage_context": "Ask the teenager about the quality of presence they receive in their most important relationships — and the quality of presence they offer. Explore both sides with equal curiosity."
+  },
+  {
+    "world_slug": "mindfulness",
+    "lesson_number": 8,
+    "slug": "mindfulness-beneath-14-16-s8",
+    "title": "Building a practice that lasts",
+    "age_band": "14-16",
+    "track": "beneath",
+    "duration_mins": 15,
+    "is_sensitive": false,
+    "is_guided": false,
+    "description": "The capstone session — designing a personal mindfulness practice that is honest, sustainable, and grounded in what actually matters to you.",
+    "parent_guide": "This is the final Mindfulness session for your 14–16 year old. The goal is not to produce a teenager who meditates daily — it is to produce a teenager who has a considered, honest relationship with their attention and inner life, and who has at least one practice they can return to. Be honest about your own practice — what you do, what you have tried and abandoned, and what you are still figuring out.",
+    "story": null,
+    "explore": [
+      {
+        "question": "What makes a mindfulness practice sustainable?",
+        "answer": "It is grounded in genuine understanding of why it matters — not external pressure or social expectation. It is matched to your actual life rather than an idealised version of it. It has a minimum viable form: something so small and simple that it can be maintained even in difficult weeks. And it has room to grow — a more substantial form for when conditions allow. The biggest enemy of any practice is perfectionism: the belief that if you can't do it properly, you shouldn't do it at all."
+      },
+      {
+        "question": "What are the minimum viable forms of a mindfulness practice?",
+        "answer": "Three breaths taken deliberately before a difficult situation. One minute of genuine presence during a daily activity — a meal, a walk, a shower. A single daily question: what did I actually notice today? One specific thing to be genuinely grateful for, written down. None of these are dramatic. All of them, practised consistently, produce real change."
+      },
+      {
+        "question": "What is the relationship between mindfulness practice and the rest of the curriculum?",
+        "answer": "The practices in this world underpin everything in the other five worlds. Emotional intelligence requires noticing what you feel before you can work with it. Values clarification requires the kind of present-moment awareness that knows what matters to you now, not just what you have been told to value. Resilience requires the capacity to be with difficulty without being destroyed by it. Purpose requires the kind of quiet attention to what genuinely moves you. Mindfulness is the foundation."
+      },
+      {
+        "question": "What are you committing to going forward?",
+        "answer": "This is a question for you to answer, not for this session to prescribe. The only useful commitment is an honest one — something you will actually do, not something that sounds impressive. A daily three-breath practice maintained for a year is worth more than a month of ambitious daily meditation followed by abandonment."
+      }
+    ],
+    "activities": [
+      {
+        "type": "Reflection",
+        "name": "Design your practice",
+        "description": "Write a specific, honest description of a mindfulness practice you will actually maintain. Include: the minimum viable version (what you will do on the worst days), the fuller version (what you will do when conditions allow), and what you will use to remind yourself why it matters. Be more specific than 'meditate for ten minutes.' Name the time, the place, the exact form."
+      },
+      {
+        "type": "Discussion",
+        "name": "The commitment conversation",
+        "description": "Share your practice designs with each other. Hold each other lightly accountable — not with performance pressure but with genuine interest. Agree to check in about it in one month. This is a commitment between equals, not a parent supervising a teenager."
+      }
+    ],
+    "journal": [
+      { "prompt": "What is the mindfulness practice you are committing to? Be specific enough that you could not mistake whether you had done it." },
+      { "prompt": "What has changed about your relationship with attention and your inner life through these sessions?" },
+      { "prompt": "Which session or idea from this world has been most useful or surprising? Why?" },
+      { "prompt": "For you: what is your own mindfulness practice going forward? Write an honest commitment — not an aspirational one.", "is_parent_prompt": true }
+    ],
+    "quiz": [],
+    "parallel": [
+      {
+        "concept": "The compounding returns of practice",
+        "body": "Neuroscientific research on meditation practice shows a dose-response relationship: more practice produces greater structural brain changes. But the relationship is not linear — early practice produces the most dramatic changes per unit of time. A consistent minimal practice maintained over years produces more benefit than an intense practice abandoned after months. The most important variable in any practice is not the quality of individual sessions but the consistency of return after inevitable gaps.",
+        "practice": "Design your own minimum viable practice right now — something so small you could maintain it even in the worst week. Do it once before the end of today. Then do it again tomorrow. The habit is more important than the form.",
+        "reading": "Whatever is next for you. The practice is more important than the reading."
+      }
+    ],
+    "sage_context": "Final session of the Mindfulness world. Ask the teenager what practice they are committing to — and take the commitment seriously. Ask them to be specific. Close with warmth and genuine acknowledgement of the quality of attention they have brought to this world."
+  }
+]
