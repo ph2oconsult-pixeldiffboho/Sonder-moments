@@ -2,7 +2,6 @@ import { NextRequest } from 'next/server';
 import { supabase } from '@/lib/db/supabase';
 import { requireAuth, checkLessonAccess, apiError, apiOk } from '@/lib/middleware/auth';
 
-// GET /api/lessons/worlds
 export async function GET_worlds(req: NextRequest) {
   const auth = requireAuth(req);
   if ('status' in auth) return auth;
@@ -22,7 +21,6 @@ export async function GET_worlds(req: NextRequest) {
   return apiOk({ worlds: worlds || [] });
 }
 
-// GET /api/lessons/next/[childId]
 export async function GET_next(req: NextRequest, childId: string) {
   const auth = requireAuth(req);
   if ('status' in auth) return auth;
@@ -43,7 +41,6 @@ export async function GET_next(req: NextRequest, childId: string) {
   return apiOk({ lesson: lessons?.[0] || null });
 }
 
-// GET /api/lessons?world=slug&world_id=&age_band=&track=
 export async function GET_list(req: NextRequest) {
   const auth = requireAuth(req);
   if ('status' in auth) return auth;
@@ -53,29 +50,34 @@ export async function GET_list(req: NextRequest) {
   const ageBand = searchParams.get('age_band');
   const track = searchParams.get('track');
 
-  // If filtering by slug, look up the world_id first
+  // Resolve world slug to ID first
   let resolvedWorldId: number | null = null;
   if (worldSlug) {
-    const { data: world } = await supabase.from('worlds').select('id').eq('slug', worldSlug).single();
-    if (world) resolvedWorldId = world.id;
-    else return apiOk({ lessons: [] });
+    const { data: world } = await supabase
+      .from('worlds')
+      .select('id')
+      .eq('slug', worldSlug)
+      .single();
+    if (!world) return apiOk({ lessons: [] });
+    resolvedWorldId = world.id;
   } else if (worldId) {
     resolvedWorldId = parseInt(worldId);
   }
 
-  let query = supabase.from('lessons')
+  let query = supabase
+    .from('lessons')
     .select('id,world_id,slug,title,description,age_band,track,duration_mins,lesson_number,is_sensitive,is_guided,sort_order,worlds(name,colour,slug)')
     .order('sort_order');
 
-  if (resolvedWorldId) query = query.eq('world_id', resolvedWorldId);
+  if (resolvedWorldId !== null) query = query.eq('world_id', resolvedWorldId);
   if (ageBand) query = query.eq('age_band', ageBand);
   if (track) query = query.eq('track', track);
 
-  const { data: lessons } = await query;
+  const { data: lessons, error } = await query;
+  if (error) return apiError('Database error', 500);
   return apiOk({ lessons: lessons || [] });
 }
 
-// GET /api/lessons/[id]
 export async function GET_lesson(req: NextRequest, lessonId: string) {
   const auth = requireAuth(req);
   if ('status' in auth) return auth;
