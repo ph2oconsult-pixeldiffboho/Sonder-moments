@@ -29,7 +29,7 @@ export async function GET_next(req: NextRequest, childId: string) {
   if (!child) return apiError('Child profile not found', 404);
   const { data: completed } = await supabase.from('lesson_progress')
     .select('lesson_id').eq('child_id', childId).eq('status', 'complete');
-  const completedIds = completed?.map(p => p.lesson_id) || [];
+  const completedIds = completed?.map((p: any) => p.lesson_id) || [];
   let query = supabase.from('lessons')
     .select('id,title,description,duration_mins,age_band,worlds(name,colour,slug)')
     .eq('track', child.track).eq('age_band', child.age_band)
@@ -38,7 +38,7 @@ export async function GET_next(req: NextRequest, childId: string) {
     query = query.not('id', 'in', `(${completedIds.join(',')})`);
   }
   const { data: lessons } = await query;
-  return apiOk({ lesson: lessons?.[0] || null });
+  return apiOk({ lesson: (lessons as any)?.[0] || null });
 }
 
 export async function GET_list(req: NextRequest) {
@@ -50,31 +50,27 @@ export async function GET_list(req: NextRequest) {
   const ageBand = searchParams.get('age_band');
   const track = searchParams.get('track');
 
-  // Resolve world slug to ID first
-  let resolvedWorldId: number | null = null;
-  if (worldSlug) {
-    const { data: world } = await supabase
-      .from('worlds')
-      .select('id')
-      .eq('slug', worldSlug)
-      .single();
-    if (!world) return apiOk({ lessons: [] });
-    resolvedWorldId = world.id;
-  } else if (worldId) {
-    resolvedWorldId = parseInt(worldId);
-  }
-
+  // Build base query
   let query = supabase
     .from('lessons')
-    .select('id,world_id,slug,title,description,age_band,track,duration_mins,lesson_number,is_sensitive,is_guided,sort_order,worlds(name,colour,slug)')
+    .select('id,world_id,slug,title,description,age_band,track,duration_mins,lesson_number,is_sensitive,is_guided,sort_order,worlds!inner(id,name,colour,slug)')
     .order('sort_order');
 
-  if (resolvedWorldId !== null) query = query.eq('world_id', resolvedWorldId);
+  // Filter by world slug using inner join filter
+  if (worldSlug) {
+    query = query.eq('worlds.slug', worldSlug);
+  } else if (worldId) {
+    query = query.eq('world_id', parseInt(worldId));
+  }
+
   if (ageBand) query = query.eq('age_band', ageBand);
   if (track) query = query.eq('track', track);
 
   const { data: lessons, error } = await query;
-  if (error) return apiError('Database error', 500);
+  if (error) {
+    console.error('lessons list error:', error);
+    return apiError('Database error: ' + error.message, 500);
+  }
   return apiOk({ lessons: lessons || [] });
 }
 
