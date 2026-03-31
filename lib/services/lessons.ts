@@ -50,27 +50,31 @@ export async function GET_list(req: NextRequest) {
   const ageBand = searchParams.get('age_band');
   const track = searchParams.get('track');
 
-  // Build base query
-  let query = supabase
-    .from('lessons')
-    .select('id,world_id,slug,title,description,age_band,track,duration_mins,lesson_number,is_sensitive,is_guided,sort_order,worlds!inner(id,name,colour,slug)')
-    .order('sort_order');
-
-  // Filter by world slug using inner join filter
+  // Always resolve world slug to ID first - never use join filter
+  let resolvedWorldId: number | null = null;
   if (worldSlug) {
-    query = query.eq('worlds.slug', worldSlug);
+    const { data: world, error: wErr } = await supabase
+      .from('worlds')
+      .select('id')
+      .eq('slug', worldSlug)
+      .single();
+    if (wErr || !world) return apiOk({ lessons: [] });
+    resolvedWorldId = world.id;
   } else if (worldId) {
-    query = query.eq('world_id', parseInt(worldId));
+    resolvedWorldId = parseInt(worldId);
   }
 
+  let query = supabase
+    .from('lessons')
+    .select('id,world_id,slug,title,description,age_band,track,duration_mins,lesson_number,is_sensitive,is_guided,sort_order,worlds(name,colour,slug)')
+    .order('sort_order');
+
+  if (resolvedWorldId !== null) query = query.eq('world_id', resolvedWorldId);
   if (ageBand) query = query.eq('age_band', ageBand);
   if (track) query = query.eq('track', track);
 
   const { data: lessons, error } = await query;
-  if (error) {
-    console.error('lessons list error:', error);
-    return apiError('Database error: ' + error.message, 500);
-  }
+  if (error) return apiError('Database error: ' + error.message, 500);
   return apiOk({ lessons: lessons || [] });
 }
 
