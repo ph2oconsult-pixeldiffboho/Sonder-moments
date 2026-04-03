@@ -2541,21 +2541,25 @@ function HomeTab({ user, childProfile, onSignOut, setTab, onEditProfile, token }
   const hour = new Date().getHours();
   const greeting = hour < 12 ? 'Good morning' : hour < 17 ? 'Good afternoon' : 'Good evening';
 
-  if (showHistory) return (
-    <JourneyHistoryView
-      onBack={() => setShowHistory(false)}
-      onNewJourney={() => { setShowHistory(false); setShowNewJourney(true); }}
-      token={token}
-    />
-  );
+  if (showHistory) {
+    return (
+      <JourneyHistoryView
+        onBack={() => setShowHistory(false)}
+        onNewJourney={() => { setShowHistory(false); setShowNewJourney(true); }}
+        token={token}
+      />
+    );
+  }
 
-  if (showNewJourney) return (
-    <NewJourneyScreen
-      onBack={() => setShowNewJourney(false)}
-      onBegin={() => { setShowNewJourney(false); }}
-      ageBand={childProfile?.age_band}
-    />
-  );
+  if (showNewJourney) {
+    return (
+      <NewJourneyScreen
+        onBack={() => setShowNewJourney(false)}
+        onBegin={() => { setShowNewJourney(false); }}
+        ageBand={childProfile?.age_band}
+      />
+    );
+  }
 
   if (activeJourney) {
     return (
@@ -2642,7 +2646,7 @@ function HomeTab({ user, childProfile, onSignOut, setTab, onEditProfile, token }
                   const h = loadJourneyHistory();
                   return h.length > 0
                     ? `${h.length} ${h.length === 1 ? 'week' : 'weeks'} in — your words, your progress`
-                    : 'Your weeks, your words, where you're heading';
+                    : 'Your weeks, your words, where you\u2019re heading';
                 })()}
               </div>
             </div>
