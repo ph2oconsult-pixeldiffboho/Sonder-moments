@@ -810,7 +810,6 @@ function JourneyHistoryView({ onBack, onNewJourney, token }: { onBack: () => voi
   const [showFullBook, setShowFullBook] = useState(false);
   const [showFullVision, setShowFullVision] = useState(false);
 
-  // Fetch recent journal entries if token available
   useEffect(() => {
     if (!token) return;
     fetch('/api/journal', { headers: { Authorization: `Bearer ${token}` } })
@@ -822,7 +821,7 @@ function JourneyHistoryView({ onBack, onNewJourney, token }: { onBack: () => voi
       .catch(() => {});
   }, [token]);
 
-  // 3 rotating vision attributes — keyed by week
+  const weekNum = getISOWeek(new Date());
   const VISION_ATTRS = [
     "You reach for the exact word — not just 'fine' or 'bad'. Disappointed, not sad.",
     "You find the gap before you react. There's a moment there. You've learned to find it.",
@@ -835,7 +834,6 @@ function JourneyHistoryView({ onBack, onNewJourney, token }: { onBack: () => voi
     "You follow what genuinely fascinates you, even when it doesn't make sense yet.",
     "You know you can change. You've already seen it happen.",
   ];
-  const weekNum = getISOWeek(new Date());
   const visibleAttrs = [
     VISION_ATTRS[weekNum % VISION_ATTRS.length],
     VISION_ATTRS[(weekNum + 3) % VISION_ATTRS.length],
@@ -847,9 +845,17 @@ function JourneyHistoryView({ onBack, onNewJourney, token }: { onBack: () => voi
     catch(e) { return ''; }
   };
 
-  if (showFullBook) {
-    // Inline full book view
-    return (
+  const INLINE_WORLDS = [
+    { world: 'Emotions', colour: '#C8A04A', attrs: ["You reach for the exact word — not just 'fine' or 'bad'.", "You feel it without becoming it. Anger visits. It isn't who you are.", "You find the gap before you react.", "You got curious about your own patterns."] },
+    { world: 'Mindfulness', colour: '#534AB7', attrs: ["You found your pause button.", "You know what being present feels like — and notice when you're somewhere else.", "You catch what's good, even on a hard day."] },
+    { world: 'Growth', colour: '#3C6E5A', attrs: ["You know you can change. You've seen it happen.", "You treat setbacks as data, not verdict.", "You stopped measuring yourself against other people."] },
+    { world: 'Empathy', colour: '#7A6A9A', attrs: ["You listen to understand, not to reply.", "You know how to repair things after conflict.", "You're genuinely curious about people different from you."] },
+    { world: 'Values', colour: '#2A1F4A', attrs: ["You know what you stand for.", "You do the right thing when no one is watching.", "You can hold two values that conflict — and sit with that honestly."] },
+    { world: 'Purpose', colour: '#D85A30', attrs: ["You have a sense of what you're for.", "You follow what genuinely fascinates you.", "You know you're writing your own story."] },
+  ];
+
+  const renderContent = () => {
+    if (showFullBook) return (
       <div style={{ flex: 1, background: '#F7F4FB', overflowY: 'auto' }}>
         <div style={{ background: '#fff', padding: '16px 20px', borderBottom: '0.5px solid rgba(0,0,0,0.08)', position: 'sticky', top: 0, zIndex: 10 }}>
           <button onClick={() => setShowFullBook(false)} style={{ color: '#534AB7', fontSize: 14, fontWeight: 600, background: 'none', border: 'none', cursor: 'pointer', padding: 0 }}>← Back</button>
@@ -859,7 +865,7 @@ function JourneyHistoryView({ onBack, onNewJourney, token }: { onBack: () => voi
           <p style={{ fontSize: 13, color: '#7A6A9A', margin: '0 0 24px' }}>In the order you wrote it.</p>
           {recentEntries.length === 0 ? (
             <div style={{ textAlign: 'center', padding: '48px 24px' }}>
-              <p style={{ fontSize: 15, color: '#2A1F4A', fontWeight: 600, lineHeight: 1.6, marginBottom: 12 }}>This is where your story will begin.</p>
+              <p style={{ fontSize: 15, color: '#2A1F4A', fontWeight: 600, lineHeight: 1.6, marginBottom: 12 }}>This is the beginning.</p>
               <p style={{ fontSize: 14, color: '#7A6A9A', lineHeight: 1.9 }}>
                 Not the big moments —<br />the small things you start to notice.<br /><br />
                 It won't feel like much at first.<br />Then one day, it will.
@@ -875,10 +881,8 @@ function JourneyHistoryView({ onBack, onNewJourney, token }: { onBack: () => voi
         </div>
       </div>
     );
-  }
 
-  if (showFullVision) {
-    return (
+    if (showFullVision) return (
       <div style={{ flex: 1, background: '#F7F4FB', overflowY: 'auto' }}>
         <div style={{ background: '#fff', padding: '16px 20px', borderBottom: '0.5px solid rgba(0,0,0,0.08)', position: 'sticky', top: 0, zIndex: 10 }}>
           <button onClick={() => setShowFullVision(false)} style={{ color: '#534AB7', fontSize: 14, fontWeight: 600, background: 'none', border: 'none', cursor: 'pointer', padding: 0, marginBottom: 12 }}>← Back</button>
@@ -887,16 +891,9 @@ function JourneyHistoryView({ onBack, onNewJourney, token }: { onBack: () => voi
         </div>
         <div style={{ padding: '20px 20px 48px' }}>
           <p style={{ fontSize: 14, color: '#2A1F4A', lineHeight: 1.7, marginBottom: 24, padding: '16px 18px', background: '#fff', borderRadius: 14, borderLeft: '3px solid #534AB7' }}>
-            These aren't goals. They're directions — things you grow toward slowly, through ordinary moments.
+            These aren't goals to hit. They're directions to grow toward — slowly, over years of small moments. The most powerful thing you'll ever do is let your child watch you try.
           </p>
-          {[
-            { world: 'Emotions', colour: '#C8A04A', attrs: ["You reach for the exact word — not just 'fine' or 'bad'.", "You feel it without becoming it. Anger visits. It isn't who you are.", "You find the gap before you react.", "You got curious about your own patterns."] },
-            { world: 'Mindfulness', colour: '#534AB7', attrs: ["You found your pause button.", "You know what being present feels like — and notice when you're somewhere else.", "You catch what's good, even on a hard day."] },
-            { world: 'Growth', colour: '#3C6E5A', attrs: ["You know you can change. You've seen it happen.", "You treat setbacks as data, not verdict.", "You stopped measuring yourself against other people."] },
-            { world: 'Empathy', colour: '#7A6A9A', attrs: ["You listen to understand, not to reply.", "You know how to repair things after conflict.", "You're genuinely curious about people different from you."] },
-            { world: 'Values', colour: '#2A1F4A', attrs: ["You know what you stand for.", "You do the right thing when no one is watching.", "You can hold two values that conflict — and sit with that honestly."] },
-            { world: 'Purpose', colour: '#D85A30', attrs: ["You have a sense of what you're for.", "You follow what genuinely fascinates you.", "You know you're writing your own story."] },
-          ].map((w, wi) => (
+          {INLINE_WORLDS.map((w, wi) => (
             <div key={wi} style={{ marginBottom: 24 }}>
               <div style={{ fontSize: 11, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.06em', color: w.colour, marginBottom: 10 }}>{w.world}</div>
               {w.attrs.map((attr, ai) => (
@@ -909,108 +906,99 @@ function JourneyHistoryView({ onBack, onNewJourney, token }: { onBack: () => voi
         </div>
       </div>
     );
-  }
 
-  return (
-    <div style={{ flex: 1, background: '#F7F4FB', overflowY: 'auto' }}>
-      {/* Header */}
-      <div style={{ background: '#fff', padding: '16px 20px', borderBottom: '0.5px solid rgba(0,0,0,0.08)', position: 'sticky', top: 0, zIndex: 10 }}>
-        <button onClick={onBack} style={{ color: '#534AB7', fontSize: 14, fontWeight: 600, background: 'none', border: 'none', cursor: 'pointer', padding: 0, marginBottom: 12 }}>← Back</button>
-        <h1 style={{ fontSize: 22, color: '#2A1F4A', fontWeight: 600, margin: 0 }}>How you're growing</h1>
-        {!isEmpty && <p style={{ fontSize: 13, color: '#7A6A9A', margin: '4px 0 0' }}>{history.length} {history.length === 1 ? 'week' : 'weeks'} in — you're building something that lasts.</p>}
-      </div>
-
-      <div style={{ padding: '20px 20px 48px' }}>
-
-        {/* ── A. Progress Timeline ── */}
-        {isEmpty ? (
-          <div style={{ textAlign: 'center', padding: '48px 20px 32px' }}>
-            <div style={{ fontSize: 40, marginBottom: 16 }}>✦</div>
-            <p style={{ fontSize: 16, color: '#2A1F4A', fontWeight: 600, marginBottom: 8 }}>This is the beginning.</p>
-            <p style={{ fontSize: 14, color: '#7A6A9A', lineHeight: 1.6 }}>Finish your first week — it'll be here when you do.</p>
-          </div>
-        ) : (
-          <div style={{ marginBottom: 32 }}>
-            <div style={{ fontSize: 11, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.07em', color: '#7A6A9A', marginBottom: 14 }}>Your weeks</div>
-            {history.map((record, i) => {
-              const colour = record.ageBand === '5-6' ? '#C8A04A'
-                : (record.ageBand === '7-8' || record.ageBand === '9-10') ? '#3C6E5A'
-                : record.ageBand === '11-13' ? '#534AB7' : '#2A1F4A';
-              const reflection = record.identityText
-                ? `"I'm someone who ${record.identityText.toLowerCase().replace(/^i'm someone who\s*/i, '')}"`
-                : record.reflectionText ? `"${record.reflectionText.slice(0, 80)}${record.reflectionText.length > 80 ? '…' : ''}"`
-                : record.selectedChip ? `You chose: ${record.selectedChip}`
-                : 'You showed up.';
-              return (
-                <div key={record.id} style={{ background: '#fff', borderRadius: 14, padding: '14px 18px', marginBottom: 10, borderLeft: `3px solid ${colour}`, boxShadow: '0 1px 6px rgba(0,0,0,0.04)' }}>
-                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 4 }}>
-                    <span style={{ fontSize: 11, color: colour, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.06em' }}>Week {record.weekNum}</span>
-                    <span style={{ fontSize: 11, color: '#ccc' }}>{fmt(record.completedDate)}</span>
+    return (
+      <div style={{ flex: 1, background: '#F7F4FB', overflowY: 'auto' }}>
+        <div style={{ background: '#fff', padding: '16px 20px', borderBottom: '0.5px solid rgba(0,0,0,0.08)', position: 'sticky', top: 0, zIndex: 10 }}>
+          <button onClick={onBack} style={{ color: '#534AB7', fontSize: 14, fontWeight: 600, background: 'none', border: 'none', cursor: 'pointer', padding: 0, marginBottom: 12 }}>← Back</button>
+          <h1 style={{ fontSize: 22, color: '#2A1F4A', fontWeight: 600, margin: 0 }}>How you're growing</h1>
+          {!isEmpty && <p style={{ fontSize: 13, color: '#7A6A9A', margin: '4px 0 0' }}>{history.length} {history.length === 1 ? 'week' : 'weeks'} in — you're building something that lasts.</p>}
+        </div>
+        <div style={{ padding: '20px 20px 48px' }}>
+          {isEmpty ? (
+            <div style={{ textAlign: 'center', padding: '48px 20px 32px' }}>
+              <div style={{ fontSize: 40, marginBottom: 16 }}>✦</div>
+              <p style={{ fontSize: 16, color: '#2A1F4A', fontWeight: 600, marginBottom: 8 }}>This is the beginning.</p>
+              <p style={{ fontSize: 14, color: '#7A6A9A', lineHeight: 1.6 }}>Finish your first week — it'll be here when you do.</p>
+            </div>
+          ) : (
+            <div style={{ marginBottom: 32 }}>
+              <div style={{ fontSize: 11, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.07em', color: '#7A6A9A', marginBottom: 14 }}>Your weeks</div>
+              {history.map((record, i) => {
+                const colour = record.ageBand === '5-6' ? '#C8A04A'
+                  : (record.ageBand === '7-8' || record.ageBand === '9-10') ? '#3C6E5A'
+                  : record.ageBand === '11-13' ? '#534AB7' : '#2A1F4A';
+                const reflection = record.identityText
+                  ? `"I'm someone who ${record.identityText.toLowerCase().replace(/^i'm someone who\s*/i, '')}"`
+                  : record.reflectionText ? `"${record.reflectionText.slice(0, 80)}${record.reflectionText.length > 80 ? '…' : ''}"`
+                  : record.selectedChip ? `You named it: ${record.selectedChip}`
+                  : 'You showed up.';
+                return (
+                  <div key={record.id} style={{ background: '#fff', borderRadius: 14, padding: '14px 18px', marginBottom: 10, borderLeft: `3px solid ${colour}`, boxShadow: '0 1px 6px rgba(0,0,0,0.04)' }}>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 4 }}>
+                      <span style={{ fontSize: 11, color: colour, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.06em' }}>Week {record.weekNum}</span>
+                      <span style={{ fontSize: 11, color: '#ccc' }}>{fmt(record.completedDate)}</span>
+                    </div>
+                    <div style={{ fontSize: 15, color: '#2A1F4A', fontWeight: 600, marginBottom: 4 }}>{record.title}</div>
+                    <div style={{ fontSize: 13, color: '#7A6A9A', fontStyle: 'italic', lineHeight: 1.5 }}>{reflection}</div>
                   </div>
-                  <div style={{ fontSize: 15, color: '#2A1F4A', fontWeight: 600, marginBottom: 4 }}>{record.title}</div>
-                  <div style={{ fontSize: 13, color: '#7A6A9A', fontStyle: 'italic', lineHeight: 1.5 }}>{reflection}</div>
-                </div>
-              );
-            })}
+                );
+              })}
+            </div>
+          )}
+          <div style={{ marginBottom: 32 }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 14 }}>
+              <div style={{ fontSize: 11, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.07em', color: '#7A6A9A' }}>Your words</div>
+              {recentEntries.length > 0 && (
+                <button onClick={() => setShowFullBook(true)} style={{ fontSize: 12, color: '#534AB7', fontWeight: 600, background: 'none', border: 'none', cursor: 'pointer', padding: 0 }}>See all →</button>
+              )}
+            </div>
+            {recentEntries.length === 0 ? (
+              <div style={{ background: '#fff', borderRadius: 14, padding: '24px 20px', textAlign: 'center' }}>
+                <p style={{ fontSize: 15, color: '#2A1F4A', fontWeight: 600, lineHeight: 1.6, marginBottom: 10 }}>This is the beginning.</p>
+                <p style={{ fontSize: 13, color: '#7A6A9A', lineHeight: 1.9, marginBottom: 20 }}>
+                  Not the big moments —<br />the small things you start to notice.<br /><br />
+                  It won't feel like much at first.<br />Then one day, it will.
+                </p>
+                <button onClick={onBack} style={{ background: '#534AB7', color: '#fff', border: 'none', borderRadius: 12, padding: '10px 20px', fontSize: 13, fontWeight: 600, cursor: 'pointer' }}>
+                  Write your first reflection →
+                </button>
+              </div>
+            ) : recentEntries.map((e: any, i: number) => (
+              <div key={e.id || i} style={{ background: '#fff', borderRadius: 14, padding: '14px 18px', marginBottom: 10, boxShadow: '0 1px 6px rgba(0,0,0,0.04)' }}>
+                <div style={{ fontSize: 11, color: '#aaa', marginBottom: 6 }}>{e.lesson?.title} · {fmt(e.updated_at)}</div>
+                <div style={{ fontSize: 13, color: '#7A6A9A', fontStyle: 'italic', marginBottom: 8, lineHeight: 1.5 }}>{e.prompt_text}</div>
+                <div style={{ fontSize: 14, color: '#2A1F4A', lineHeight: 1.7, whiteSpace: 'pre-wrap' }}>{e.response.slice(0, 120)}{e.response.length > 120 ? '…' : ''}</div>
+              </div>
+            ))}
           </div>
-        )}
-
-        {/* ── B. Your Words (Book) ── */}
-        <div style={{ marginBottom: 32 }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 14 }}>
-            <div style={{ fontSize: 11, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.07em', color: '#7A6A9A' }}>Your words</div>
-            {recentEntries.length > 0 && (
-              <button onClick={() => setShowFullBook(true)} style={{ fontSize: 12, color: '#534AB7', fontWeight: 600, background: 'none', border: 'none', cursor: 'pointer', padding: 0 }}>See all →</button>
-            )}
+          <div style={{ marginBottom: 32 }}>
+            <div style={{ fontSize: 11, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.07em', color: '#7A6A9A', marginBottom: 14 }}>Where this leads</div>
+            {visibleAttrs.map((attr, i) => (
+              <div key={i} style={{ background: '#fff', borderRadius: 12, padding: '14px 16px', marginBottom: 8, borderLeft: '3px solid rgba(83,74,183,0.25)' }}>
+                <div style={{ fontSize: 14, color: '#2A1F4A', lineHeight: 1.55 }}>{attr}</div>
+              </div>
+            ))}
+            <button onClick={() => setShowFullVision(true)} style={{ marginTop: 8, fontSize: 13, color: '#534AB7', fontWeight: 600, background: 'none', border: 'none', cursor: 'pointer', padding: '4px 0' }}>
+              Read the full picture →
+            </button>
           </div>
-          {recentEntries.length === 0 ? (
-            <div style={{ background: '#fff', borderRadius: 14, padding: '24px 20px', textAlign: 'center' }}>
-              <p style={{ fontSize: 15, color: '#2A1F4A', fontWeight: 600, lineHeight: 1.6, marginBottom: 10 }}>This is where your story will begin.</p>
-              <p style={{ fontSize: 13, color: '#7A6A9A', lineHeight: 1.9, marginBottom: 20 }}>
-                Not the big moments —<br />the small things you start to notice.<br /><br />
-                It won't feel like much at first.<br />Then one day, it will.
-              </p>
-              <button onClick={onBack} style={{ background: '#534AB7', color: '#fff', border: 'none', borderRadius: 12, padding: '10px 20px', fontSize: 13, fontWeight: 600, cursor: 'pointer' }}>
-                Write your first reflection →
-              </button>
-            </div>
-          ) : recentEntries.map((e: any, i: number) => (
-            <div key={e.id || i} style={{ background: '#fff', borderRadius: 14, padding: '14px 18px', marginBottom: 10, boxShadow: '0 1px 6px rgba(0,0,0,0.04)' }}>
-              <div style={{ fontSize: 11, color: '#aaa', marginBottom: 6 }}>{e.lesson?.title} · {fmt(e.updated_at)}</div>
-              <div style={{ fontSize: 13, color: '#7A6A9A', fontStyle: 'italic', marginBottom: 8, lineHeight: 1.5 }}>{e.prompt_text}</div>
-              <div style={{ fontSize: 14, color: '#2A1F4A', lineHeight: 1.7, whiteSpace: 'pre-wrap' }}>{e.response.slice(0, 120)}{e.response.length > 120 ? '…' : ''}</div>
-            </div>
-          ))}
-        </div>
-
-        {/* ── C. Direction (Vision) ── */}
-        <div style={{ marginBottom: 32 }}>
-          <div style={{ fontSize: 11, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.07em', color: '#7A6A9A', marginBottom: 14 }}>Where this leads</div>
-          {visibleAttrs.map((attr, i) => (
-            <div key={i} style={{ background: '#fff', borderRadius: 12, padding: '14px 16px', marginBottom: 8, borderLeft: '3px solid rgba(83,74,183,0.25)' }}>
-              <div style={{ fontSize: 14, color: '#2A1F4A', lineHeight: 1.55 }}>{attr}</div>
-            </div>
-          ))}
-          <button onClick={() => setShowFullVision(true)} style={{ marginTop: 8, fontSize: 13, color: '#534AB7', fontWeight: 600, background: 'none', border: 'none', cursor: 'pointer', padding: '4px 0' }}>
-            Read the full picture →
-          </button>
-        </div>
-
-        {/* ── D. Keep going CTA ── */}
-        <div style={{ background: '#2A1F4A', borderRadius: 16, padding: '20px 20px', textAlign: 'center' }}>
-          <p style={{ fontSize: 15, color: '#EDE8FC', fontWeight: 600, margin: '0 0 4px' }}>Keep going</p>
-          <p style={{ fontSize: 13, color: '#9A8EC8', margin: '0 0 16px', lineHeight: 1.5 }}>Each week picks up where the last one left off.</p>
-          <button onClick={onNewJourney} style={{ background: '#534AB7', color: '#fff', border: 'none', borderRadius: 12, padding: '12px 24px', fontSize: 15, fontWeight: 600, cursor: 'pointer' }}>
-            Start next week →
-          </button>
+          <div style={{ background: '#2A1F4A', borderRadius: 16, padding: '20px 20px', textAlign: 'center' }}>
+            <p style={{ fontSize: 15, color: '#EDE8FC', fontWeight: 600, margin: '0 0 4px' }}>Keep going</p>
+            <p style={{ fontSize: 13, color: '#9A8EC8', margin: '0 0 16px', lineHeight: 1.5 }}>Each week picks up where the last one left off.</p>
+            <button onClick={onNewJourney} style={{ background: '#534AB7', color: '#fff', border: 'none', borderRadius: 12, padding: '12px 24px', fontSize: 15, fontWeight: 600, cursor: 'pointer' }}>
+              Start next week →
+            </button>
+          </div>
         </div>
       </div>
-    </div>
-  );
+    );
+  };
+
+  return <>{renderContent()}</>;
 }
 
 
-// ── New Journey Screen ────────────────────────────────────────────────────
 function NewJourneyScreen({ onBack, onBegin, ageBand }: { onBack: () => void; onBegin: () => void; ageBand: string | null | undefined }) {
   const [reflection, setReflection] = useState('');
   const [step, setStep] = useState<'confirm' | 'prompt'>('confirm');
@@ -2516,22 +2504,14 @@ function ThisWeekBlock({ ageBand, childName, colour, onOpenJourney, setTab }: an
       </div>
 
       {/* ── Progression signal ── */}
-      {(() => {
-        const completedCount = (() => {
-          try {
-            const h = localStorage.getItem('sonder_journey_history');
-            return h ? JSON.parse(h).length : 0;
-          } catch(e) { return 0; }
-        })();
-        if (completedCount === 0) return null;
-        return (
-          <div style={{ padding: '10px 4px', marginBottom: 4 }}>
-            <p style={{ fontSize: 12, color: isDark ? '#9A8EC8' : '#7A6A9A', margin: 0, letterSpacing: '0.01em', lineHeight: 1.6 }}>
-              <span style={{ fontWeight: 700, color: isDark ? '#C4B8E8' : '#534AB7' }}>{completedCount} {completedCount === 1 ? 'week' : 'weeks'} in.</span> You're building something that lasts.
-            </p>
-          </div>
-        );
-      })()}
+      {((): number => { try { const h = localStorage.getItem('sonder_journey_history'); return h ? JSON.parse(h).length : 0; } catch(e) { return 0; } })() > 0 && (
+        <div style={{ padding: '10px 4px', marginBottom: 4 }}>
+          <p style={{ fontSize: 12, color: isDark ? '#9A8EC8' : '#7A6A9A', margin: 0, letterSpacing: '0.01em', lineHeight: 1.6 }}>
+            {((): string => { try { const h = localStorage.getItem('sonder_journey_history'); const n = h ? JSON.parse(h).length : 0; return n === 1 ? '1 week' : `${n} weeks`; } catch(e) { return ''; } })()}
+            {' '}in. <span style={{ fontWeight: 700, color: isDark ? '#C4B8E8' : '#534AB7' }}>You're building something that lasts.</span>
+          </p>
+        </div>
+      )}
 
       {/* ── Next week preview ── */}
       {nextJourney && dayNum >= Math.ceil(totalDays * 0.6) && (
