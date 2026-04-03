@@ -2686,35 +2686,35 @@ function BottomNav({ tab, setTab }: any) {
 function VisionTab({ onBack }: any) {
   const worlds = [
     { name: 'Emotions', colour: '#C8A04A', bg: '#faf6ec', attrs: [
-      { title: 'You reach for the exact word', desc: 'Not "fine" or "bad" — disappointed, not sad. Nervous, not scared. The more specific the word, the clearer the need.' },
+      { title: "You reach for the exact word", desc: "Not fine or bad — disappointed, not sad. Nervous, not scared. The more specific the word, the clearer the need." },
       { title: "You feel it without becoming it", desc: "Anger visits. It isn't who you are. You're the sky, not the storm — and you know the difference now." },
-      { title: 'You find the gap before you react', desc: "There's a moment between the trigger and what you do next. You've learned to find it. Not always. But more than before." },
-      { title: 'You got curious about your own patterns', desc: `When the same feeling keeps showing up, you ask "why does this happen?" instead of "what's wrong with me?"` },
+      { title: "You find the gap before you react", desc: "There's a moment between the trigger and what you do next. You've learned to find it. Not always. But more than before." },
+      { title: "You got curious about your own patterns", desc: "When the same feeling keeps showing up, you ask why does this happen instead of what's wrong with me." },
     ]},
     { name: 'Mindfulness', colour: '#534AB7', bg: '#f2f1fb', attrs: [
-      { title: 'You found your pause button', desc: "A breath, a moment — a way back to yourself when things get loud. You know where it is. You reach for it." },
-      { title: 'You know what being present feels like', desc: "Not always there. But you notice when you're somewhere else. That noticing is the practice." },
-      { title: 'You catch what's good — even on a hard day', desc: "Not forced gratitude. Real, specific things. You trained your attention to look — and it started to find them." },
+      { title: "You found your pause button", desc: "A breath, a moment — a way back to yourself when things get loud. You know where it is. You reach for it." },
+      { title: "You know what being present feels like", desc: "Not always there. But you notice when you're somewhere else. That noticing is the practice." },
+      { title: "You catch what's good — even on a hard day", desc: "Not forced gratitude. Real, specific things. You trained your attention to look — and it started to find them." },
     ]},
     { name: 'Growth', colour: '#3C6E5A', bg: '#eef4f1', attrs: [
-      { title: "You know you're not fixed", desc: '"I can't do this yet" became a real thought, not a performance. You've seen yourself change.' },
-      { title: 'You treat failure as data, not verdict', desc: "What did I find out? What would I do differently? You've practised being wrong without it meaning you're broken." },
+      { title: "You know you're not fixed", desc: "I can't do this yet became a real thought, not a performance. You've seen yourself change." },
+      { title: "You treat failure as data, not verdict", desc: "What did I find out? What would I do differently? You've practised being wrong without it meaning you're broken." },
       { title: "You stopped comparing yourself to other people", desc: "Better than yesterday's version of you. That's the only comparison worth making — and you have evidence it's possible." },
     ]},
     { name: 'Empathy', colour: '#7A6A9A', bg: '#f4f2f8', attrs: [
-      { title: 'You listen to understand, not to reply', desc: "Not waiting for your turn. You ask what someone needs before offering what you think they should do." },
+      { title: "You listen to understand, not to reply", desc: "Not waiting for your turn. You ask what someone needs before offering what you think they should do." },
       { title: "You know how to repair things", desc: "Disagreements don't have to end things. You have words for a genuine apology — and you've seen repair build trust, not weaken it." },
-      { title: "You're actually curious about people different from you", desc: "Not politely tolerant — genuinely curious. What is their life like? What do they know that you don't?" },
+      { title: "You're genuinely curious about people different from you", desc: "Not politely tolerant — actually curious. What is their life like? What do they know that you don't?" },
     ]},
     { name: 'Values', colour: '#2A1F4A', bg: '#eeedf4', attrs: [
-      { title: 'You know what you stand for', desc: "Not a list someone gave you — a compass you've tested. You feel the difference when you act against it." },
-      { title: 'You do the right thing when no one is watching', desc: 'More often than before. With less internal debate. "What do I actually believe?" has started to matter more than "what would someone think?"' },
-      { title: 'You can hold two values that conflict', desc: "Honesty and kindness. Loyalty and fairness. You know moral life is complicated — and you don't need an easy answer to take the question seriously." },
+      { title: "You know what you stand for", desc: "Not a list someone gave you — a compass you've tested. You feel the difference when you act against it." },
+      { title: "You do the right thing when no one is watching", desc: "More often than before. With less internal debate. What you actually believe has started to matter more than what someone would think." },
+      { title: "You can hold two values that conflict", desc: "Honesty and kindness. Loyalty and fairness. You know moral life is complicated — and you don't need an easy answer to take the question seriously." },
     ]},
     { name: 'Purpose', colour: '#D85A30', bg: '#faf0eb', attrs: [
-      { title: "You have a sense of what you're for", desc: 'Not a career — a direction. The things you love, keep returning to, and want to contribute. They point somewhere.' },
-      { title: 'You follow what genuinely fascinates you', desc: `"I don't know — let's find out" became something you actually say. Curiosity stopped being a trait and started being a choice.` },
-      { title: "You know you're writing your own story", desc: 'Every choice is a sentence. You're not the only author — but you're the central one. You take that seriously now.' },
+      { title: "You have a sense of what you're for", desc: "Not a career — a direction. The things you love, keep returning to, and want to contribute. They point somewhere." },
+      { title: "You follow what genuinely fascinates you", desc: "I don't know — let's find out became something you actually say. Curiosity stopped being a trait and started being a choice." },
+      { title: "You know you're writing your own story", desc: "Every choice is a sentence. You're not the only author — but you're the central one. You take that seriously now." },
     ]},
   ];
   return (
